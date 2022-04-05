@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Dr"
 title_separator          : "."
-name                     : &name "Pushpendu Kar"
-description              : &description "personal description"
+name                     : "Pushpendu Kar"
+description              : "personal description"
 url                      : https://pushpendukar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pushpendukar/pushpendukar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Pushpendu Kar"
   avatar           : "White_bkg_with_glass_1.JPG"
-  bio              : "FHEA(UK), FERCIM(EU), SMIEEE(US) Assistant Professor University of Nottingham (China campus)"
+  bio              : "FHEA(UK), FERCIM(EU), SMIEEE(US) <br> Assistant Professor <br> University of Nottingham (China campus)"
   location         : "Ningbo, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
