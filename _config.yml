@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Pushpendu Kar"
   avatar           : "White_bkg_with_glass_1.JPG"
-  bio              : "<em>FHEA, FERCIM, SMIEEE</em> <br> Assistant Professor <br> University of Nottingham (China)"
+  bio              : "<em><b>FHEA, FERCIM, SMIEEE</b></em> <br> Assistant Professor <br> University of Nottingham (China)"
   location         : "Ningbo, China"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uD84UiAAAAAJ&hl=en"
   email            : "pushpendu.kar@nottingham.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Pushpendu-Kar"
