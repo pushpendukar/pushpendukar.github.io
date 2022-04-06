@@ -12,13 +12,13 @@ I am currently working an Assistant Professor in the [School of Computer Science
 
 My full CV is available [here]().
 
-Teaching Experiences
+Teaching Experiences (7 Yrs+)
 ======
 
-Research Experiences
+Research Experiences (5 Yrs)
 ======
 
-Industry Experience
+Industry Experience (1 Yr 4 M)
 ======
 
 Academic Qualifications
