@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently working an Assistant Professor in the [School of Computer Science](https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx), [University of Nottingham (China campus)](https://www.nottingham.edu.cn/en/). Before this, I was a Postdoctoral Research Fellow at the [Norwegian University of Science and Technology](https://www.ntnu.edu/), the [National University of Singapore](https://www.nus.edu.sg/), and [Nanyang Technological University](https://www.ntu.edu.sg/). I have completed all my PhD, Master of Engineering, and Bachelor of Technology in Computer Science and Engineering. I was awarded the prestigious Erasmus Mundus Postdoctoral Fellowship of the European Commission, ERCIM Alain Bensoussan Fellowship of the European Union, and SERB OPD Fellowship of Government of India. I have received the 2020 IEEE Systems Journal Best Paper Award. I am an IEEE Senior Member. I have received four research grants for conducting research-based projects, three of them as Principal Investigator (PI). I also received many travel grants to attend conferences and doctoral colloquiums. I have more than 12 years of teaching and research experience, few of them are from highly reputed organizations around the world. I also worked as a software professional at IBM for one and a half years. I am the author of more than 40 scholarly research papers, which have been published in reputed journals and conferences, and IT magazines. I have also published two edited books. I am also an inventor of four patents. I have participated in the program committee of several conferences, worked as a team member to organize short-term courses, and delivered a few invited talks as well as Keynote Lectures in international conferences.
 
 A data-driven personal website
 ======
