@@ -10,11 +10,25 @@ redirect_from:
 
 I am currently working an Assistant Professor in the [School of Computer Science](https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx), [University of Nottingham (China campus)](https://www.nottingham.edu.cn/en/). Before this, I was a Postdoctoral Research Fellow at the [Norwegian University of Science and Technology](https://www.ntnu.edu/), the [National University of Singapore](https://www.nus.edu.sg/), and [Nanyang Technological University](https://www.ntu.edu.sg/). I have completed all my PhD, Master of Engineering, and Bachelor of Technology in Computer Science and Engineering. I was awarded the prestigious Erasmus Mundus Postdoctoral Fellowship of the European Commission, ERCIM Alain Bensoussan Fellowship of the European Union, and SERB OPD Fellowship of Government of India. I have received the 2020 IEEE Systems Journal Best Paper Award. I am an IEEE Senior Member. I have received four research grants for conducting research-based projects, three of them as Principal Investigator (PI). I also received many travel grants to attend conferences and doctoral colloquiums. I have more than 12 years of teaching and research experience, few of them are from highly reputed organizations around the world. I also worked as a software professional at IBM for one and a half years. I am the author of more than 40 scholarly research papers, which have been published in reputed journals and conferences, and IT magazines. I have also published two edited books. I am also an inventor of four patents. I have participated in the program committee of several conferences, worked as a team member to organize short-term courses, and delivered a few invited talks as well as Keynote Lectures in international conferences.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My full CV is available [here]().
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Teaching Experiences
+======
+
+Research Experiences
+======
+
+Industry Experience
+======
+
+Academic Qualifications
+======
+
+Professional Qualifications
+======
+
+Pedagogical Qualifications
+======
 
 Getting started
 ======
