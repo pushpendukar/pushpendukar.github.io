@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Dr. Pushpendu Kar"
   avatar           : "White_bkg_with_glass_1.JPG"
-  bio              : "FHEA, FERCIM, SMIEEE <br> Assistant Professor <br> University of Nottingham (China campus)"
+  bio              : "<em>FHEA, FERCIM, SMIEEE</em> <br> Assistant Professor <br> University of Nottingham (China)"
   location         : "Ningbo, China"
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uD84UiAAAAAJ&hl=en"
   email            : "pushpendu.kar@nottingham.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     :  "https://www.researchgate.net/profile/Pushpendu-Kar"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pushpendukar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/pushpendu-kar-b39576104/"
+  orcid            : "http://orcid.org/0000-0002-0896-0650"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
