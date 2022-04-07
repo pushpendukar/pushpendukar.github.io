@@ -19,7 +19,7 @@ Teaching Experiences (7 Yrs+)
   <li>Visiting Lecturer, AMIE Course, Institute of Engineers (Kharagpur Local Center), India, Oct 2011 - Nov 2013</li>
   <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India, Apr 2006 - Jul 2008</li>
   <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India, July 2005 - Apr 2006</li>
-  <li>Visiting Lecturer, Bachelor of Computer Application, IT Center, North Bengal University, India, August 2005 - Apr 2006</li>
+  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India, August 2005 - Apr 2006</li>
 </ul>
 
 Research Experiences (5 Yrs)
