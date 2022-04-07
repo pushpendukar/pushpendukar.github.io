@@ -13,22 +13,27 @@ I am currently working an Assistant Professor in the [School of Computer Science
 My full CV is available [here](/files/Pushpendu_Kar_CV.pdf).
 
 Teaching Experiences (7 Yrs+)
-======
+------
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 Research Experiences (5 Yrs)
-======
+------
 
 Industry Experience (1 Yr 4 M)
-======
+------
 
 Academic Qualifications
-======
+------
 
 Professional Qualifications
-======
+------
 
 Pedagogical Qualifications
-======
+------
 
 Getting started
 ======
