@@ -42,16 +42,28 @@ Industry Experience (1 Yr 4 M)
 Academic Qualifications
 ------
 <ul>
-  <li>PhD, Dept. of Computer Science, Indian Institute of Technology Kharagpur, India (Jan 2012 - Jan 2016)</li>
-  <li>Master of Engineering (M.E.), Dept. of Computer Science, Jadavpur University, India (Jul 2008 - Jun 2010)</li>
-  <li>Bachelor of Technology (B.Tech), Dept. of Computer Science, University of Kalyani, India (Jun 2000 - May 2004)</li>
+  <li>PhD, Dept. of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India (Jan 2012 - Jan 2016)</li>
+  <li>Master of Engineering (M.E.), Dept. of Computer Science and Engineering, Jadavpur University, India (Jul 2008 - Jun 2010)</li>
+  <li>Bachelor of Technology (B.Tech), Dept. of Computer Science and Engineering, University of Kalyani, India (Jun 2000 - May 2004)</li>
 </ul>
 
 Professional Qualifications
 ------
+<ul>
+  <li>Sun Certified Java Programmer (SCJP) 5.0, 2009</li>
+  <li>Completed eight weeks (21st May 2006 – 14th July 2006) Finishing School program form NIT Durgapur, Durgapur, India conducted by MHRD in consolation with AICTE, Department of IT, NASSCOM & IIT Roorkee, 2006</li>
+  <li>Six months course on J2EE from “STG International (Regional Office)”, Minto Park, Kolkata, India, 2005</li>
+  <li>Three months course on JAVA (Core & Advance) from “CMC Ltd.”, Gariahat, Kolkata, India, 2005</li>
+  <li>Three weeks (4th – 23rd January 2010) UGC sponsor refresher course on Wireless Ad-Hoc and Sensor Networks, Jadavpur University, Kolkata, India, 2010</li>
+  <li>Six months course on Hardware & Networking from “Computer Foundation”, Jadavpur, Kolkata, India, 2004</li>
+</ul>
 
 Pedagogical Qualifications
 ------
+<ul>
+  <li>1.	Completed Postgraduate Certificate in Higher Education (PGCHE) programme on teaching and supporting learning by following UK Professional Standards Framework (UKPSF), 2020</li>
+  <li>2.	Completed Postgraduate Certificate in Higher Education (PGCHE) programme on Curriculum Design and Assessment in Higher Education by following UK Professional Standards Framework (UKPSF), 2021</li>
+</ul>
 
 Getting started
 ======
