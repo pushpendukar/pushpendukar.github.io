@@ -19,11 +19,19 @@ Teaching Experiences (7 Yrs+)
   <li>Visiting Lecturer, AMIE Course, Institute of Engineers (Kharagpur Local Center), India, Oct 2011 - Nov 2013</li>
   <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India, Apr 2006 - Jul 2008</li>
   <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India, July 2005 - Apr 2006</li>
-  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India, August 2005 - Apr 2006</li>
+  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India, Aug 2005 - Apr 2006</li>
 </ul>
 
 Research Experiences (5 Yrs)
 ------
+<ul>
+  <li>Visiting Scientist, UNNC-NFTZ Blockchain Laboratory, China, Dec 2019 - Present</li>
+  <li>Postdoctoral Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway, Feb 2018 - Jan 2019</li>
+  <li>Postdoctoral Research Fellow, Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore, Nov 2016 - Jan 2018</li>
+  <li>Postdoctoral Research Fellow, Energy Research Institute, Nanyang Technological University, Singapore, Nov 2015 - Nov 2016</li>
+  <li>Researcher, Dept. of Electronics and Electrical Communication Engineering, IIT Kharagpur, India, Apr 2014 - Aug 2014</li>
+  <li>Senior Project Assistant, Dept. of Computer Science and Engineering, IIT Kharagpur, India, Oct 2011 - Mar 2013</li>
+</ul>
 
 Industry Experience (1 Yr 4 M)
 ------
