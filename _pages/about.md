@@ -15,29 +15,37 @@ My full CV is available [here](/files/Pushpendu_Kar_CV.pdf).
 Teaching Experiences (7 Yrs+)
 ------
 <ul>
-  <li>Assistant Professor, School of Computer Science, University of Nottingham (China campus), Mar 2019 - Present</li>
-  <li>Visiting Lecturer, AMIE Course, Institute of Engineers (Kharagpur Local Center), India, Oct 2011 - Nov 2013</li>
-  <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India, Apr 2006 - Jul 2008</li>
-  <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India, July 2005 - Apr 2006</li>
-  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India, Aug 2005 - Apr 2006</li>
+  <li>Assistant Professor, School of Computer Science, University of Nottingham, China (Mar 2019 - Present)</li>
+  <li>Visiting Lecturer, AMIE Course, Institute of Engineers (Kharagpur Local Center), India (Oct 2011 - Nov 2013)</li>
+  <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India (Apr 2006 - Jul 2008)</li>
+  <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India (July 2005 - Apr 2006)</li>
+  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India (Aug 2005 - Apr 2006)</li>
 </ul>
 
 Research Experiences (5 Yrs)
 ------
 <ul>
-  <li>Visiting Scientist, UNNC-NFTZ Blockchain Laboratory, China, Dec 2019 - Present</li>
-  <li>Postdoctoral Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway, Feb 2018 - Jan 2019</li>
-  <li>Postdoctoral Research Fellow, Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore, Nov 2016 - Jan 2018</li>
-  <li>Postdoctoral Research Fellow, Energy Research Institute, Nanyang Technological University, Singapore, Nov 2015 - Nov 2016</li>
-  <li>Researcher, Dept. of Electronics and Electrical Communication Engineering, IIT Kharagpur, India, Apr 2014 - Aug 2014</li>
-  <li>Senior Project Assistant, Dept. of Computer Science and Engineering, IIT Kharagpur, India, Oct 2011 - Mar 2013</li>
+  <li>Visiting Scientist, UNNC-NFTZ Blockchain Laboratory, China (Dec 2019 - Present)</li>
+  <li>Postdoctoral Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway (Feb 2018 - Jan 2019)</li>
+  <li>Postdoctoral Research Fellow, Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore (Nov 2016 - Jan 2018)</li>
+  <li>Postdoctoral Research Fellow, Energy Research Institute, Nanyang Technological University, Singapore (Nov 2015 - Nov 2016)</li>
+  <li>Researcher, Dept. of Electronics and Electrical Communication Engineering, IIT Kharagpur, India (Apr 2014 - Aug 2014)</li>
+  <li>Senior Project Assistant, Dept. of Computer Science and Engineering, IIT Kharagpur, India (Oct 2011 - Mar 2013)</li>
 </ul>
 
 Industry Experience (1 Yr 4 M)
 ------
+<ul>
+  <li>Associate System Engineer, IBM India Pvt. Ltd., India (Jun 2010 - Oct 2011)</li>
+</ul>
 
 Academic Qualifications
 ------
+<ul>
+  <li>PhD, Dept. of Computer Science, Indian Institute of Technology Kharagpur, India (Jan 2012 - Jan 2016)</li>
+  <li>Master of Engineering (M.E.), Dept. of Computer Science, Jadavpur University, India (Jul 2008 - Jun 2010)</li>
+  <li>Bachelor of Technology (B.Tech), Dept. of Computer Science, University of Kalyani, India (Jun 2000 - May 2004)</li>
+</ul>
 
 Professional Qualifications
 ------
