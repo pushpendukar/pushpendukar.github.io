@@ -51,3 +51,13 @@ author_profile: true
   <li>M. Roy, <b>P. Kar</b>, and N. Mukherjee, “An Enhanced Service Framework in MANETs for Application in Emergency Services,” <i>in Proceedings of the IEEE International Conference on Intelligent Network and Computing (ICINC)</i>, no.1, pp.191-198, Kuala Lumpur, Malaysia, November 2010 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
   <li>M. Roy, <b>P. Kar</b>, and N. Mukherjee, “Determining JINI Leasing Time Limits Using the Random Waypoint Mobility Model in Mobile Ad Hoc Networks,” <i>in Proceedings of the 10th IEEE International Conference on Networking and Information Technology (ICNIT)</i>, pp. 64-69, Manila, Philippines, June 2010 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
   </ol>
+<h1 style="font-size:22px">Edited Books:</h1>
+<ol>
+  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press, Taylor & Francis Group</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.qries.com/">Link</a>]</li>
+  <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://www.qries.com/">Link</a>]</li>
+</ol>
+<h1 style="font-size:22px">Book Chapters:</h1>
+<ol>
+  <li><b>P. Kar</b>, “Optimal Hole Coverage in the Presence of Dumb Node in Wireless Sensor Networks”, in Vehicular Ad-Hoc Networks: Applications and Technology, <i>Nova science publishers</i>, September 2020 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
+  <li><b>P. Kar</b> and A. Das, “Artificial Neural Networks and Learning Techniques”, in P. Samui (Eds.), Advanced Computational Techniques for Simulation-Based Engineering, <i>IGI Global</i>, USA, DOI: 10.4018/978-1-4666-9479-8.ch009, March 2016 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
+</ol>
