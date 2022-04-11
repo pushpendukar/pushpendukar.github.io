@@ -24,7 +24,7 @@ author_profile: true
   <li><b>P. Kar</b>, A. Roy, and S. Misra, “Connectivity Re-establishment in Self-organizing Sensor Networks with Dumb Nodes,” <i>ACM Transactions on Autonomous and Adaptive Systems</i>, vol. 10, no. 4, pp. 1-30, February 2016 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
   <li>A. Roy, <b>P. Kar</b>, S. Misra, and M. S. Obaidat, “D3: Distributed Approach for the Detection of Dumb Nodes in Wireless Sensor Networks,” <i>International Journal of Communication Systems</i>, vol. 30, no. 1, pp. e2913, January 2015 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
   <li><b>P. Kar</b> and S. Misra, “Detouring Dynamic Routing Holes in Stationary Wireless Sensor Networks in the Presence of Temporarily Misbehaving Nodes,” <i>International Journal of Communication Systems</i>, vol. 30, no. 4, pp. e3009, June 2015 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
-  <li>19.	S. Misra, P. Kar, A. Roy, and M. S. Obaidat, “Existence of Dumb Nodes in Stationary Wireless Sensor Network,” Journal of Systems and Software, vol. 91, pp. 135–146, May 2014 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
+  <li>19.	S. Misra, <b>P. Kar</b>, A. Roy, and M. S. Obaidat, “Existence of Dumb Nodes in Stationary Wireless Sensor Network,” Journal of Systems and Software, vol. 91, pp. 135–146, May 2014 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
 </ol>
   <h1 style="font-size:22px">International Conferences / Workshops:</h1>
   <ol>
