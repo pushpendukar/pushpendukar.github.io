@@ -61,3 +61,22 @@ author_profile: true
   <li><b>P. Kar</b>, “Optimal Hole Coverage in the Presence of Dumb Node in Wireless Sensor Networks”, in Vehicular Ad-Hoc Networks: Applications and Technology, <i>Nova science publishers</i>, September 2020 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
   <li><b>P. Kar</b> and A. Das, “Artificial Neural Networks and Learning Techniques”, in P. Samui (Eds.), Advanced Computational Techniques for Simulation-Based Engineering, <i>IGI Global</i>, USA, DOI: 10.4018/978-1-4666-9479-8.ch009, March 2016 <a href="https://www.qries.com/"><img src="/images/Pdf_icon.png" width="18" height="18"></a></li>
 </ol>
+<h1 style="font-size:22px">Magazine Articles:</h1>
+<ol>
+  <li><b>P. Kar</b>, A. Roy, and S. Goswami, “Undersea Colony: In search of Another Planet to Live In”, <i>PCQuest</i>, November 2013 [<a href="https://www.qries.com/">Link</a>]</li>
+  <li>A. Roy, <b>P. Kar</b>, and S. Goswami, “Popular Applications of Wireless Sensor Networks”, <i>PCQuest</i>, December 2012 [<a href="https://www.qries.com/">Link</a>]</li>
+  <li>A. Roy and <b>P. Kar</b>, “Simulate a Network Using NS-2”, <i>PCQuest</i>, August 2012 [<a href="https://www.qries.com/">Link</a>]</li>
+  <li><b>P. Kar</b> and S. Goswami, “Simulate a Network Using NS-3”, <i>PCQuest</i>, April 2012 [<a href="https://www.qries.com/">Link</a>]</li>
+</ol>
+<h1 style="font-size:22px">Doctoral Colloquiums:</h1>
+<ol>
+<li>S. Misra, <b>P. Kar</b>, A. Roy, and Mohammad S. Obaidat, “Existence of Dumb Nodes in Stationary Wireless Sensor Network,” <i>XRCI Open 2015 Doctoral Colloquium</i>, Bangalore, India, January 22–23, 2015</li>
+<li><b>P. Kar</b> and S. Misra, "Effects of Dumb Nodes in Stationary Distributed Wireless Sensor Networks", <i>The Fourth IDRBT Doctoral Colloquium</i>, IDRBT, Hyderabad, December 11–12, 2014</li>
+</ol>
+<h1 style="font-size:22px">Patents:</h1>
+<ol>
+  <li>A. Kumar, A. Shareef, <b>P. Kar</b>, B. K. Mallikarjuna, T. H. Koh, and S. K. Panda, “An Intelligent Lighting System for Smart Buildings Using Multi-Agent-Enabled Wireless Sensor-Actuator Network”, <i>Singapore patent</i> filed on 1st June 2018 (Ref: 10201804681P)</li>
+  <li>S. Misra, S. Goswami, <b>P. Kar</b>, and A. Roy, “PKI Enabled Time Stamped Digital Signing System Involving Certification Authority Issued Digital Certificate Cryptographic Token With Real-Time Revocation Verification”, <i>Indian patent</i> filed on 14th January 2016 (Ref: 201631001328)</li>
+  <li>S. Misra, A. Roy, <b>P. Kar</b>, and S. Goswami, “An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System”, <i>Indian patent</i> filed on 16th April 2015 (Ref: 425/KOL/2015)</li>
+  <li>S. Misra, <b>P. Kar</b>, A. Roy, and S. Goswami, “An Advanced Wireless Sensor Network System and Method for Accurate Information Gathering form a Radiation Affected Area”, <i>Indian patent</i> filed on 5th January, 2015 (Ref: 6/KOL/2015)</li>
+</ol>
