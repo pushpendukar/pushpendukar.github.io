@@ -53,8 +53,8 @@ author_profile: true
   </ol>
 <h1 style="font-size:22px">Edited Books:</h1>
 <ol>
-  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press, Taylor & Francis Group</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.qries.com/">Link</a>]</li>
-  <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://www.qries.com/">Link</a>]</li>
+  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press, Taylor & Francis Group</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.taylorfrancis.com/books/e/9781003055976">Link</a>]</li>
+  <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://novapublishers.com/shop/vehicular-ad-hoc-networks-applications-and-technology/">Link</a>]</li>
 </ol>
 <h1 style="font-size:22px">Book Chapters:</h1>
 <ol>
@@ -63,10 +63,10 @@ author_profile: true
 </ol>
 <h1 style="font-size:22px">Magazine Articles:</h1>
 <ol>
-  <li><b>P. Kar</b>, A. Roy, and S. Goswami, “Undersea Colony: In search of Another Planet to Live In”, <i>PCQuest</i>, November 2013 [<a href="https://www.qries.com/">Link</a>]</li>
-  <li>A. Roy, <b>P. Kar</b>, and S. Goswami, “Popular Applications of Wireless Sensor Networks”, <i>PCQuest</i>, December 2012 [<a href="https://www.qries.com/">Link</a>]</li>
-  <li>A. Roy and <b>P. Kar</b>, “Simulate a Network Using NS-2”, <i>PCQuest</i>, August 2012 [<a href="https://www.qries.com/">Link</a>]</li>
-  <li><b>P. Kar</b> and S. Goswami, “Simulate a Network Using NS-3”, <i>PCQuest</i>, April 2012 [<a href="https://www.qries.com/">Link</a>]</li>
+  <li><b>P. Kar</b>, A. Roy, and S. Goswami, “Undersea Colony: In search of Another Planet to Live In”, <i>PCQuest</i>, November 2013 [<a href="http://www.pcquest.com/undersea-colony-in-search-of-another-planet-to-live-in/">Link</a>]</li>
+  <li>A. Roy, <b>P. Kar</b>, and S. Goswami, “Popular Applications of Wireless Sensor Networks”, <i>PCQuest</i>, December 2012 [<a href="http://www.pcquest.com/popular-applications-wireless-sensor-networks/">Link</a>]</li>
+  <li>A. Roy and <b>P. Kar</b>, “Simulate a Network Using NS-2”, <i>PCQuest</i>, August 2012 [<a href="http://www.pcquest.com/simulate-network-using-ns-2/">Link</a>]</li>
+  <li><b>P. Kar</b> and S. Goswami, “Simulate a Network Using NS-3”, <i>PCQuest</i>, April 2012 [<a href="http://www.pcquest.com/simulate-network-using-ns-1/">Link</a>]</li>
 </ol>
 <h1 style="font-size:22px">Doctoral Colloquiums:</h1>
 <ol>
