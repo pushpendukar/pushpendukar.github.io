@@ -16,8 +16,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
-  <li><b><i>Academic Editor</b></i>, Journal of Healthcare Engineering (Impact factor: 2.68)</li>
-  <li><b><i>Editor</b></i>, American Journal of Networks and Communications, 2022 – 2024.</li>
+  <li><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering (Impact factor: 2.68)</li>
+  <li><i><b>Editor</b></i>, American Journal of Networks and Communications, 2022 – 2024.</li>
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
 <ol style="line-height:80%">
