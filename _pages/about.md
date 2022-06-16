@@ -22,17 +22,15 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[May, 2022] Congratulations to <b>Pallav Kumar Deb</b> for <b>defending his PhD Thesis </b> !
+  [Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
 <br><br>
-[December, 2021] Happy to share that I have been awarded the <b>Outstanding Volunteer Award</b> by IEEE India Council !
+[Mar, 2022] Happy to share that our paper titled <b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b> has been accepted in <b>IEEE TCSS</b> !
 <br><br>
-[November, 2021] Happy to share that I have been <b>elected a Fellow of the IEEE</b> !
+[Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b> !
 <br><br>
-[October, 2021] Congratulations to <b>Riya Tapwal</b> for <b>receiving the PMRF Fellowship 2021</b> !
+[August, 2021] Happy to share that I have been received <b>Spot Award</b> or teaching excellence and effective services to The University of Nottingham Ningbo China !
 <br><br>
-[September, 2021] Congratulations to <b>Aishwariya Chakraborty</b> for <b>receiving the Google PhD Fellowship 2021 (Systems and Networking) </b> !
-<br><br>
-[July, 2021] Congratulations to <b>Sumana Maiti</b> for <b>defending her PhD Thesis </b> !
+[July, 2021] Happy to share that I have been recognized as the <b>High Level Talent</b> by Ningbo Municipal Government, China !
 <br><br>
 
 </p>
