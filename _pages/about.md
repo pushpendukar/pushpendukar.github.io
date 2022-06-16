@@ -26,7 +26,7 @@ redirect_from:
 <br><br>
 [Mar, 2022] Happy to share that our paper titled "<b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b>" has been accepted in <b>IEEE TCSS</b> !
 <br><br>
-[Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b> !
+[Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b>, UK !
 <br><br>
 [August, 2021] Happy to share that I have been received <b>Spot Award</b> or teaching excellence and effective services to The University of Nottingham Ningbo China !
 <br><br>
