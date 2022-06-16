@@ -93,3 +93,49 @@ redirect_from:
   <li style="line-height:130%"><i><b>Organizing team member</b></i>: International Summer and Winter Term (ISWT) course at the Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
   <li style="line-height:130%"><i><b>Organizing team member</b></i>: Short Term Course on Object-Oriented Programming and Data Structure using C++, Department of Computer Science and Engineering, IIT Kharagpur, 2nd - 20th June 2014</li>
 </ol>
+<h1 style="font-size:22px">Administrative Duties:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">Act as FoSE Unit Contact Point for the School of Computer Science at the University of Nottingham Ningbo China, 2021-22</li>
+  <li style="line-height:130%">Member of Admission and International Relations committee at the University of Nottingham Ningbo China</li>
+  <li style="line-height:130%">Member of EC Committee in the School of Computer Science at the University of Nottingham Ningbo China</li>
+  <li style="line-height:130%">Held the post of Cashier at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur from 2013 to 2014</li>
+  <li style="line-height:130%">Held the post of Block Representative at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur from 2012 to 2013</li>
+</ol>
+<h1 style="font-size:22px">PhD Thesis Examiner:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">Internal Examiner of the PhD thesis of Lincan Li, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Mobile Edge Cache Technique Under Radio Access Network For The Next Generation Of Communication Networks.</li>
+</ol>
+<h1 style="font-size:22px">Paper Reviewer:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">IEEE Transactions on Network and Service Management</li>
+  <li style="line-height:130%">IEEE Transactions on Vehicular Technology</li>
+  <li style="line-height:130%">IEEE Transactions on Parallel and Distributed Systems</li>
+  <li style="line-height:130%">IEEE Transactions on Mobile Computing</li>
+  <li style="line-height:130%">IEEE Transactions on Network Science and Engineering</li>
+  <li style="line-height:130%">IEEE Transactions on Sustainable Computing</li>
+  <li style="line-height:130%">IEEE Systems Journal</li>
+  <li style="line-height:130%">IEEE Sensors Journal</li>
+  <li style="line-height:130%">IEEE Internet of Things Journal</li>
+  <li style="line-height:130%">IEEE Network</li>
+  <li style="line-height:130%">IEEE Communication Magazine</li>
+  <li style="line-height:130%">IEEE Internet of Things Magazine</li>
+  <li style="line-height:130%">Building and Environment (<i>Elsevier</i>)</li>
+  <li style="line-height:130%">Computer Networks (<i>Elsevier</i>)</li>
+  <li style="line-height:130%">Smart Health (<i>Elsevier</i>)</li>
+  <li style="line-height:130%">IET Wireless Sensor Systems</li>
+  <li style="line-height:130%">Wireless Personal Communications (<i>Springer</i>)</li>
+  <li style="line-height:130%">Telecommunication Systems (<i>Springer</i>)</li>
+  <li style="line-height:130%">International Journal of Communication Systems (<i>Wiley</i>)</li>
+  <li style="line-height:130%">Security and Communication Networks (<i>Wiley</i>)</li>
+  <li style="line-height:130%">Journal of Ambient Intelligence and Smart Environments (<i>IOS Press</i>)</li>
+  <li style="line-height:130%">International Journal of Communication Networks and Distributed Systems (<i>InderScience</i>)</li>
+  <li style="line-height:130%">Photonic Network Communications</li>
+  <li style="line-height:130%">International Journal of Engineering Business Management</li>
+  <li style="line-height:130%">Journal of Mobile Multimedia (<i>River Publisher</i>)</li>
+  <li style="line-height:130%">IEEE Globecom, 2020</li>
+  <li style="line-height:130%">International Conference on Mining Intelligence and Knowledge Exploration (MIKE), 2013</li>
+  <li style="line-height:130%">IEEE Students' Technology Symposium (IEEE TechSym), 2014, 2016</li>
+  <li style="line-height:130%">IEEE International Conference on Communication (ICC), 2015, 2018, 2020</li>
+  <li style="line-height:130%">IEEE Vehicular Technology Conference (VTC) 2016</li>
+  <li style="line-height:130%">IEEE International Conference on Cyber-Physical and Social Computing (CPSCom), 2019</li>
+</ol>
