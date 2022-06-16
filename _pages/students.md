@@ -46,7 +46,7 @@ redirect_from:
   <li style="line-height:130%">Dongchi Li, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: B-Spot: Blockchain and Steganography based Robust and Secure Photo Transmission Mechanism, 2020-21</li>
   <li style="line-height:130%">Xiangning LIANG, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: Robust and Secure File Transmission Through Video Streaming Using Steganography and Blockchain, 2020-21</li>
   <li style="line-height:130%">Zhengrui Xue, School of Computer Science, University of Nottingham Ningbo China, Thesis Title:Identification of Fake Images on Social Media Platforms Using Big Data Analytics,2020-21</li>
-  <li style="line-height:130%"Zhongyi Wang, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: Identifying Covid-19 Fake News Using Deep Learning, 2020-21</li>
+  <li style="line-height:130%">Zhongyi Wang, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: Identifying Covid-19 Fake News Using Deep Learning, 2020-21</li>
   <li style="line-height:130%">Zhenbang YAN, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: GUI based Network Simulator, 2020-21</li>
   <li style="line-height:130%">Zhao Peng, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: Activity-based home appliance control system, 2019-20</li>
   </ol>
