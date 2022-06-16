@@ -39,3 +39,11 @@ redirect_from:
   <li style="line-height:130%"><i><b>General Chair</b></i>: International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), 27-29 June 2022, Madrid, Spain.</li>
   <li style="line-height:130%"><i><b>International Advisory Chair</b></i>: 10th International Conference of Information and Communication Technology (ICICT2020), 24-25 April 2020, Wuhan, Hubei, China.</li>
 </ol>
+<h1 style="font-size:22px">Conference Session Chair:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">17th IEEE International Wireless Communications & Mobile Computing Conference (IWCMC2021), June 2021, Harbin, China.</li>
+  <li style="line-height:130%">International Conference on Sustainability and Equity: Digital Society, 24 November 2020, Bhubaneswar, India</li>
+  <li style="line-height:130%">20th IEEE International Conference on Communication Technology, October 2020, Nanning, China.</li>
+  <li style="line-height:130%">ACM International Workshop on Future Industrial Communication Networks (FICN) in conjunction with ACM MobiCom, November 2018, New Delhi, India.</li>
+  <li style="line-height:130%">IEEE Region 10 Conference (TENCON), November 2016, Singapore.</li>
+</ol>
