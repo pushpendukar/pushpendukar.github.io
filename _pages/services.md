@@ -88,3 +88,8 @@ redirect_from:
   <li style="line-height:130%">International Conference on Advanced Computing and Intelligent Engineering (ICACIE2016), Bhubaneswar, Odisha, India, 2016.</li>
   <li style="line-height:130%">4th International Conference on Intelligent Human-Computer Interaction (IHCI2012), IIT Kharagpur, Kharagpur, India, 2012.</li>
 </ol>
+<h1 style="font-size:22px">Short Term Couse Organization:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Organizing team member</b></i>: International Summer and Winter Term (ISWT) course at the Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
+  <li style="line-height:130%"><i><b>Organizing team member</b></i>: Short Term Course on Object-Oriented Programming and Data Structure using C++, Department of Computer Science and Engineering, IIT Kharagpur, 2nd - 20th June 2014</li>
+</ol>
