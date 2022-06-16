@@ -9,7 +9,7 @@ redirect_from:
 
 <h1 style="font-size:22px">PhD Students:</h1>
 <ul>
-  <li>
+  <li> <h1 style="font-size:15px">Pursuing</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%">Joshua Lai, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Interoperability in Wearable Sensor Networks</li>
   <li style="line-height:130%">Wenzhuo Lyu, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System</li>
