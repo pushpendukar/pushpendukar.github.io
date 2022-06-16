@@ -9,7 +9,7 @@ redirect_from:
 
 <h1 style="font-size:22px">PhD Students:</h1>
 <ul>
-  <li> <h1 style="font-size:15px">Pursuing</h1>
+  <li> <h1 style="font-size:18px">Pursuing</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%">Joshua Lai, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Interoperability in Wearable Sensor Networks</li>
   <li style="line-height:130%">Wenzhuo Lyu, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System</li>
@@ -22,14 +22,16 @@ redirect_from:
   </ul>
 <h1 style="font-size:22px">Master Thesis Students:</h1>
 <ul>
-  <li>
+  <li><h1 style="font-size:18px">Pursuing</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"></li>
-  <li style="line-height:130%"></li>
-  <li style="line-height:130%"></li>
-  <li style="line-height:130%"></li>
-  <li style="line-height:130%"></li>
-  <li style="line-height:130%"></li>
-</ol>
+  <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Trafic Prediction During Adverse Environmental Conditions</li>
+  <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: The Future of C-V2X technology in China: the technological progress, deployment, and challenges</li>
+  <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Enabled and IoT-based Secure Healthcare Management System</li>
+  </ol>
+   </li>
+  <li><h1 style="font-size:18px">Completed</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">Harri Prasad, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Based Secure And Trustworthy Data Communication Model For Internet Of Things, 2021</li>
+  </ol>
    </li>
   </ul> 
