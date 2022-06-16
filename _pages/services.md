@@ -133,9 +133,9 @@ redirect_from:
   <li style="line-height:130%">International Journal of Engineering Business Management</li>
   <li style="line-height:130%">Journal of Mobile Multimedia (<i>River Publisher</i>)</li>
   <li style="line-height:130%">IEEE Globecom, 2020</li>
-  <li style="line-height:130%">International Conference on Mining Intelligence and Knowledge Exploration (MIKE), 2013</li>
-  <li style="line-height:130%">IEEE Students' Technology Symposium (IEEE TechSym), 2014, 2016</li>
-  <li style="line-height:130%">IEEE International Conference on Communication (ICC), 2015, 2018, 2020</li>
-  <li style="line-height:130%">IEEE Vehicular Technology Conference (VTC) 2016</li>
-  <li style="line-height:130%">IEEE International Conference on Cyber-Physical and Social Computing (CPSCom), 2019</li>
+  <li style="line-height:130%">International Conference on Mining Intelligence and Knowledge Exploration (<i>MIKE</i>), 2013</li>
+  <li style="line-height:130%">IEEE Students' Technology Symposium (<i>IEEE TechSym</i>), 2014, 2016</li>
+  <li style="line-height:130%">IEEE International Conference on Communication (<i>ICC</i>), 2015, 2018, 2020</li>
+  <li style="line-height:130%">IEEE Vehicular Technology Conference (<i>VTC</i>) 2016</li>
+  <li style="line-height:130%">IEEE International Conference on Cyber-Physical and Social Computing (<i>CPSCom</i>), 2019</li>
 </ol>
