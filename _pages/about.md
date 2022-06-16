@@ -28,7 +28,7 @@ redirect_from:
 <br><br>
 [Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b>, UK !
 <br><br>
-[August, 2021] Happy to share that I have been received <b>Spot Award</b> or teaching excellence and effective services to The University of Nottingham Ningbo China !
+[August, 2021] Happy to share that I have been received <b>Spot Award</b> for teaching excellence and effective services to The University of Nottingham Ningbo China !
 <br><br>
 [July, 2021] Happy to share that I have been recognized as the <b>High Level Talent</b> by Ningbo Municipal Government, China !
 <br><br>
