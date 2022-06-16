@@ -9,15 +9,15 @@ redirect_from:
 
 <h1 style="font-size:22px">Membership:</h1>
 <ol style="line-height:90%">
-  <li>Institute of Electrical and Electronics Engineers (IEEE), Senior Member, Id: 93025879</li>
-  <li>Association for Computing Machinery (ACM), Member, Id: 1355491</li>
-  <li>Institution of Engineering and Technology (IET), Member, Id: 1101015556</li>
-  <li>International Association of Computer Science and Information Technology (IACSIT), Lifetime Member, Id: 80339962</li>
+  <li style="line-height:130%">Institute of Electrical and Electronics Engineers (IEEE), Senior Member, Id: 93025879</li>
+  <li style="line-height:130%">Association for Computing Machinery (ACM), Member, Id: 1355491</li>
+  <li style="line-height:130%">Institution of Engineering and Technology (IET), Member, Id: 1101015556</li>
+  <li style="line-height:130%">International Association of Computer Science and Information Technology (IACSIT), Lifetime Member, Id: 80339962</li>
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
-  <li><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering (Impact factor: 2.68)</li>
-  <li><i><b>Editor</b></i>, American Journal of Networks and Communications, 2022 – 2024.</li>
+  <li style="line-height:130%"><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering (Impact factor: 2.68)</li>
+  <li style="line-height:130%"><i><b>Editor</b></i>, American Journal of Networks and Communications, 2022 – 2024.</li>
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
 <ol style="line-height:80%">
