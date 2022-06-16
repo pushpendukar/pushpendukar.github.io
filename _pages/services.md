@@ -32,3 +32,10 @@ redirect_from:
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Named Data Networking: towards data-centric, fast and secure new generation Internet technology", 2nd International Conference on Information Technology and Electrical Engineering (ICITEE19), Changsha, Hunan, China, 6th December 2019.</li>
    <li style="line-height:130%"><i><b>Invited Talk</b></i>: "Underwater Sensor Network Protocols at Various Layers", Faculty Development Program, Haldia Institute of Technology, Haldia, India, 4th August 2016.</li>
 </ol>
+<h1 style="font-size:22px">Conference Chair:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Artificial Intelligence, Virtual Reality and Visualization (AIVRV 2022), 23 - 25 September 2022, Chongqing, China.</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>: International Conference on Advanced Communications and Machine Intelligence (MICA 2022), 7-9 July 2022, Tamil Nadu, India.</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>: International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), 27-29 June 2022, Madrid, Spain.</li>
+  <li style="line-height:130%"><i><b>International Advisory Chair</b></i>: 10th International Conference of Information and Communication Technology (ICICT2020), 24-25 April 2020, Wuhan, Hubei, China.</li>
+</ol>
