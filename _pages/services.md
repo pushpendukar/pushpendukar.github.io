@@ -47,3 +47,11 @@ redirect_from:
   <li style="line-height:130%">ACM International Workshop on Future Industrial Communication Networks (FICN) in conjunction with ACM MobiCom, November 2018, New Delhi, India.</li>
   <li style="line-height:130%">IEEE Region 10 Conference (TENCON), November 2016, Singapore.</li>
 </ol>
+<h1 style="font-size:22px">Conference International Advisory Committee Member:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">3rd International Conference on Advanced Computing and Software Engineering (ICACSE-121), 19-20 February 2021, Sultanpur, Uttar Prades, India.</li>
+  <li style="line-height:130%">International Conference on Research and Applications in Artificial Intelligence (RAAI), 19-20 December 2020, Kolkata, India.</li>
+  <li style="line-height:130%">International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV-2020), 17-19 January 2020, Jaipur, Rajasthan.</li>
+  <li style="line-height:130%">International Conference on Applied Mathematics and Computational Sciences (ICAMCS2019), October 17-19, 2019, Dehradun, India.</li>
+  <li style="line-height:130%">International Conference on Advanced Computing and Software Engineering (ICACSE19), February 2019, Sultanpur, U.P., India.</li>
+</ol>
