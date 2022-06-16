@@ -24,7 +24,7 @@ redirect_from:
 
   [Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
 <br><br>
-[Mar, 2022] Happy to share that our paper titled <b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b> has been accepted in <b>IEEE TCSS</b> !
+[Mar, 2022] Happy to share that our paper titled "<b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b>" has been accepted in <b>IEEE TCSS</b> !
 <br><br>
 [Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b> !
 <br><br>
