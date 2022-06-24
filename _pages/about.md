@@ -22,7 +22,9 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-  [Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
+[June, 2022] Delivered <b>Keynote Speech</b> in Faculty Development Programme, Sharda University, India.
+<br><br>
+[Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
 <br><br>
 [Mar, 2022] Happy to share that our paper titled "<b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b>" has been accepted in <b>IEEE TCSS</b> !
 <br><br>
