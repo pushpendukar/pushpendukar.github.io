@@ -21,7 +21,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", Faculty Development Programme, Sharda University, Noida, India, 23rd June 2022.</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", International Faculty Development Program, Sharda University, Noida, India, 23rd June 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Intelligent Sensory System for Smart Home Control", International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME2022), Madrid, Spain, 27-29 June 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Algorithms, Microchips and Network Applications (AMNA2022), Zhuhai, China, 18th February 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Recommendation based approach for personalized control, Visual Comfort & Energy Efficiency in office buildings", International Conference on Computer Graphics, Artificial Intelligence and Data Processing (ICCAID2021), Harbin, China, 24th December 2021.</li>
