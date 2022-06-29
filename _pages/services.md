@@ -14,6 +14,10 @@ redirect_from:
   <li style="line-height:130%">Institution of Engineering and Technology (IET), Member, Id: 1101015556</li>
   <li style="line-height:130%">International Association of Computer Science and Information Technology (IACSIT), Lifetime Member, Id: 80339962</li>
 </ol>
+<h1 style="font-size:22px">Membership:</h1>
+<ol style="line-height:90%">
+  <li style="line-height:130%"><b><i>Co-Developer</i></b>, Next Generation Internet of Things (NGIoE) Laboratory, Faculty of Science and Engineering, University of Nottingham Ningbo, China (Director: Dr. Chiew-Foong Kwong and Co-Director: Dr. David Chieng)</li>
+</ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%"><i><b>Review Editor</b></i>, Frontiers in Energy Efficiency - Energy Efficiency Applications, 2022 – Present.</li>
@@ -107,7 +111,7 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%">Internal Examiner of the PhD thesis of Lincan Li, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Mobile Edge Cache Technique Under Radio Access Network For The Next Generation Of Communication Networks.</li>
 </ol>
-<h1 style="font-size:22px">Paper Reviewer:</h1>
+<h1 style="font-size:22px">Paper Review:</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%">IEEE Transactions on Network and Service Management</li>
   <li style="line-height:130%">IEEE Transactions on Vehicular Technology</li>
@@ -140,4 +144,8 @@ redirect_from:
   <li style="line-height:130%">IEEE International Conference on Communication (<i>ICC</i>), 2015, 2018, 2020</li>
   <li style="line-height:130%">IEEE Vehicular Technology Conference (<i>VTC</i>) 2016</li>
   <li style="line-height:130%">IEEE International Conference on Cyber-Physical and Social Computing (<i>CPSCom</i>), 2019</li>
+</ol>
+<h1 style="font-size:22px">Book Review:</h1>
+<ol style="line-height:80%">
+  <li style="line-height:130%">1.	The seventh edition of “Database Systems: A Practical Approach to Design, Implementation, and Management” by Thomas Connolly and Carolyn Begg, Pearson Global Editions</li>
 </ol>
