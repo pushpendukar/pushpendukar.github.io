@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[June, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in Energy Efficiency - Energy Efficiency Applications</b>.
+<br><br>
 [June, 2022] Delivered <b>Keynote Speech</b> in Faculty Development Programme, Sharda University, India.
 <br><br>
 [Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
