@@ -147,5 +147,5 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Book Review:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">1.	The seventh edition of “Database Systems: A Practical Approach to Design, Implementation, and Management” by Thomas Connolly and Carolyn Begg, Pearson Global Editions</li>
+  <li style="line-height:130%">The seventh edition of “Database Systems: A Practical Approach to Design, Implementation, and Management” by Thomas Connolly and Carolyn Begg, Pearson Global Editions</li>
 </ol>
