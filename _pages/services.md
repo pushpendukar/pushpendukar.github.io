@@ -16,6 +16,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Review Editor</b></i>, Frontiers in Energy Efficiency - Energy Efficiency Applications, 2022 – Present.</li>
   <li style="line-height:130%"><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering, 2022 - Present (Impact factor: 2.68)</li>
   <li style="line-height:130%"><i><b>Editor</b></i>, American Journal of Networks and Communications, 2022 – 2024.</li>
 </ol>
