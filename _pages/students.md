@@ -66,15 +66,11 @@ redirect_from:
   
    <h1 style="font-size:22px">Internship Students:</h1>
 <ul>
-  <li><h1 style="font-size:18px">Pursuing</h1>
+  <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%">Zhihang Zhu and Yiran Mang, Project title: Recommender System for Healthcare, March - June 2022</li>
   <li style="line-height:130%">Tianyi Ma and Chenyu Yang, Project title: Research and Development of Trust-Centric and Attack-Centric Recommender Systems, March - June 2022</li>
   <li style="line-height:130%">Xinyi Wang and Yifei Miao, Project title: Recommender System Applications, March - June 2022</li>
-  </ol>
-  </li>
-  <li><h1 style="font-size:18px">Completed</h1>
-<ol style="line-height:80%">
   <li style="line-height:130%">Lin Chen, Weixue Sheng, Project title: An efficient technique for identification of cache pollution attack in NDN-based remote health monitoring system using rank comparison, February-August 2021</li>
   <li style="line-height:130%">Jiayi Shi, Kewei Chen, Project title: DMACN - A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote HealthMonitoring System, February-August 2021.</li>
   <li style="line-height:130%">Rubin Chen, Yukai Qian, Project title: Efficient Technique for Real-time CommunicationBetween Doctor and Patients in a NDN basedRemote Health Monitoring System, February-August 2021.</li>
