@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[July, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in the Internet of Things - IoT Services and Applications</b>.
+<br><br>
 [June, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in Energy Efficiency - Energy Efficiency Applications</b>.
 <br><br>
 [June, 2022] Delivered <b>Keynote Speech</b> in Faculty Development Programme, Sharda University, India.
