@@ -78,7 +78,7 @@ Research Experiences (5 Yrs)
 Industry Experience (1 Yr 4 M)
 ------
 <ul>
-  <li>Associate System Engineer, IBM India Pvt. Ltd., India (Jun 2010 - Oct 2011)</li>
+  <li>Associate System Engineer, IBM, India (Jun 2010 - Oct 2011)</li>
 </ul>
 
 Academic Qualifications
