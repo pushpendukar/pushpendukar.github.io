@@ -11,7 +11,7 @@ redirect_from:
 <table>
                                        <tr>
 <td bgcolor="#2ADCEA" height="25px" align="center">
-<b>Updates</b>
+<b>Recent Highlights</b>
 </td>
 </tr>
 <tr>
