@@ -22,6 +22,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[Aug, 2022] Happy to share that our paper titled "<b>DMACN: A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote Health Monitoring System</b>" has been accepted in <b>IEEE Transactions on Computers</b> !
+<br><br>
+[Aug, 2022] Happy to share that our paper titled "<b>An Intelligent Lighting Control System for Individual Visual Comfort and Energy Savings in Buildings</b>" has been accepted in <b>Journal of Reliable Intelligent Environments (Springer)</b> !
+<br><br>
 [July, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in the Internet of Things - IoT Services and Applications</b>.
 <br><br>
 [June, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in Energy Efficiency - Energy Efficiency Applications</b>.
