@@ -6,6 +6,7 @@ author_profile: true
 ---
 <h1 style="font-size:22px">Refereed Journals:</h1>
 <ol>
+  <li><b>P. Kar</b>, R. Chen, and Y. Qian, “An Efficient Producer Mobility Management Technique for Real-time Communication in NDN-based Remote Health Monitoring Systems”, <i>Smart Health (Elsevier)</i> (Accepted on 8th August 2022) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li><b>P. Kar</b>, K. Chen, J. Shi, “DMACN: A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote Health Monitoring System”, <i>IEEE Transactions on Computers</i> (Accepted on 4th August 2022) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li><b>P. Kar</b>, A. Kumar, A. Shareef, K. T. Harn, and S. K. Panda, “An Intelligent Lighting Control System for Individual Visual Comfort and Energy Savings in Buildings”, <i>Journal of Reliable Intelligent Environments (Springer)</i> (Accepted on 4th August 2022) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>D. Li and <b>P. Kar</b>, “B-Spot: Blockchain and Steganography based Robust and Secure Photo Transmission Mechanism”, <i>Journal of Mobile Multimedia</i> vol. 18, no. 6, pp. 1677–1708, July 2022 <a href="https://journals.riverpublishers.com/index.php/JMM/article/view/12255/14603"><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
