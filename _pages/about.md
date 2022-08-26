@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[Aug, 2022] Delivered <b>Keynote Speech</b> 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual.
+[Aug, 2022] Delivered <b>Keynote Speech</b> at 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual.
 <br><br>
 [Aug, 2022] Happy to share that our paper titled "<b>An Efficient Producer Mobility Management Technique for Real-time Communication in NDN-based Remote Health Monitoring Systems</b>" has been accepted in <b>Smart Health (Elsevier)</b> !
 <br><br>
@@ -34,7 +34,7 @@ redirect_from:
 <br><br>
 [June, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in Energy Efficiency - Energy Efficiency Applications</b>.
 <br><br>
-[June, 2022] Delivered <b>Keynote Speech</b> in Faculty Development Programme, Sharda University, India.
+[June, 2022] Delivered <b>Keynote Speech</b> at Faculty Development Programme, Sharda University, India.
 <br><br>
 [Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
 <br><br>
