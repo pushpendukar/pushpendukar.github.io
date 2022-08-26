@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[Aug, 2022] Delivered <b>Keynote Speech</b> 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual.
+<br><br>
 [Aug, 2022] Happy to share that our paper titled "<b>An Efficient Producer Mobility Management Technique for Real-time Communication in NDN-based Remote Health Monitoring Systems</b>" has been accepted in <b>Smart Health (Elsevier)</b> !
 <br><br>
 [Aug, 2022] Happy to share that our paper titled "<b>DMACN: A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote Health Monitoring System</b>" has been accepted in <b>IEEE Transactions on Computers</b> !
