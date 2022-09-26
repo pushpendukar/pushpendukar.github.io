@@ -30,9 +30,9 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
-   <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Trafic Prediction During Adverse Environmental Conditions</li>
-  <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: The Future of C-V2X technology in China: the technological progress, deployment, and challenges</li>
-  <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Enabled and IoT-based Secure Healthcare Management System</li>
+   <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach</li>
+  <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: Architecture for the deployment of C-V2X technology for different landscape requirements</li>
+  <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing</li>
   <li style="line-height:130%">Harri Prasad, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Based Secure And Trustworthy Data Communication Model For Internet Of Things, 2021</li>
   </ol>
    </li>
