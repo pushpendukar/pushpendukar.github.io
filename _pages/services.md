@@ -27,6 +27,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Mechatronics and Automation Technology (ICMAT2022), Wuhan, China, 29th October 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual, 26th August 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", International Faculty Development Program, Sharda University, Noida, India, 23rd June 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Intelligent Sensory System for Smart Home Control", International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME2022), Madrid, Spain, 27-29 June 2022.</li>
