@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[Dec, 2022] Participated as <b>General Chair</b> at the International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
+[Dec, 2022] Participated as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
 <br><br>
 [Oct, 2022] Delivered <b>Keynote Speech</b> at International Conference on Mechatronics and Automation Technology (ICMAT2022), Wuhan, China.
 <br><br>
