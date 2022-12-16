@@ -43,6 +43,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>General Chair</b></i>: 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain.</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Artificial Intelligence, Virtual Reality and Visualization (AIVRV 2022), 23 - 25 September 2022, Chongqing, China.</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: International Conference on Advanced Communications and Machine Intelligence (MICA 2022), 7-9 July 2022, Tamil Nadu, India.</li>
