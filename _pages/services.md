@@ -106,11 +106,12 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Administrative Duties:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Act as FoSE Unit Contact Point for the School of Computer Science at the University of Nottingham Ningbo China, 2021-22</li>
-  <li style="line-height:130%">Member of Admission and International Relations committee at the University of Nottingham Ningbo China</li>
-  <li style="line-height:130%">Member of EC Committee in the School of Computer Science at the University of Nottingham Ningbo China</li>
-  <li style="line-height:130%">Held the post of Cashier at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur from 2013 to 2014</li>
-  <li style="line-height:130%">Held the post of Block Representative at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur from 2012 to 2013</li>
+  <li style="line-height:130%">Member of the BCS Accreditation Committee at the University of Nottingham Ningbo China, 2023 - Present</li>
+  <li style="line-height:130%">Member of Faculty Education and Student Experience Committee (FESEC) at the University of Nottingham Ningbo China, 2022 - Present</li>
+  <li style="line-height:130%">Member of Admission and International Relations committee at the University of Nottingham Ningbo China, 2020 - Present</li>
+  <li style="line-height:130%">Member of EC Committee in the School of Computer Science at the University of Nottingham Ningbo China, 2020 - Present</li>
+  <li style="line-height:130%">Held the post of Cashier at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur, 2013 - 2014</li>
+  <li style="line-height:130%">6.	Held the post of Block Representative at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur, 2012 - 2013</li>
 </ol>
 <h1 style="font-size:22px">PhD Thesis Examiner:</h1>
 <ol style="line-height:80%">
