@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[May, 2023] Participated as <b>1.	Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
+[May, 2023] Participated as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
 <br><br>
 [Dec, 2022] Participated as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
 <br><br>
