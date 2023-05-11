@@ -22,7 +22,7 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%"><i><b>Review Editor</b></i>, Frontiers in the Internet of Things - IoT Services and Applications, 2022 - Present.</li>
   <li style="line-height:130%"><i><b>Review Editor</b></i>, Frontiers in Energy Efficiency - Energy Efficiency Applications, 2022 – Present.</li>
-  <li style="line-height:130%"><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering, 2022 - Present (Impact factor: 2.68)</li>
+  <li style="line-height:130%"><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering, 2022 - Present (Impact factor: 2.68), 2021 - 2023</li>
   <li style="line-height:130%"><i><b>Editor</b></i>, American Journal of Networks and Communications, 2022 – 2024.</li>
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
@@ -43,6 +43,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Program Committee Chair</b></i>: International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain.</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Artificial Intelligence, Virtual Reality and Visualization (AIVRV 2022), 23 - 25 September 2022, Chongqing, China.</li>
