@@ -13,10 +13,10 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%">Joshua Lai, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Interoperability in Wearable Sensor Networks</li>
   <li style="line-height:130%">Wenzhuo Lyu, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System</li>
-  <li style="line-height:130%">Xin Lin, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Advanced Machine Learning For Single-Cell Transcriptome Analysis</li>
-  <li style="line-height:130%">Luning Yang, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Statistical Modeling of Single Cell Classification Using Single Cell RNA Expression.</li>
   <li style="line-height:130%">Asma Saleh Mahdi AL-BABAKR, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Assessing the Effects of Quality of Sleep to Mental State</li>
-  <li style="line-height:130%">Sen Lin, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Classification Systems for Single Cell Transcriptome (SCT) data</li>
+  <li style="line-height:130%">Chenyu Yang, Department Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Resource Allocation in Track Platooning</li>
+  <li style="line-height:130%">Ningyuan Chen, Department Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Development of NDN-based Secure Communication Model for Vehicular Networks Using Blockchain</li>
+  <li style="line-height:130%">Qinglin Mao, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Text Image Inpainting for Recognition</li>
 </ol>
   </li>
   </ul>
@@ -30,9 +30,9 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
-   <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach</li>
-  <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: Architecture for the deployment of C-V2X technology for different landscape requirements</li>
-  <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing</li>
+   <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach, 2022</li>
+  <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: Architecture for the deployment of C-V2X technology for different landscape requirements, 2022</li>
+  <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing, 2022</li>
   <li style="line-height:130%">Harri Prasad, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Based Secure And Trustworthy Data Communication Model For Internet Of Things, 2021</li>
   </ol>
    </li>
@@ -42,6 +42,10 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Haoran Cheng, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Development of an integrated architecture of Programmable Switches and Sketch Abstractions for Detections of Distributed Denial-of-Services, 2022-23</li>
+  <li style="line-height:130%">Zhuoran Bi, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Real-Time Blood Glucose Prediction and Hypoglycemia Detection for Diabetic Patients Using Multi-model Machine Learning Technique, 2022 - 23</li>
+  <li style="line-height:130%">Tianyi Ma, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Mental Health Assessment and Disease Prediction through Combination of Facial Expression and Voice, 2022-23</li>
+  <li style="line-height:130%">Yujie Chen, School of Computer Science, University of Nottingham Ningbo China, Thesis title: A Blockchain-based Decentralised Web Hosting System using Peer-to-Peer File-Sharing Networks, 2022-23</li>
   <li style="line-height:130%">Li-Kai WU, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Blockchain-based Fake Product Identification System, 2021-22</li>
   <li style="line-height:130%">Longwen HU, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Design of Blockchain-based Secure Health Status Monitoring System Using Decentralized Machine Learning Technology, 2021-22</li>
   <li style="line-height:130%">Dongchi Li, School of Computer Science, University of Nottingham Ningbo China, Thesis Title: B-Spot: Blockchain and Steganography based Robust and Secure Photo Transmission Mechanism, 2020-21</li>
@@ -58,9 +62,10 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Yichi Zhang, Chengyue Pan, Baizhen Lin, Kunning Wang, and Tianshu Ye, Project title: Feedback Analysis Based Product Rating System</li>
-  <li style="line-height:130%">Xiaoman Ding, Xiaoning Ma, Yunzhe Dong, Minxiao Li, Yixuan Wang, Yixuan Li, Project title: Plug-n-Play Secure Remote Health Monitoring System, September 2019 - May 2020</li>
-  <li style="line-height:130%">Haowen Zheng, Honghao Zeng, Tianqi Xia, Boyuan Ye, Yuhua Guo, Zeyu Wang, Project title: Epidemic disease control using the Internet of Things and Big Data analytics, September 2020 - May 2021.</li>
+  <li style="line-height:130%">Chongpo Shao, Jianing Wu, Yuanli Zhu, Feiyang Sun, Hongman Li, Yaru He, Project title:  Find a Doctor, 2022 - 23</li>
+  <li style="line-height:130%">Yichi Zhang, Chengyue Pan, Baizhen Lin, Kunning Wang, and Tianshu Ye, Project title: Feedback Analysis Based Product Rating System, 2021 - 22</li>
+  <li style="line-height:130%">Xiaoman Ding, Xiaoning Ma, Yunzhe Dong, Minxiao Li, Yixuan Wang, Yixuan Li, Project title: Plug-n-Play Secure Remote Health Monitoring System, 2020 - 21</li>
+  <li style="line-height:130%">Haowen Zheng, Honghao Zeng, Tianqi Xia, Boyuan Ye, Yuhua Guo, Zeyu Wang, Project title: Epidemic disease control using the Internet of Things and Big Data analytics, 2019 - 20.</li>
   </ol>
   </li>
   </ul> 
