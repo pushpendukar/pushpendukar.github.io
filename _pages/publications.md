@@ -32,7 +32,7 @@ author_profile: true
 </ol>
   <h1 style="font-size:22px">International Conferences / Workshops:</h1>
   <ol>
-  <li>1.	I. Cho, D. Towey, and <b>P. Kar</b>, “Testing Compilers with Obfuscators: A Metamorphic Experience”, <i>in proceedings of the 15th IEEE International Workshop on Software Test Automation in conjugation with IEEE COMPSAC 2023</i>, Torino, Italy, Jun 26-30, 2023. <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
+  <li>I. Cho, D. Towey, and <b>P. Kar</b>, “Testing Compilers with Obfuscators: A Metamorphic Experience”, <i>in proceedings of the 15th IEEE International Workshop on Software Test Automation in conjugation with IEEE COMPSAC 2023</i>, Torino, Italy, Jun 26-30, 2023. <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>R. Arathy, B. Bhabani, M. Malakar, J. Mahapatro, and <b>P. Kar</b>, “Jamming Attack classification in Wireless Networks using Machine Learning”, <i>in proceedings of the 4th International Conference on  Communication and Intelligent Systems (ICCIS)</i>, New Delhi, India, Dec 19-20, 2022. <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>Z. Wang, Y. Guo, T. Xia, B. Ye, and <b>P. Kar</b>, “Detection of COVID-19 Through Thermal and Voice SensingUsing Smartphone”, <i>in proceedings of the 22nd IEEE/ACIS International Conferenceon Computer and Information Science (ICIS)</i>, Zhuhai, China, June 26-28, 2022 (Accepted on 10th May 2022). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882515"><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>L. Hu, Y. Huang, and <b>P. Kar</b>, “An Integrated Single Device Framework for Combined Face Recognition and Covid-19 Detection Using Thermal Infrared Imagery”, <i>in proceedings of the 22nd IEEE/ACIS International Conferenceon Computer and Information Science (ICIS)</i>, Zhuhai, China, June 26-28, 2022 (Accepted on 10th May 2022). <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882354"><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
@@ -60,11 +60,14 @@ author_profile: true
   </ol>
 <h1 style="font-size:22px">Edited Books:</h1>
 <ol>
-  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press, Taylor & Francis Group</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.taylorfrancis.com/books/e/9781003055976">Link</a>]</li>
+  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Recommender Systems: A Multi-Disciplinary Approach”, <i>CRC Press</i>, June 2023, ISBN: 9781003319122 [<a href="[https://www.taylorfrancis.com/books/e/9781003055976](https://www.taylorfrancis.com/books/edit/10.1201/9781003319122/recommender-systems-sujoy-datta-monideepa-roy-pushpendu-kar)">Link</a>]</li>
+  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.taylorfrancis.com/books/e/9781003055976">Link</a>]</li>
   <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://novapublishers.com/shop/vehicular-ad-hoc-networks-applications-and-technology/">Link</a>]</li>
 </ol>
 <h1 style="font-size:22px">Book Chapters:</h1>
 <ol>
+  <li>S. Singh, M. Roy, S. Datta, and <b>P. Kar</b>, “Application of Swarm Intelligence in Recommender Systems”, in Recommender Systems: A Multi-Disciplinary Approach, <i>CRC Press</i>, June 3023, DOI: 10.1201/9781003319122</li>
+  <li>2.	A. Saha, S. Dey, M. Roy, S. Datta, and <b>P. Kar</b>, “Recommendation Systems for Choosing Online Learning Resources: A Hands-On Approach”, in Recommender Systems: A Multi-Disciplinary Approach, <i>CRC Press</i>, June 3023, DOI: 10.1201/9781003319122</li>
   <li><b>P. Kar</b>, “Optimal Hole Coverage in the Presence of Dumb Node in Wireless Sensor Networks”, in Vehicular Ad-Hoc Networks: Applications and Technology, <i>Nova science publishers</i>, September 2020</li>
   <li><b>P. Kar</b> and A. Das, “Artificial Neural Networks and Learning Techniques”, in P. Samui (Eds.), Advanced Computational Techniques for Simulation-Based Engineering, <i>IGI Global</i>, USA, DOI: 10.4018/978-1-4666-9479-8.ch009, March 2016</li>
 </ol>
