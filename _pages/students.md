@@ -64,8 +64,8 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%">Chongpo Shao, Jianing Wu, Yuanli Zhu, Feiyang Sun, Hongman Li, Yaru He, Project title:  Find a Doctor, 2022 - 23</li>
   <li style="line-height:130%">Yichi Zhang, Chengyue Pan, Baizhen Lin, Kunning Wang, and Tianshu Ye, Project title: Feedback Analysis Based Product Rating System, 2021 - 22</li>
-  <li style="line-height:130%">Xiaoman Ding, Xiaoning Ma, Yunzhe Dong, Minxiao Li, Yixuan Wang, Yixuan Li, Project title: Plug-n-Play Secure Remote Health Monitoring System, 2020 - 21</li>
-  <li style="line-height:130%">Haowen Zheng, Honghao Zeng, Tianqi Xia, Boyuan Ye, Yuhua Guo, Zeyu Wang, Project title: Epidemic disease control using the Internet of Things and Big Data analytics, 2019 - 20.</li>
+  <li style="line-height:130%">Haowen Zheng, Honghao Zeng, Tianqi Xia, Boyuan Ye, Yuhua Guo, Zeyu Wang, Project title: Epidemic disease control using the Internet of Things and Big Data analytics, 2020 - 21.</li>
+  <li style="line-height:130%">Xiaoman Ding, Xiaoning Ma, Yunzhe Dong, Minxiao Li, Yixuan Wang, Yixuan Li, Project title: Plug-n-Play Secure Remote Health Monitoring System, 2019 - 20</li>
   </ol>
   </li>
   </ul> 
