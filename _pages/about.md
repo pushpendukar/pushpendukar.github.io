@@ -28,7 +28,7 @@ redirect_from:
 <br><br>
 [Oct, 2022] Delivered <b>Keynote Speech</b> at International Conference on Mechatronics and Automation Technology (ICMAT2022), Wuhan, China.
 <br><br>
-[Aug, 2022] Serving as a <b>Publication Chair</b> at 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.
+[Aug, 2022] Serving as <b>Publication Chair</b> at 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.
 <br><br>
 [Aug, 2022] Delivered <b>Keynote Speech</b> at 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual.
 <br><br>
