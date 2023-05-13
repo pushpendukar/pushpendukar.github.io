@@ -22,9 +22,9 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[May, 2023] Participated as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
+[May, 2023] Serving as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
 <br><br>
-[Dec, 2022] Participated as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
+[Dec, 2022] Serving as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
 <br><br>
 [Oct, 2022] Delivered <b>Keynote Speech</b> at International Conference on Mechatronics and Automation Technology (ICMAT2022), Wuhan, China.
 <br><br>
@@ -54,7 +54,9 @@ redirect_from:
 <br><br>
 [July, 2021] Happy to share that I have been recognized as the <b>High Level Talent</b> by Ningbo Municipal Government, China !
 <br><br>
-
+  
+<!--YOUR SCROLL CONTENT HERE-->
+  
 </p>
 </font> </marquee></div>
 </td>
@@ -63,6 +65,7 @@ redirect_from:
 <td bgcolor="#EA2AD6" height="1px">
 </td></tr>
 </table>
+
 
 About Me
 ------
