@@ -69,6 +69,9 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">8th International Conference on Digital Signal Processing (ICDSP 2024), 23-25 February 2024, Hangzhou, China</li>
+  <li style="line-height:130%">International Conference on Communications, Computing and Artificial Intelligence(CCCAI 2023), 23-25 June 2023, Shanghai, China</li>
+  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2022:SAC-EH) 28 May – 01 June 2022, Rome, Italy</li>
   <li style="line-height:130%">6th World Conference on Computing and Communication Technologies (WCCCT), 6 – 8 January 2023, Chengdu, China</li>
   <li style="line-height:130%">12th International Conference on Communication and Network Security (ICCNS), 1-3 December 2022, Beijing, China</li>
   <li style="line-height:130%">IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), 16-18 June 2022, Malang, Indonesia.</li>
