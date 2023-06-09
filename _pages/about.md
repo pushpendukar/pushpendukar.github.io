@@ -122,6 +122,5 @@ Professional Qualifications
 Pedagogical Qualifications
 ------
 <ul>
-  <li>Completed Postgraduate Certificate in Higher Education (PGCHE) programme on teaching and supporting learning by following UK Professional Standards Framework (UKPSF), 2020</li>
-  <li>Completed Postgraduate Certificate in Higher Education (PGCHE) programme on Curriculum Design and Assessment in Higher Education by following UK Professional Standards Framework (UKPSF), 2021</li>
+  <li>Postgraduate Certificate in Higher Education (PGCertHE)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK, 2023</li>
 </ul>
