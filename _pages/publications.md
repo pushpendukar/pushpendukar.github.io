@@ -60,7 +60,7 @@ author_profile: true
   </ol>
 <h1 style="font-size:22px">Edited Books:</h1>
 <ol>
-  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Recommender Systems: A Multi-Disciplinary Approach”, <i>CRC Press</i>, June 2023, ISBN: 9781003319122 [<a href="[https://www.taylorfrancis.com/books/e/9781003055976](https://www.taylorfrancis.com/books/edit/10.1201/9781003319122/recommender-systems-sujoy-datta-monideepa-roy-pushpendu-kar)">Link</a>]</li>
+  <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Recommender Systems: A Multi-Disciplinary Approach”, <i>CRC Press</i>, June 2023, ISBN: 9781003319122 [<a href="https://www.taylorfrancis.com/books/edit/10.1201/9781003319122/recommender-systems-sujoy-datta-monideepa-roy-pushpendu-kar">Link</a>]</li>
   <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.taylorfrancis.com/books/e/9781003055976">Link</a>]</li>
   <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://novapublishers.com/shop/vehicular-ad-hoc-networks-applications-and-technology/">Link</a>]</li>
 </ol>
