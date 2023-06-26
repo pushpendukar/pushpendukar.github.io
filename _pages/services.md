@@ -43,6 +43,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Workshop Chair</b></i>: 2nd International Conference on Internet of Things, Communication and Intelligent Technology (IoTCIT 2023), 22- 24 September 2023, Xuzhou, China</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.</li>
   <li style="line-height:130%"><i><b>Program Committee Chair</b></i>: International Conference on Images, Algorithms and Artificial Intelligence, 11 – 13 Aug 2023, Singapore</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain.</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.</li>
@@ -69,6 +71,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">7th World Conference on Computing and Communication Technologies (WCCCT 2024), 22-24 March 2024, Chengdu, China</li>
+  <li style="line-height:130%">12th IEEE International Conference on Communications, Networks, and Satellite (ComNetSat 2023), 23-25 November 2023, Malang, Indonesia</li>
   <li style="line-height:130%">8th International Conference on Digital Signal Processing (ICDSP 2024), 23-25 February 2024, Hangzhou, China</li>
   <li style="line-height:130%">International Conference on Communications, Computing and Artificial Intelligence(CCCAI 2023), 23-25 June 2023, Shanghai, China</li>
   <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2022:SAC-EH) 28 May – 01 June 2022, Rome, Italy</li>
