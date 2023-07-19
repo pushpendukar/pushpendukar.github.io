@@ -23,9 +23,9 @@ redirect_from:
 <p align="left" class="infotxt" >
 
 [July, 2023] I  have elevated to the <b>Senior Fellow of Higher Education Academy (SFHEA)</b>, UK
-[July, 2023] Our paper “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition
-Information: a deep learning-based approach” accepted in <b>International Journal of Intelligent Transportation
-Systems Research (Springer)</b>
+<br><br>
+[July, 2023] Our paper “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: a deep learning-based approach” accepted in <b>International Journal of Intelligent Transportation Systems Research (Springer)</b>
+<br><br>
 [June, 2023] I have completed Postgraduate Certificate in Higher Education (PGCertHE)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK
 <br><br>
 [May, 2023] Serving as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
