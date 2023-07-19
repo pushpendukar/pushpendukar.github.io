@@ -28,13 +28,16 @@ redirect_from:
 <br><br>
 [June, 2023] I have completed Postgraduate Certificate in Higher Education (PGCertHE)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK
 <br><br>
-[May, 2023] Serving as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
+[June, 2023] I am serving as <b>Publication Chair</b> at the 2nd International Conference on Computer, Internet of Things and Control
+Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 <br><br>
-[Dec, 2022] Serving as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
+[May, 2023] I am serving as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
+<br><br>
+[Dec, 2022] I am serving as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
 <br><br>
 [Oct, 2022] Delivered <b>Keynote Speech</b> at International Conference on Mechatronics and Automation Technology (ICMAT2022), Wuhan, China.
 <br><br>
-[Aug, 2022] Serving as <b>Publication Chair</b> at 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.
+[Aug, 2022] I am serving as <b>Publication Chair</b> at 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.
 <br><br>
 [Aug, 2022] Delivered <b>Keynote Speech</b> at 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual.
 <br><br>
