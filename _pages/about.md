@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[August, 2023] Delivered <b>Keynote Speech</b> at International Conference on Image, Algorithms and Artificial Intelligence (ICIAAI2023), Singapore, 11th August 2023.
+<br><br>
 [August, 2023] Happy to share that our paptent titled "An Advanced Wireless Sensor Network System and Method for Accurate Information Gathering form a Radiation Affected Area" has <b>granted</b> on 3rd August 2023.
 <br><br>
 [July, 2023] I  have elevated to the <b>Senior Fellow of Higher Education Academy (SFHEA)</b>, UK
