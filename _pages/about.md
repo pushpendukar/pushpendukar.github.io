@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[August, 2023] Our paper titled "Design of a Blockchain-based Secure Health Monitoring System Using Decentralized Machine Learning Technique" accepted in <b>IEEE Communications Magazine</b>.
+<br><br>
 [August, 2023] Awarded an <b>Excellent Performance</b> rating for overall academic performance in the 2022-2023 academic year at the University of Nottingham Ningbo China.
 <br><br>
 [August, 2023] Delivered <b>Keynote Speech</b> at International Conference on Image, Algorithms and Artificial Intelligence (ICIAAI2023), Singapore, 11th August 2023.
