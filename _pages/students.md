@@ -30,6 +30,11 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Zongzhe Li, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-based secure and trustworthy Postal System, 2023</li>
+  <li style="line-height:130%">Ce Liu, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Based Secure NDN framework for Remote Health Monitoring System, 2023</li>
+  <li style="line-height:130%">Hao Li, School of Computer Science, University of Nottingham, UK, Thesis Title: Optimization Strategies and Performance Evaluation of Health Monitoring Systems based on Named Data Networking (NDN) via Edge Intelligence, 2023</li>
+  <li style="line-height:130%">Shangqi Yang, School of Computer Science, University of Nottingham, UK, Thesis Title: Designing an Innovative Intelligent Transportation Model Based on Digital Twin and Cyber-Physical Systems, 2023</li>
+  <li style="line-height:130%">Xuesong Zeng, School of Computer Science, University of Nottingham, UK, Thesis Title: EIHR Management System Based on Blockchain and IPFS, 2023</li>
    <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach, 2022</li>
   <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: Architecture for the deployment of C-V2X technology for different landscape requirements, 2022</li>
   <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing, 2022</li>
