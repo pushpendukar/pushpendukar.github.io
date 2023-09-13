@@ -72,6 +72,11 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2023), 15–17 December 2023, Chongqing, China</li>
+  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2022:SAC-EH), 9–13 June 2024, Denver, CO, USA</li>
+  <li style="line-height:130%">4th International Conference on Cloud and Big Data (CLBD 2023), 11 - 12 November 2023, Dubai, UAE</li>
+  <li style="line-height:130%">15th International Conference on Networks & Communications (NeCoM 2023), 23 - 24 September 2023, Toronto, Canada</li>
+  <li style="line-height:130%">6th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2023), 22 - 24 December, Sanya, China</li>
   <li style="line-height:130%">7th World Conference on Computing and Communication Technologies (WCCCT 2024), 22-24 March 2024, Chengdu, China</li>
   <li style="line-height:130%">12th IEEE International Conference on Communications, Networks, and Satellite (ComNetSat 2023), 23-25 November 2023, Malang, Indonesia</li>
   <li style="line-height:130%">8th International Conference on Digital Signal Processing (ICDSP 2024), 23-25 February 2024, Hangzhou, China</li>
