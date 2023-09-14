@@ -22,6 +22,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[September, 2023] 1.	Awarded  Fellow of The Institution of Electronics & Telecommunication Engineers (FIETE), India, 2023.
+<br><br>
+[September, 2023] I am serving as <b>General Chair</b> at the 3rd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2024), 26-28 June 2024, Madrid, Spain.
+<br><br>
 [August, 2023] Our paper titled "Design of a Blockchain-based Secure Health Monitoring System Using Decentralized Machine Learning Technique" accepted in <b>IEEE Communications Magazine</b>.
 <br><br>
 [August, 2023] Awarded an <b>Excellent Performance</b> rating for overall academic performance in the 2022-2023 academic year at the University of Nottingham Ningbo China.
