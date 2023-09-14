@@ -44,6 +44,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>General Chair</b></i>: 3rd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2024), 26-28 June 2024, Madrid, Spain</li>
   <li style="line-height:130%"><i><b>Workshop Chair</b></i>: 2nd International Conference on Internet of Things, Communication and Intelligent Technology (IoTCIT 2023), 22- 24 September 2023, Xuzhou, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.</li>
   <li style="line-height:130%"><i><b>Program Committee Chair</b></i>: International Conference on Images, Algorithms and Artificial Intelligence, 11 – 13 Aug 2023, Singapore</li>
