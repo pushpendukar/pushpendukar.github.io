@@ -38,7 +38,7 @@ redirect_from:
 <br><br>
 [July, 2023] Our paper “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: a deep learning-based approach” accepted in <b>International Journal of Intelligent Transportation Systems Research (Springer)</b>
 <br><br>
-[June, 2023] I have completed <b>Postgraduate Certificate in Higher Education (PGCertHE)</b>[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK
+[June, 2023] I have completed <b>Postgraduate Certificate in Higher Education (PGCHE)</b>[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK
 <br><br>
 [June, 2023] I am serving as <b>Publication Chair</b> at the 2nd International Conference on Computer, Internet of Things and Control
 Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
