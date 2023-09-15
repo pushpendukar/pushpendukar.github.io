@@ -107,7 +107,7 @@ Teaching Experiences (7 Yrs+)
 Research Experiences (5 Yrs)
 ------
 <ul>
-  <li>Visiting Scientist, UNNC-NFTZ Blockchain Laboratory, China (Dec 2019 - Present)</li>
+  <li>Visiting Scientist, UNNC-NFTZ Blockchain Laboratory, China (Dec 2019 - Dec 2023)</li>
   <li>Postdoctoral Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway (Feb 2018 - Jan 2019)</li>
   <li>Postdoctoral Research Fellow, Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore (Nov 2016 - Jan 2018)</li>
   <li>Postdoctoral Research Fellow, Energy Research Institute, Nanyang Technological University, Singapore (Nov 2015 - Nov 2016)</li>
