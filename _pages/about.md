@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[September, 2023] Awarded  Fellow of The Institution of Electronics & Telecommunication Engineers (<b>FIETE</b>), India, 2023.
+[September, 2023] Elected as Fellow of The Institution of Electronics & Telecommunication Engineers (<b>FIETE</b>), India, 2023.
 <br><br>
 [September, 2023] I am serving as <b>General Chair</b> at the 3rd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2024), 26-28 June 2024, Madrid, Spain.
 <br><br>
