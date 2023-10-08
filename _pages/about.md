@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[October, 2023] Our paper titled "BUMS: A Novel Balanced Multi-model Machine Learning System for Real-Time Blood Glucose Prediction and Abnormal Glucose Events Detection" accepted in <b>IEEE Healthcom 2023</b>.
+<br><br>
 [September, 2023] Elected as Fellow of The Institution of Electronics & Telecommunication Engineers (<b>FIETE</b>), India, 2023.
 <br><br>
 [September, 2023] I am serving as <b>General Chair</b> at the 3rd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2024), 26-28 June 2024, Madrid, Spain.
