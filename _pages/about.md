@@ -125,24 +125,30 @@ Industry Experience (1 Yr 4 M)
 Academic Qualifications
 ------
 <ul>
-  <li>PhD, Dept. of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India (Jan 2012 - Jan 2016)</li>
-  <li>Master of Engineering (M.E.), Dept. of Computer Science and Engineering, Jadavpur University, India (Jul 2008 - Jun 2010)</li>
-  <li>Bachelor of Technology (B.Tech), Dept. of Computer Science and Engineering, University of Kalyani, India (Jun 2000 - May 2004)</li>
+  <li><b>Doctor of Philosophy (<i>Ph.D</i>)</b>, Dept. of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India (Jan 2012 - Jan 2016)</li>
+  <li><b>Master of Engineering (<i>M.E.</i>)</b>, Dept. of Computer Science and Engineering, Jadavpur University, India (Jul 2008 - Jun 2010)</li>
+  <li><b>Bachelor of Technology (<i>B.Tech</i>)</b>, Dept. of Computer Science and Engineering, University of Kalyani, India (Jun 2000 - May 2004)</li>
 </ul>
 
 Professional Qualifications
 ------
 <ul>
-  <li>Sun Certified Java Programmer (SCJP) 5.0, 2009</li>
-  <li>Completed eight weeks (21st May 2006 – 14th July 2006) Finishing School program form NIT Durgapur, Durgapur, India conducted by MHRD in consolation with AICTE, Department of IT, NASSCOM & IIT Roorkee, 2006</li>
-  <li>Six months course on J2EE from “STG International (Regional Office)”, Minto Park, Kolkata, India, 2005</li>
-  <li>Three months course on JAVA (Core & Advance) from “CMC Ltd.”, Gariahat, Kolkata, India, 2005</li>
-  <li>Three weeks (4th – 23rd January 2010) UGC sponsor refresher course on Wireless Ad-Hoc and Sensor Networks, Jadavpur University, Kolkata, India, 2010</li>
-  <li>Six months course on Hardware & Networking from “Computer Foundation”, Jadavpur, Kolkata, India, 2004</li>
+  <li><b>Senior Fellow of Higher Education Academy (<i>SFHEA</i>)</b>, Advance HE, UK, July 2023, Registration No.: PR269780</li>
+  <li><b>Sun Certified Java Programmer (<i>SCJP</i>)</b> 5.0, Sun Microsystems, USA, March 2009</li>
 </ul>
 
 Pedagogical Qualifications
 ------
 <ul>
-  <li>Postgraduate Certificate in Higher Education (PGCHE)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK, 2023</li>
+  <li>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Advance HE, UK, November 2023</li>
+</ul>
+
+Courses Completed
+------
+<ul>
+  <li>Completed eight weeks (21st May 2006 – 14th July 2006) Finishing School program form NIT Durgapur, Durgapur, India conducted by MHRD in consolation with AICTE, Department of IT, NASSCOM & IIT Roorkee, 2006</li>
+  <li>Six months course on J2EE from “STG International (Regional Office)”, Minto Park, Kolkata, India, 2005</li>
+  <li>Three months course on JAVA (Core & Advance) from “CMC Ltd.”, Gariahat, Kolkata, India, 2005</li>
+  <li>Three weeks (4th – 23rd January 2010) UGC sponsor refresher course on Wireless Ad-Hoc and Sensor Networks, Jadavpur University, Kolkata, India, 2010</li>
+  <li>Six months course on Hardware & Networking from “Computer Foundation”, Jadavpur, Kolkata, India, 2004</li>
 </ul>
