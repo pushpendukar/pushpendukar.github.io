@@ -140,7 +140,7 @@ Professional Qualifications
 Pedagogical Qualifications
 ------
 <ul>
-  <li>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Advance HE, UK, November 2023</li>
+  <li><b>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)</b>[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Advance HE, UK, November 2023</li>
 </ul>
 
 Courses Completed
