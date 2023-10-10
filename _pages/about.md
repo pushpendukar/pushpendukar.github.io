@@ -143,7 +143,7 @@ Pedagogical Qualifications
   <li>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Advance HE, UK, November 2023</li>
 </ul>
 
-Courses Completed
+Professional Courses Completed
 ------
 <ul>
   <li>Completed eight weeks (21st May 2006 – 14th July 2006) Finishing School program form NIT Durgapur, Durgapur, India conducted by MHRD in consolation with AICTE, Department of IT, NASSCOM & IIT Roorkee, 2006</li>
