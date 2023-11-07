@@ -121,6 +121,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Administrative Duties:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Course Director of Computer Science at the University of Nottingham Ningbo China, 2023 - Present</li>
   <li style="line-height:130%">PGCHE faculty advisor of FoSE at the University of Nottingham Ningbo China, 2023 – Present</li>
   <li style="line-height:130%">The BCS Accreditation Coordinator at the University of Nottingham Ningbo China, 2023</li>
   <li style="line-height:130%">Member of Faculty Education and Student Experience Committee (FESEC) at the University of Nottingham Ningbo China, 2022 - Present</li>
