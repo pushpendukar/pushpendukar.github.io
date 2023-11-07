@@ -22,6 +22,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[October, 2023] Serving as <b>Course Director of Computer Science</b> at the University of Nottingham Ningbo China.
+<br><br>
+[September, 2023] Serving as <b>PGCHE faculty advisor of FoSE</b> at the University of Nottingham Ningbo China.
+<br><br>
 [October, 2023] Our paper titled "BUMS: A Novel Balanced Multi-model Machine Learning System for Real-Time Blood Glucose Prediction and Abnormal Glucose Events Detection" accepted in <b>IEEE Healthcom 2023</b>.
 <br><br>
 [September, 2023] Elected as Fellow of The Institution of Electronics & Telecommunication Engineers (<b>FIETE</b>), India, 2023.
