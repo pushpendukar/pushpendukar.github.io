@@ -6,6 +6,7 @@ author_profile: true
 ---
 <h1 style="font-size:22px">Refereed Journals:</h1>
 <ol>
+  <li>C. F. Kwong, C. Shi, Q. Liu, S. Yang, D. Chieng, and <b>P. Kar</b>, “Autonomous Handover Parameter Optimisation for 5G Cellular Networks using Deep Deterministic Policy Gradient”, <i>Expert Systems With Applications </i>, (Accepted on 6th December 2023) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>L. Hu and <b>P. Kar</b>, “Design of a Blockchain-based Secure Health Monitoring System Using Decentralized Machine Learning Technique”, <i>IEEE Communications Magazine</i>, (Accepted on 23rd August 2023) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li><b>P. Kar</b> and S. Feng, “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: a deep learning-based approach”, <i>International Journal of Intelligent Transportation Systems Research (Springer)</i>, (Accepted on 18th July 2023) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>X. Liang and <b>P. Kar</b>, “Robust and Secure File Transmission Through Video Streaming Using Steganography and Blockchain”, <i>International Journal of Information and Computer Security (Inderscience)</i>, (Accepted on 26th June 2023) <a href=""><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
