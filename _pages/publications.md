@@ -66,13 +66,13 @@ author_profile: true
 <h1 style="font-size:22px">Books:</h1>
 <ul>
   <li>
-    <h1 style="font-size:20px">Authored:</h1>
+    <h1 style="font-size:18px">Authored:</h1>
     <ol>
       <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems Algorithms and their Applications”, Springer
     </ol>
   </li>
   <li>
-   <h1 style="font-size:20px">Edited:</h1>
+   <h1 style="font-size:18px">Edited:</h1>
 <ol>
   <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Recommender Systems: A Multi-Disciplinary Approach”, <i>CRC Press</i>, June 2023, ISBN: 9781003319122 [<a href="https://www.taylorfrancis.com/books/edit/10.1201/9781003319122/recommender-systems-sujoy-datta-monideepa-roy-pushpendu-kar">Link</a>]</li>
   <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.taylorfrancis.com/books/e/9781003055976">Link</a>]</li>
