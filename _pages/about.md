@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[December, 2023] Our book titled <b>Recommender Systems Algorithms and their Applications</b> was accepted for publication by Springer.
+<br><br>
 [October, 2023] Serving as <b>Course Director of Computer Science</b> at the University of Nottingham Ningbo China.
 <br><br>
 [September, 2023] Serving as <b>PGCHE faculty advisor of FoSE</b> at the University of Nottingham Ningbo China.
