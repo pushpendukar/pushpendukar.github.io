@@ -68,7 +68,7 @@ author_profile: true
   <li>
     <h1 style="font-size:18px">Authored:</h1>
     <ol>
-      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems Algorithms and their Applications”, Springer
+      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems Algorithms and their Applications”, Springer</li>
     </ol>
   </li>
   <li>
