@@ -63,12 +63,23 @@ author_profile: true
   <li>M. Roy, <b>P. Kar</b>, and N. Mukherjee, “An Enhanced Service Framework in MANETs for Application in Emergency Services,” <i>in Proceedings of the IEEE International Conference on Intelligent Network and Computing (ICINC)</i>, no.1, pp.191-198, Kuala Lumpur, Malaysia, November 2010 <a href="https://repository.dinus.ac.id/docs/jurin/15073.pdf"><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   <li>M. Roy, <b>P. Kar</b>, and N. Mukherjee, “Determining JINI Leasing Time Limits Using the Random Waypoint Mobility Model in Mobile Ad Hoc Networks,” <i>in Proceedings of the 10th IEEE International Conference on Networking and Information Technology (ICNIT)</i>, pp. 64-69, Manila, Philippines, June 2010 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5508558"><img src="/images/Pdf_icon.png" width="16" height="16"></a></li>
   </ol>
-<h1 style="font-size:22px">Edited Books:</h1>
+<h1 style="font-size:22px">Books:</h1>
+<ul>
+  <li>
+    <h1 style="font-size:20px">Authored:</h1>
+    <ol>
+      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems Algorithms and their Applications”, Springer
+    </ol>
+  </li>
+  <li>
+   <h1 style="font-size:20px">Edited:</h1>
 <ol>
   <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Recommender Systems: A Multi-Disciplinary Approach”, <i>CRC Press</i>, June 2023, ISBN: 9781003319122 [<a href="https://www.taylorfrancis.com/books/edit/10.1201/9781003319122/recommender-systems-sujoy-datta-monideepa-roy-pushpendu-kar">Link</a>]</li>
   <li>M. Roy, <b>P. Kar</b>, and S. Dutta, “Interoperability in IoT for Smart Systems”, <i>CRC Press</i>, December 2020, ISBN: 9780367519865 [<a href="https://www.taylorfrancis.com/books/e/9781003055976">Link</a>]</li>
   <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://novapublishers.com/shop/vehicular-ad-hoc-networks-applications-and-technology/">Link</a>]</li>
 </ol>
+    </li>
+</ul>
 <h1 style="font-size:22px">Book Chapters:</h1>
 <ol>
   <li>S. Singh, M. Roy, S. Datta, and <b>P. Kar</b>, “Application of Swarm Intelligence in Recommender Systems”, in Recommender Systems: A Multi-Disciplinary Approach, <i>CRC Press</i>, June 3023, DOI: 10.1201/9781003319122</li>
