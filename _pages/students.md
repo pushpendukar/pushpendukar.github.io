@@ -13,9 +13,8 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%">Joshua Lai, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Interoperability in Wearable Sensor Networks</li>
   <li style="line-height:130%">Wenzhuo Lyu, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System</li>
-  <li style="line-height:130%">Asma Saleh Mahdi AL-BABAKR, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Assessing the Effects of Quality of Sleep to Mental State</li>
-  <li style="line-height:130%">Chenyu Yang, Department Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Resource Allocation in Track Platooning</li>
-  <li style="line-height:130%">Ningyuan Chen, Department Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Development of NDN-based Secure Communication Model for Vehicular Networks Using Blockchain</li>
+  <li style="line-height:130%">Chenyu Yang, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Resource Allocation in Track Platooning</li>
+  <li style="line-height:130%">Ningyuan Chen, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Development of NDN-based Secure Communication Model for Vehicular Networks Using Blockchain</li>
   <li style="line-height:130%">Qinglin Mao, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Text Image Inpainting for Recognition</li>
 </ol>
   </li>
