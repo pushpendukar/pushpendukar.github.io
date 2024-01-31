@@ -22,10 +22,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[January, 2024] I am serving a <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT
+[January, 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT
 2024), 24 - 25 October 2024, Ningbo, China.
 <br><br>
-[January, 2024] I am serving a <b>General Chair</b> at the International Conference on Artificial Intelligence and Computer Information
+[January, 2024] I am serving as <b>General Chair</b> at the International Conference on Artificial Intelligence and Computer Information
 Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
 <br><br>
 [December, 2023] Happy to share that our patent titled "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" has <b>granted</b> on 12th December 2023.
