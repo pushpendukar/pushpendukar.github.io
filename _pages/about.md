@@ -32,7 +32,7 @@ Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
 <br><br>
 [December, 2023] Our paper titled <b>Autonomous Handover Parameter Optimisation for 5G Cellular Networks using Deep Deterministic Policy Gradient</b> has been accepted in <b>Expert Systems With Applications(Elsevier)</b>.
 <br><br>
-[December, 2023] Our book titled <b>Recommender Systems Algorithms and their Applications</b> was accepted for publication by Springer.
+[December, 2023] Our book titled <b>Recommender Systems: Algorithms and their Applications</b> was accepted for publication by Springer.
 <br><br>
 [October, 2023] Serving as <b>UG Course Director of Computer Science</b> at the University of Nottingham Ningbo China.
 <br><br>
