@@ -75,6 +75,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">The 9th International Conference on Information and Network Technologies (ICINT 2024), 24-26 May 2024, Tokyo, Japan</li>
+  <li style="line-height:130%">The 7th World Conference on Computing and Communication Technologies (WCCCT 2024), 12-14 April 2024, Chengdu, China</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2023), 15–17 December 2023, Chongqing, China</li>
   <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2022:SAC-EH), 9–13 June 2024, Denver, CO, USA</li>
   <li style="line-height:130%">4th International Conference on Cloud and Big Data (CLBD 2023), 11 - 12 November 2023, Dubai, UAE</li>
