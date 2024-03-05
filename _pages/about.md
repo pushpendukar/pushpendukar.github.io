@@ -21,7 +21,9 @@ redirect_from:
 <font size="+.5">
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
-
+  
+[March, 2024] I am serving as <b>General Chair</b> at the Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2024, Rimini, Italy.
+<br><br>
 [February, 2024] Happy to share that our paper titled <b>Advancing NDN Security: Efficient Identification of Cache Pollution Attacks through Rank Comparison</b> has been accepted in <b>Internet of Things(Elsevier)</b>.
 <br><br>
 [January, 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China.
