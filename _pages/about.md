@@ -28,8 +28,7 @@ redirect_from:
 <br><br>
 [January, 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China.
 <br><br>
-[January, 2024] I am serving as <b>Publication Chair</b> at the International Conference on Artificial Intelligence and Computer Information
-Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
+[January, 2024] I am serving as <b>Publication Chair</b> at the International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
 <br><br>
 [December, 2023] Happy to share that our patent titled "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" has <b>granted</b> on 12th December 2023.
 <br><br>
@@ -44,8 +43,6 @@ Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
 [October, 2023] Our paper titled "BUMS: A Novel Balanced Multi-model Machine Learning System for Real-Time Blood Glucose Prediction and Abnormal Glucose Events Detection" accepted in <b>IEEE Healthcom 2023</b>.
 <br><br>
 [September, 2023] Elected as Fellow of The Institution of Electronics & Telecommunication Engineers (<b>FIETE</b>), India, 2023.
-<br><br>
-[September, 2023] I am serving as <b>General Chair</b> at the 3rd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2024), 26-28 June 2024, Madrid, Spain.
 <br><br>
 [August, 2023] Our paper titled "Design of a Blockchain-based Secure Health Monitoring System Using Decentralized Machine Learning Technique" accepted in <b>IEEE Communications Magazine</b>.
 <br><br>
