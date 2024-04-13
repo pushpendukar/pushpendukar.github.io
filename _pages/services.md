@@ -27,6 +27,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Enhancing NDN Security: Name Signature Lookup System", 13th International Conference of Information and Communication Technology (ICTech2024), Xiamen, China, 13th April 2024.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Image, Algorithms and Artificial Intelligence (ICIAAI2023), Singapore, 11th August 2023.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Mechatronics and Automation Technology (ICMAT2022), Wuhan, China, 29th October 2022.</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual, 26th August 2022.</li>
@@ -74,6 +75,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">The 14th International Conference on Software Technology and Engineering (ICSTE 2024), 16-18 August 2024, Macau, China.</li>
   <li style="line-height:130%">The 9th International Conference on Information and Network Technologies (ICINT 2024), 24-26 May 2024, Tokyo, Japan</li>
   <li style="line-height:130%">The 7th World Conference on Computing and Communication Technologies (WCCCT 2024), 12-14 April 2024, Chengdu, China</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2023), 15–17 December 2023, Chongqing, China</li>
