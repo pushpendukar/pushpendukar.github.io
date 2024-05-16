@@ -138,8 +138,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">PhD Thesis Examiner:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><b><i>External Examiner</i>:</b>Padmini Mansingh, “Health Care Data Management Using Big Data Analytics”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2024</li>
-  <li style="line-height:130%"><b><i>Internal Examiner</i>:</b>Lincan Li, “Mobile Edge Cache Technique Under Radio Access Network for The Next Generation of Communication Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2021</li>
+  <li style="line-height:130%"><b><i>External Examiner</i>:</b> Padmini Mansingh, “Health Care Data Management Using Big Data Analytics”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2024</li>
+  <li style="line-height:130%"><b><i>Internal Examiner</i>:</b> Lincan Li, “Mobile Edge Cache Technique Under Radio Access Network for The Next Generation of Communication Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2021</li>
 </ol>
 <h1 style="font-size:22px">Paper Review:</h1>
 <ol style="line-height:80%">
