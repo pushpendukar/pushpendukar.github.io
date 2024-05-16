@@ -11,11 +11,11 @@ redirect_from:
 <ul>
   <li> <h1 style="font-size:18px">Pursuing</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Joshua Lai, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Interoperability in Wearable Sensor Networks</li>
-  <li style="line-height:130%">Wenzhuo Lyu, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System</li>
-  <li style="line-height:130%">Chenyu Yang, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Resource Allocation in Track Platooning</li>
-  <li style="line-height:130%">Ningyuan Chen, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, Thesis title: Development of NDN-based Secure Communication Model for Vehicular Networks Using Blockchain</li>
-  <li style="line-height:130%">Qinglin Mao, School of Computer Science, University of Nottingham Ningbo China, Thesis title: Text Image Inpainting for Recognition</li>
+  <li style="line-height:130%">Joshua Lai, “Interoperability in Wearable Sensor Networks”, School of Computer Science, University of Nottingham Ningbo China.</li>
+  <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China</li>
+  <li style="line-height:130%">Chenyu Yang, “Resource Allocation in Track Platooning”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
+  <li style="line-height:130%">Ningyuan Chen, “Development of NDN-based Secure Communication Model for Vehicular Networks Using Blockchain”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
+  <li style="line-height:130%">Qinglin Mao, “Text Image Inpainting for Recognition”, School of Computer Science, University of Nottingham Ningbo China</li>
 </ol>
   </li>
   </ul>
@@ -29,15 +29,15 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Zongzhe Li, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-based secure and trustworthy Postal System, 2023</li>
-  <li style="line-height:130%">Ce Liu, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Based Secure NDN framework for Remote Health Monitoring System, 2023</li>
-  <li style="line-height:130%">Hao Li, School of Computer Science, University of Nottingham, UK, Thesis Title: Optimization Strategies and Performance Evaluation of Health Monitoring Systems based on Named Data Networking (NDN) via Edge Intelligence, 2023</li>
-  <li style="line-height:130%">Shangqi Yang, School of Computer Science, University of Nottingham, UK, Thesis Title: Designing an Innovative Intelligent Transportation Model Based on Digital Twin and Cyber-Physical Systems, 2023</li>
-  <li style="line-height:130%">Xuesong Zeng, School of Computer Science, University of Nottingham, UK, Thesis Title: EIHR Management System Based on Blockchain and IPFS, 2023</li>
-   <li style="line-height:130%">Shuxin Feng, School of Computer Science, University of Nottingham, UK, Thesis Title: Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach, 2022</li>
-  <li style="line-height:130%">Ayushman Sanyal, School of Computer Science, University of Nottingham, UK, Thesis Title: Architecture for the deployment of C-V2X technology for different landscape requirements, 2022</li>
-  <li style="line-height:130%">Daiyaan Dharsey, School of Computer Science, University of Nottingham, UK, Thesis Title: Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing, 2022</li>
-  <li style="line-height:130%">Harri Prasad, School of Computer Science, University of Nottingham, UK, Thesis Title: Blockchain-Based Secure And Trustworthy Data Communication Model For Internet Of Things, 2021</li>
+  <li style="line-height:130%">Zongzhe Li, “Blockchain-based secure and trustworthy Postal System”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
+  <li style="line-height:130%">Ce Liu, “Blockchain-Based Secure NDN framework for Remote Health Monitoring System”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
+  <li style="line-height:130%">Hao Li, “Optimization Strategies and Performance Evaluation of Health Monitoring Systems based on Named Data Networking (NDN) via Edge Intelligence”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
+  <li style="line-height:130%">Shangqi Yang, “Designing an Innovative Intelligent Transportation Model Based on Digital Twin and Cyber-Physical Systems”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
+  <li style="line-height:130%">Xuesong Zeng, “EIHR Management System Based on Blockchain and IPFS”, 2022 - 2023</li>
+   <li style="line-height:130%">Shuxin Feng, “Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach”, School of Computer Science, University of Nottingham, UK, 2021 - 2022</li>
+  <li style="line-height:130%">Ayushman Sanyal, “Architecture for the deployment of C-V2X technology for different landscape requirements”, School of Computer Science, University of Nottingham, UK, 2021 - 2022</li>
+  <li style="line-height:130%">Daiyaan Dharsey, “Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing”, School of Computer Science, University of Nottingham, UK, 2021 - 2022</li>
+  <li style="line-height:130%">Harri Prasad, “Blockchain-Based Secure And Trustworthy Data Communication Model For Internet Of Things”, School of Computer Science, University of Nottingham, UK, 2020 - 2021</li>
   </ol>
    </li>
   </ul> 
