@@ -22,6 +22,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[June, 2024] Delivered an <b>Invited Talk</b> at the 8th International Conference on Mathematical Models & Computational Techniques in Science & Engineering in Athens, Greece on 02nd June 2024.
+<br><br>
+[May, 2024] Delivered an <b>Invited Talk</b> at Techno College of Engineering Agartala, Tripura, India on 22nd May 2024.
+<br><br>
 [April, 2024] Delivered a <b>Keynote Speech</b> at the 13th International Conference of Information and Communication Technology (ICTech2024) in Xiamen, China on 13th April 2024.
 <br><br>
 [March, 2024] I am serving as <b>General Chair</b> at the Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2024, Rimini, Italy.
