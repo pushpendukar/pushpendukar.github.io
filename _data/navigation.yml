@@ -20,3 +20,6 @@ main:
     
   - title: "Students"
     url: /students/
+
+    - title: "Contacts"
+    url: /contacts/
