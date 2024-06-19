@@ -69,7 +69,7 @@ author_profile: true
   <li>
     <h1 style="font-size:18px">Authored:</h1>
     <ol>
-      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer</li>
+      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2">Link</a>]</li>
     </ol>
   </li>
   <li>
