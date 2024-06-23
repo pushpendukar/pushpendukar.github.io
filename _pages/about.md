@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[June, 2024] Our paper titled <b>“Development of a User-Friendly and Efficient Control System for Smart Home"</b> has been accepted in <b>IEEE International Conference on Internet of Things (iThings), Copenhagen, Denmark, 19 – 22 August 2024</b>.
+<br><br>
 [June, 2024] Delivered an <b>Invited Talk</b> at the 8th International Conference on Mathematical Models & Computational Techniques in Science & Engineering in Athens, Greece on 02nd June 2024.
 <br><br>
 [May, 2024] Delivered an <b>Invited Talk</b> at Techno College of Engineering Agartala, Tripura, India on 22nd May 2024.
