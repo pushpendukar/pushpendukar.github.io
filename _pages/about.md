@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[July, 2024] Our paper titled <b>“Navigating the Road Ahead: A Comprehensive Survey of Radio Resource Allocation for Vehicle Platooning in C-V2X Communications"</b> has been accepted in <b>IEEE Communications Surveys and Tutorials</b>.
+<br><br>
 [June, 2024] Our Indian patent titled "<b>PKI Enabled Time Stamped Digital Signing System Involving Certification Authority Issued Digital Certificate Cryptographic Token With Real-Time Revocation Verification</b>" has been <b>granted</b> on 24th June 2024.
 <br><br>
 [June, 2024] Our paper titled <b>“Development of a User-Friendly and Efficient Control System for Smart Home"</b> has been accepted in <b>IEEE International Conference on Internet of Things (iThings)</b>, Copenhagen, Denmark, 19 – 22 August 2024.
@@ -36,7 +38,7 @@ redirect_from:
 <br><br>
 [February, 2024] Happy to share that our paper titled <b>Advancing NDN Security: Efficient Identification of Cache Pollution Attacks through Rank Comparison</b> has been accepted in <b>Internet of Things(Elsevier)</b>.
 <br><br>
-[January, 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China.
+[January, 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT 2024), 11 - 12 October 2024, Ningbo, China.
 <br><br>
 [January, 2024] I am serving as <b>Publication Chair</b> at the International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
 <br><br>
