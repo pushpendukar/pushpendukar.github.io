@@ -62,19 +62,19 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Session Chair:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">17th IEEE International Wireless Communications & Mobile Computing Conference (IWCMC2021), June 2021, Harbin, China.</li>
+  <li style="line-height:130%">17th IEEE International Wireless Communications & Mobile Computing Conference (IWCMC 2021), June 2021, Harbin, China.</li>
   <li style="line-height:130%">International Conference on Sustainability and Equity: Digital Society, 24 November 2020, Bhubaneswar, India</li>
-  <li style="line-height:130%">20th IEEE International Conference on Communication Technology, October 2020, Nanning, China.</li>
+  <li style="line-height:130%">20th IEEE International Conference on Communication Technology (ICCT 2020), October 2020, Nanning, China.</li>
   <li style="line-height:130%">ACM International Workshop on Future Industrial Communication Networks (FICN) in conjunction with ACM MobiCom, November 2018, New Delhi, India.</li>
-  <li style="line-height:130%">IEEE Region 10 Conference (TENCON), November 2016, Singapore.</li>
+  <li style="line-height:130%">IEEE Region 10 Conference (TENCON 2016), November 2016, Singapore.</li>
 </ol>
 <h1 style="font-size:22px">Conference International Advisory Committee Member:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">3rd International Conference on Advanced Computing and Software Engineering (ICACSE-121), 19-20 February 2021, Sultanpur, Uttar Prades, India.</li>
-  <li style="line-height:130%">International Conference on Research and Applications in Artificial Intelligence (RAAI), 19-20 December 2020, Kolkata, India.</li>
-  <li style="line-height:130%">International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV-2020), 17-19 January 2020, Jaipur, Rajasthan.</li>
-  <li style="line-height:130%">International Conference on Applied Mathematics and Computational Sciences (ICAMCS2019), October 17-19, 2019, Dehradun, India.</li>
-  <li style="line-height:130%">International Conference on Advanced Computing and Software Engineering (ICACSE19), February 2019, Sultanpur, U.P., India.</li>
+  <li style="line-height:130%">3rd International Conference on Advanced Computing and Software Engineering (ICACSE 2021), 19-20 February 2021, Sultanpur, Uttar Prades, India.</li>
+  <li style="line-height:130%">International Conference on Research and Applications in Artificial Intelligence (RAAI 2020), 19-20 December 2020, Kolkata, India.</li>
+  <li style="line-height:130%">International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV 2020), 17-19 January 2020, Jaipur, Rajasthan.</li>
+  <li style="line-height:130%">International Conference on Applied Mathematics and Computational Sciences (ICAMCS 2019), October 17-19, 2019, Dehradun, India.</li>
+  <li style="line-height:130%">International Conference on Advanced Computing and Software Engineering (ICACSE 2019), February 2019, Sultanpur, U.P., India.</li>
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
@@ -83,7 +83,7 @@ redirect_from:
   <li style="line-height:130%">The 9th International Conference on Information and Network Technologies (ICINT 2024), 24-26 May 2024, Tokyo, Japan</li>
   <li style="line-height:130%">The 7th World Conference on Computing and Communication Technologies (WCCCT 2024), 12-14 April 2024, Chengdu, China</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2023), 15–17 December 2023, Chongqing, China</li>
-  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2022:SAC-EH), 9–13 June 2024, Denver, CO, USA</li>
+  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC 2022:SAC-EH), 9–13 June 2024, Denver, CO, USA</li>
   <li style="line-height:130%">4th International Conference on Cloud and Big Data (CLBD 2023), 11 - 12 November 2023, Dubai, UAE</li>
   <li style="line-height:130%">15th International Conference on Networks & Communications (NeCoM 2023), 23 - 24 September 2023, Toronto, Canada</li>
   <li style="line-height:130%">6th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2023), 22 - 24 December, Sanya, China</li>
