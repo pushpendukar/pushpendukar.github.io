@@ -86,24 +86,24 @@ author:
   location         : "Ningbo, China"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=uD84UiAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=uD84UiAAAAAJ&hl=en"{:target="_blank"}
   email            : "pushpendu.kar@nottingham.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Pushpendu-Kar"
-  uri              : "https://www.nottingham.edu.cn/en/Science-Engineering/People/Profile.aspx?id=16db66a4-b285-4024-beb4-92ca31b4b3e5&language=en-GB"
+  researchgate     : "https://www.researchgate.net/profile/Pushpendu-Kar"{:target="_blank"}
+  uri              : "https://www.nottingham.edu.cn/en/Science-Engineering/People/Profile.aspx?id=16db66a4-b285-4024-beb4-92ca31b4b3e5&language=en-GB"{:target="_blank"}
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "pushpendu.kar/"
+  facebook         : "pushpendu.kar/"{:target="_blank"}
   foursquare       :
-  github           : "pushpendukar"
+  github           : "pushpendukar"{:target="_blank"}
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "pushpendu-kar-b39576104/"
-  orcid            : "http://orcid.org/0000-0002-0896-0650"
+  linkedin         : "pushpendu-kar-b39576104/"{:target="_blank"}
+  orcid            : "http://orcid.org/0000-0002-0896-0650"{:target="_blank"}
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
