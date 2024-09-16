@@ -78,8 +78,9 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">1.	IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2024), 18–20 November 2024, Nara, Japan.</li>
-  <li style="line-height:130%">2.	The 10th International Conference on Cloud and Big Data Computing (CBDCom 2024), 5-8 November 2024, Malay, Philippines</li>
+  <li style="line-height:130%">The 15th IEEE Global Information Infrastructure and Networking Symposium (IEEE GIIS2025), 25-27 February 2025, Dubai, UAE</li>
+  <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2024), 18–20 November 2024, Nara, Japan</li>
+  <li style="line-height:130%">The 10th International Conference on Cloud and Big Data Computing (CBDCom 2024), 5-8 November 2024, Malay, Philippines</li>
   <li style="line-height:130%">The 14th International Conference on Software Technology and Engineering (ICSTE 2024), 16-18 August 2024, Macau, China.</li>
   <li style="line-height:130%">IEEE Global Communications Conference: Communication & Information Systems Security (Globecom 2024 CISS), 8–12 December 2024, Cape Town, South Africa.</li>
   <li style="line-height:130%">The 9th International Conference on Information and Network Technologies (ICINT 2024), 24-26 May 2024, Tokyo, Japan</li>
