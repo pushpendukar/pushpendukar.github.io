@@ -48,7 +48,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2024, Rimini, Italy</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2025, Rimini, Italy</li>
   <li style="line-height:130%"><i><b>Technical Program Committee Chair</b></i>: International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15-17 March 2024, Guangzhou, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.</li>
