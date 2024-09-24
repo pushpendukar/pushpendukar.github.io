@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-plugins: - jekyll-target-blank
 locale                   : "en-US"
 title                    : "Dr. Pushpendu Kar"
 title_separator          : "-"
