@@ -32,7 +32,7 @@ redirect_from:
 <br><br>
 [May, 2024] Delivered an <b>Invited Talk</b> at Techno College of Engineering Agartala, Tripura, India on 22nd May 2024.
 <br><br>
-[April, 2024] Recognized as <b>Chartered Engineer (CEng)</b> from <b>Engineering Council</b>, UK on 30th April 2024.
+[April, 2024] Awarded <b>Chartered Engineer (CEng)</b> from <b>Engineering Council</b>, UK on 30th April 2024.
 <br><br>
 [April, 2024] Delivered a <b>Keynote Speech</b> at the 13th International Conference of Information and Communication Technology (ICTech2024) in Xiamen, China on 13th April 2024.
 <br><br>
