@@ -165,7 +165,7 @@ Professional Qualifications
 <ul>
   <li>Chartered Engineer (<i>CEng</i>), Engineering Council, UK, April 2024, Registration No.: 709992</li>
   <li>Senior Fellow of Higher Education Academy (<i>SFHEA</i>), AdvanceHE, UK, July 2023, Registration No.: PR269780</li>
-  <li>Sun Certified Java Programmer (<i>SCJP</i>) 5.0, Sun Microsystems, USA, March 2009</li>
+  <li>Sun Certified Java Programmer (<i>SCJP</i>) 5.0, Sun Microsystems, USA, March 2009, Registration No.: SW409182</li>
 </ul>
 
 Pedagogical Qualifications
