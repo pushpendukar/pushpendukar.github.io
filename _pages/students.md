@@ -11,6 +11,7 @@ redirect_from:
 <ul>
   <li> <h1 style="font-size:18px">Pursuing</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.</li>
   <li style="line-height:130%">Joshua Lai, “Interoperability in Wearable Sensor Networks”, School of Computer Science, University of Nottingham Ningbo China.</li>
   <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China</li>
   <li style="line-height:130%">Chenyu Yang, “Resource Allocation in Track Platooning”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
@@ -29,6 +30,9 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Cheng Yan, "Developing a data secure postal system using Hyperledger Fabric smart contracts", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
+  <li style="line-height:130%">Lihong Wei, "Optimization and Performance Evaluation of Dynamic Threshold-Based Handover Mechanism in Intelligent Transportation Systems", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
+  <li style="line-height:130%">Wenchao Xia, "Lightweight Consensus Algorithms and the Layered Blockchain architecture applied in optimising for Resource-Constrained Devices", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Zongzhe Li, “Blockchain-based secure and trustworthy Postal System”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
   <li style="line-height:130%">Ce Liu, “Blockchain-Based Secure NDN framework for Remote Health Monitoring System”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
   <li style="line-height:130%">Hao Li, “Optimization Strategies and Performance Evaluation of Health Monitoring Systems based on Named Data Networking (NDN) via Edge Intelligence”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
