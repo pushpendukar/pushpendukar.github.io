@@ -78,6 +78,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2025:SAC-EH), 8–12 June 2025, Montreal, Canada.</li>
+  <li style="line-height:130%">9th International Conference on Digital Signal Processing (ICDPS 2025), 21-23 February 2025, Chengdu, China</li>
   <li style="line-height:130%">The 15th IEEE Global Information Infrastructure and Networking Symposium (IEEE GIIS2025), 25-27 February 2025, Dubai, UAE</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2024), 18–20 November 2024, Nara, Japan</li>
   <li style="line-height:130%">The 10th International Conference on Cloud and Big Data Computing (CBDCom 2024), 5-8 November 2024, Malay, Philippines</li>
@@ -86,7 +88,7 @@ redirect_from:
   <li style="line-height:130%">The 9th International Conference on Information and Network Technologies (ICINT 2024), 24-26 May 2024, Tokyo, Japan</li>
   <li style="line-height:130%">The 7th World Conference on Computing and Communication Technologies (WCCCT 2024), 12-14 April 2024, Chengdu, China</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2023), 15–17 December 2023, Chongqing, China</li>
-  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC 2022:SAC-EH), 9–13 June 2024, Denver, CO, USA</li>
+  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC 2024:SAC-EH), 9–13 June 2024, Denver, CO, USA</li>
   <li style="line-height:130%">4th International Conference on Cloud and Big Data (CLBD 2023), 11 - 12 November 2023, Dubai, UAE</li>
   <li style="line-height:130%">15th International Conference on Networks & Communications (NeCoM 2023), 23 - 24 September 2023, Toronto, Canada</li>
   <li style="line-height:130%">6th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI 2023), 22 - 24 December, Sanya, China</li>
