@@ -20,6 +20,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, Computing and Artificial Intelligence, 2024 - 2026</li>
   <li style="line-height:130%"><i><b>Guest Editor</b></i>, Internet of Medical Things (IoMT): Current Challenges to Future Solutions with Innovative Techniques and Tools for Smart Healthcare Applications, Frontiers in Communications and Networks (Impact factor: 2.21), 2023 - 2024.</li>
   <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, International Journal of Engineering Business Management, Sage Publisher (Impact factor: 3.3), 2022 - Present</li>
   <li style="line-height:130%"><i><b>Academic Editor</b></i>, Journal of Healthcare Engineering, Hindawi (Impact factor: 2.68), 2021 - 2023</li>
