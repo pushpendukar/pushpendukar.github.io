@@ -14,9 +14,14 @@ redirect_from:
   <li style="line-height:130%">Institution of Engineering and Technology (IET), Member, Id: 1101015556</li>
   <li style="line-height:130%">International Association of Computer Science and Information Technology (IACSIT), Lifetime Member, Id: 80339962</li>
 </ol>
+<h1 style="font-size:22px">Professional Institution Leadership:</h1>
+<ol style="line-height:90%">
+  <li style="line-height:130%">International Professional Registration Advisor (IPRA), The Institution of Engineering and Technology (IET), UK, 2024 - Present.</li>
+  <li style="line-height:130%">Professional Registration Interviewer (PRI) for CEng/IEng, The Institution of Engineering and Technology (IET), UK, 2024 - Present.</li>
+</ol>
 <h1 style="font-size:22px">Research Laboratory Development:</h1>
 <ol style="line-height:90%">
-  <li style="line-height:130%"><b><i>Co-Developer</i></b>, Next Generation Internet of Things (NGIoE) Laboratory, Faculty of Science and Engineering, University of Nottingham Ningbo, China (Director: Dr. Chiew-Foong Kwong and Co-Director: Dr. David Chieng)</li>
+  <li style="line-height:130%"><b><i>Co-Developer</i></b>, Next Generation Internet of Things (NGIoE) Laboratory, Faculty of Science and Engineering, University of Nottingham Ningbo, China (Directors: Dr. Chiew-Foong Kwong and Co-Director: Dr. David Chieng)</li>
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
@@ -138,7 +143,8 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%">Computer Science UG Course Director at the University of Nottingham Ningbo China, 2023 - Present</li>
   <li style="line-height:130%">PGCHE faculty advisor of FoSE at the University of Nottingham Ningbo China, 2023 – Present</li>
-  <li style="line-height:130%">The BCS Accreditation Coordinator at the University of Nottingham Ningbo China, 2023</li>
+  <li style="line-height:130%">The BCS Accreditation Coordinator at the University of Nottingham Ningbo China, 2023 - Present</li>
+  <li style="line-height:130%">School of Computer Science Learning Community Forum (LCF) Coordinator, University of Nottingham Ningbo China, 2023 - Present</li>
   <li style="line-height:130%">Appointed Member of Faculty Education and Student Experience Committee (FESEC) at the University of Nottingham Ningbo China, 2022 - Present</li>
   <li style="line-height:130%">Member of the Admission and International Relations committee at the University of Nottingham Ningbo China, 2020 - Present</li>
   <li style="line-height:130%">Member of EC Committee in the School of Computer Science at the University of Nottingham Ningbo China, 2020 - 2021</li>
