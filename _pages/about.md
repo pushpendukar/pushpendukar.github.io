@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[October, 2024] Joined as an <b>International Professional Registration Advisor (IPRA)</b> and <b>Professional Registration Interviewer (PRI) for CEng/IEng</b> in The Institution of Engineering and Technology (<b>IET</b>), UK.
+<br><br>
 [August, 2024] Awarded an <b>Excellent Performance</b> rating for overall academic performance in the 2023-2024 academic year at the University of Nottingham Ningbo China.
 <br><br>
 [July, 2024] Our paper titled <b>“Navigating the Road Ahead: A Comprehensive Survey of Radio Resource Allocation for Vehicle Platooning in C-V2X Communications"</b> has been accepted in <b>IEEE Communications Surveys and Tutorials</b>.
