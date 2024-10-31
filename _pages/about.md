@@ -141,7 +141,7 @@ Teaching Experiences (8 Yrs+)
 Research Experiences (5 Yrs)
 ------
 <ul>
-  <li>Postdoctoral Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway (Feb 2018 - Jan 2019)</li>
+  <li>Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway (Feb 2018 - Jan 2019)</li>
   <li>Postdoctoral Research Fellow, Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore (Nov 2016 - Jan 2018)</li>
   <li>Postdoctoral Research Fellow, Energy Research Institute, Nanyang Technological University, Singapore (Nov 2015 - Nov 2016)</li>
   <li>Researcher, Dept. of Electronics and Electrical Communication Engineering, IIT Kharagpur, India (Apr 2014 - Aug 2014)</li>
@@ -173,15 +173,15 @@ Professional Qualifications
 Pedagogical Qualifications
 ------
 <ul>
-  <li>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Advance HE, UK, November 2023</li>
+  <li>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of AdvanceHE, UK, November 2023</li>
 </ul>
 
-Professional Courses Completed
+Professional Trainings
 ------
 <ul>
   <li>Completed eight weeks (21st May 2006 – 14th July 2006) Finishing School program form NIT Durgapur, Durgapur, India conducted by MHRD in consolation with AICTE, Department of IT, NASSCOM & IIT Roorkee, 2006</li>
-  <li>Six months course on J2EE from “STG International (Regional Office)”, Minto Park, Kolkata, India, 2005</li>
-  <li>Three months course on JAVA (Core & Advance) from “CMC Ltd.”, Gariahat, Kolkata, India, 2005</li>
+  <li>Six months training on J2EE from “STG International (Regional Office)”, Minto Park, Kolkata, India, 2005</li>
+  <li>Three months training on JAVA (Core & Advance) from “CMC Ltd.”, Gariahat, Kolkata, India, 2005</li>
   <li>Three weeks (4th – 23rd January 2010) UGC sponsor refresher course on Wireless Ad-Hoc and Sensor Networks, Jadavpur University, Kolkata, India, 2010</li>
-  <li>Six months course on Hardware & Networking from “Computer Foundation”, Jadavpur, Kolkata, India, 2004</li>
+  <li>Six months training on Hardware & Networking from “Computer Foundation”, Jadavpur, Kolkata, India, 2004</li>
 </ul>
