@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[August, 2024] Awarded an <b>Excellent Performance</b> rating for overall academic performance in the 2023-2024 academic year at the University of Nottingham Ningbo China.
+<br><br>
 [July, 2024] Our paper titled <b>“Navigating the Road Ahead: A Comprehensive Survey of Radio Resource Allocation for Vehicle Platooning in C-V2X Communications"</b> has been accepted in <b>IEEE Communications Surveys and Tutorials</b>.
 <br><br>
 [June, 2024] Our Indian patent titled "<b>PKI Enabled Time Stamped Digital Signing System Involving Certification Authority Issued Digital Certificate Cryptographic Token With Real-Time Revocation Verification</b>" has been <b>granted</b> on 24th June 2024.
