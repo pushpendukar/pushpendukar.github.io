@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[November, 2024] Our paper titled "ALDII: Adaptive Learning-based Document Image Inpainting to Enhance the Handwritten Chinese Character Legibility of Human and Machine" was accepted in <b>Neurocomputing (Elsevier)</b> on 7th November 2024.
+<br><br>
 [October, 2024] Joined as an <b>International Professional Registration Advisor (IPRA)</b> and <b>Professional Registration Interviewer (PRI) for CEng/IEng</b> in The Institution of Engineering and Technology (<b>IET</b>), UK.
 <br><br>
 [August, 2024] Awarded an <b>Excellent Performance</b> rating for overall academic performance in the 2023-2024 academic year at the University of Nottingham Ningbo China.
