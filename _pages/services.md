@@ -84,6 +84,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">The IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications (IARIA Congress 2025), 6 - 10 July 2025, Venice, Italy</li>
   <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2025:SAC-EH), 8–12 June 2025, Montreal, Canada.</li>
   <li style="line-height:130%">9th International Conference on Digital Signal Processing (ICDSP 2025), 21-23 February 2025, Chengdu, China</li>
   <li style="line-height:130%">The 15th IEEE Global Information Infrastructure and Networking Symposium (IEEE GIIS2025), 25-27 February 2025, Dubai, UAE</li>
