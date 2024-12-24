@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[December, 2024] Joined as a <b>Guest Editor</b> in PLOS ONE.
+<br><br>
 [December, 2024] Our paper titled "βFSCM: An Enhanced Food Supply Chain Management System Using Hybrid Blockchain and Recommender Systems" was accepted in <b>Blockchain: Research and Applications (Elsevier)</b>.
 <br><br>
 [November, 2024] Our paper titled "An Accurate Salary Estimation Scheme by Using BigData Technique" was accepted in <b>BDCAT 2024</b>.
