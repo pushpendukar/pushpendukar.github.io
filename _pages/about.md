@@ -151,7 +151,7 @@ Professional Experiences (16 Yrs+)
   <li>Associate System Engineer, IBM, India (Jun 2010 - Oct 2011)</li>
   <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India (Apr 2006 - Jul 2008)</li>
   <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India (July 2005 - Apr 2006)</li>
-  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India (Aug 2005 - Apr 2006)</li>
+  <li>Visiting Lecturer, Bachelor of Computer Application, IT Center, North Bengal University, India (Aug 2005 - Apr 2006)</li>
 </ul>
 
 Academic Qualifications
