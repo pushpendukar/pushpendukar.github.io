@@ -138,30 +138,20 @@ Dr. Pushpendu Kar is currently working as an Assistant Professor in the [School 
 
 The full CV is available [here](/files/Pushpendu_Kar_CV.pdf){:target="_blank"}.
 
-Teaching Experiences (8 Yrs+)
+Professional Experiences (16 Yrs+)
 ------
 <ul>
   <li>Assistant Professor, School of Computer Science, University of Nottingham, China (Mar 2019 - Present)</li>
-  <li>Visiting Lecturer, AMIE Course, Institute of Engineers (Kharagpur Local Center), India (Oct 2011 - Nov 2013)</li>
-  <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India (Apr 2006 - Jul 2008)</li>
-  <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India (July 2005 - Apr 2006)</li>
-  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India (Aug 2005 - Apr 2006)</li>
-</ul>
-
-Research Experiences (5 Yrs)
-------
-<ul>
   <li>Research Fellow, Dept. of ICT and Natural Sciences, Norwegian University of Science and Technology, Norway (Feb 2018 - Jan 2019)</li>
   <li>Postdoctoral Research Fellow, Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore (Nov 2016 - Jan 2018)</li>
   <li>Postdoctoral Research Fellow, Energy Research Institute, Nanyang Technological University, Singapore (Nov 2015 - Nov 2016)</li>
   <li>Researcher, Dept. of Electronics and Electrical Communication Engineering, IIT Kharagpur, India (Apr 2014 - Aug 2014)</li>
+  <li>Visiting Lecturer, AMIE Course, Institute of Engineers (Kharagpur Local Center), India (Oct 2011 - Nov 2013)</li>
   <li>Senior Project Assistant, Dept. of Computer Science and Engineering, IIT Kharagpur, India (Oct 2011 - Mar 2013)</li>
-</ul>
-
-Industry Experience (1 Yr 4 M)
-------
-<ul>
   <li>Associate System Engineer, IBM, India (Jun 2010 - Oct 2011)</li>
+  <li>Lecturer, Dept. of Information Technology, Birbhum Institute of Engineering & Technology, India (Apr 2006 - Jul 2008)</li>
+  <li>Lecturer, Dept. of Computer Science and Engineering, Siliguri Institute of Technology, India (July 2005 - Apr 2006)</li>
+  <li>Visiting Lecturer, Bachelor of Computer Appl., IT Center, North Bengal University, India (Aug 2005 - Apr 2006)</li>
 </ul>
 
 Academic Qualifications
@@ -172,11 +162,13 @@ Academic Qualifications
   <li>Bachelor of Technology (<i>B.Tech</i>), Dept. of Computer Science and Engineering, University of Kalyani, India (Jun 2000 - May 2004)</li>
 </ul>
 
-Professional Qualifications
+Professional Memberships/Qualifications
 ------
 <ul>
-  <li>Chartered Engineer (<i>CEng</i>), Engineering Council, UK, April 2024, Registration No.: 709992</li>
   <li>Senior Fellow of Higher Education Academy (<i>SFHEA</i>), AdvanceHE, UK, July 2023, Registration No.: PR269780</li>
+  <li>Fellow, The Institution of Electronics & Telecommunication Engineers (<i>IETE</i>), India, September 2023, Registration No.: F-504050</li>
+  <li>Chartered Engineer (<i>CEng</i>), Engineering Council, UK, April 2024, Registration No.: 709992</li>
+  <li>Senior Member, The Institute of Electrical and Electronics Engineers (IEEE), USA, July 2020, Registration No.: 93025879</li>
   <li>Sun Certified Java Programmer (<i>SCJP</i>) 5.0, Sun Microsystems, USA, March 2009, Registration No.: SW409182</li>
 </ul>
 
@@ -186,7 +178,7 @@ Pedagogical Qualifications
   <li>Postgraduate Certificate in Higher Education (<i>PGCHE</i>)[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of AdvanceHE, UK, November 2023</li>
 </ul>
 
-Professional Trainings
+Professional Training
 ------
 <ul>
   <li>Completed eight weeks (21st May 2006 – 14th July 2006) Finishing School program form NIT Durgapur, Durgapur, India conducted by MHRD in consolation with AICTE, Department of IT, NASSCOM & IIT Roorkee, 2006</li>
