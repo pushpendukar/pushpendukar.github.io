@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[January, 2025] Our paper titled "Efficient and Secure Data Sharing in Scalable C-V2X with Dynamic Sharding Blockchain and Zero-Knowledge Proofs" was accepted in <b>IEEE International Conference on Communications (ICC 2025)</b>.
+<br><br>
 [December, 2024] Joined as a <b>Guest Editor</b> in PLOS ONE.
 <br><br>
 [December, 2024] Our paper titled "βFSCM: An Enhanced Food Supply Chain Management System Using Hybrid Blockchain and Recommender Systems" was accepted in <b>Blockchain: Research and Applications (Elsevier)</b>.
