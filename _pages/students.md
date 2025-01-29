@@ -37,7 +37,7 @@ redirect_from:
   <li style="line-height:130%">Ce Liu, “Blockchain-Based Secure NDN framework for Remote Health Monitoring System”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
   <li style="line-height:130%">Hao Li, “Optimization Strategies and Performance Evaluation of Health Monitoring Systems based on Named Data Networking (NDN) via Edge Intelligence”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
   <li style="line-height:130%">Shangqi Yang, “Designing an Innovative Intelligent Transportation Model Based on Digital Twin and Cyber-Physical Systems”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
-  <li style="line-height:130%">Xuesong Zeng, “EIHR Management System Based on Blockchain and IPFS”, 2022 - 2023</li>
+  <li style="line-height:130%">Xuesong Zeng, “EIHR Management System Based on Blockchain and IPFS”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
    <li style="line-height:130%">Shuxin Feng, “Intelligent Traffic Prediction System by Combining Weather and Road Condition Information: a deep learning-based approach”, School of Computer Science, University of Nottingham, UK, 2021 - 2022</li>
   <li style="line-height:130%">Ayushman Sanyal, “Architecture for the deployment of C-V2X technology for different landscape requirements”, School of Computer Science, University of Nottingham, UK, 2021 - 2022</li>
   <li style="line-height:130%">Daiyaan Dharsey, “Development of a Blockchain-Based Electronic Patient Records (EPR) system with less vulnerable endpoints using asymmetric encryption and hashing”, School of Computer Science, University of Nottingham, UK, 2021 - 2022</li>
