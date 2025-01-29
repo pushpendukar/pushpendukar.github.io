@@ -88,6 +88,9 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Yan Ge, Zefei Xie, and Junxi Wu, "Artificial Intelligence in Content Centric Networking", School of Computer Science, University of Nottingham Ningbo China, June - August 2024</li>
+  <li style="line-height:130%">Shuhang Kong and Huayi Zhang, "Blockchain-based Content-Centric Networking", School of Computer Science, University of Nottingham Ningbo China, June - August 2024</li>
+  <li style="line-height:130%">Run Yang and Hangqi Wan, "Mobility and Security issues of Content-Centric Network and their solution", School of Computer Science, University of Nottingham Ningbo China, June - August 2023</li>
   <li style="line-height:130%">Zhihang Zhu and Yiran Mang, “Recommender System for Healthcare”, School of Computer Science, University of Nottingham Ningbo China, March - June 2022</li>
   <li style="line-height:130%">Tianyi Ma and Chenyu Yang, “Research and Development of Trust-Centric and Attack-Centric Recommender Systems”, School of Computer Science, University of Nottingham Ningbo China, March - June 2022</li>
   <li style="line-height:130%">Xinyi Wang and Yifei Miao, “Recommender System Applications”, School of Computer Science, University of Nottingham Ningbo China, March - June 2022</li>
