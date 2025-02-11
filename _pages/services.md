@@ -86,6 +86,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2025), 21–23 October 2025, Abu Dhabi, United Arab Emirates</li>
   <li style="line-height:130%">The IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS), 6-8 November, 2025, Bali, Indonesia</li>
   <li style="line-height:130%">The 6th International Conference on Artificial Intelligence, Robotics, and Control, 7 - 9 May 2025, Savannah, GA, USA</li>
   <li style="line-height:130%">The IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications (IARIA Congress 2025), 6 - 10 July 2025, Venice, Italy</li>
