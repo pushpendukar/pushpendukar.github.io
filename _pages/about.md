@@ -166,7 +166,7 @@ Academic Qualifications
   <li>Bachelor of Technology (<i>B.Tech</i>), Dept. of Computer Science and Engineering, University of Kalyani, India (Jun 2000 - May 2004)</li>
 </ul>
 
-Professional Memberships/Qualifications
+Professional Qualifications/Memberships
 ------
 <ul>
   <li>Senior Fellow of Higher Education Academy (<i>SFHEA</i>), AdvanceHE, UK, July 2023, Registration No.: PR269780</li>
