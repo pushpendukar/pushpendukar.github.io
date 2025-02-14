@@ -25,6 +25,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, International Journal of Applied Pattern Recognition (Impact factor: 1.1), InderScience, 2025 - Present</li>
   <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, Scientific Reports (Impact factor: 3.8), Springer Nature, 2025 - Present</li>
   <li style="line-height:130%"><i><b>Guest Editor</b></i>, PLOS ONE, 2024 - Present</li>
   <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, Computing and Artificial Intelligence, 2024 - 2026</li>
