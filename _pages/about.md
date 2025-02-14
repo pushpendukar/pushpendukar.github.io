@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[February, 2025] Joined as an <b>Editorial Board Member</b> in <i>International Journal of Applied Pattern Recognition</i> (Impact factor: 1.1), InderScience
+<br><br>
 [January, 2025] Joined as an <b>Editorial Board Member</b> in <i>Scientific Reports</i> (Impact factor: 3.8), Springer Nature
 <br><br>
 [January, 2025] Our paper titled "Efficient and Secure Data Sharing in Scalable C-V2X with Dynamic Sharding Blockchain and Zero-Knowledge Proofs" was accepted in <b>IEEE International Conference on Communications (ICC 2025)</b>.
