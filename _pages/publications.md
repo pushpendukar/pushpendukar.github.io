@@ -99,7 +99,7 @@ author_profile: true
 
 <h1 style="font-size:22px">Patents:</h1>
 <ol>
-  <li>Q. Mao, A. G. Bellotti, <b>P. Kar</b>, “A text image repair method, device and storage medium”, <i>Chinese patent</i> <b>granted</b> on 27th February 2025 (Patent no: 202410370947.5)</li>
+  <li>Q. Mao, A. G. Bellotti, <b>P. Kar</b>, “A text image repair method, device and storage medium”, <i>Chinese patent</i> <b>granted</b> on 27th February 2025 (Patent no: 2025022700346710)</li>
    <li>S. Misra, S. Goswami, <b>P. Kar</b>, and A. Roy, “PKI Enabled Time Stamped Digital Signing System Involving Certification Authority Issued Digital Certificate Cryptographic Token With Real-Time Revocation Verification”, <i>Indian patent</i> <b>granted</b> on 24th June 2024 (Patent no: 537779)</li>
    <li>S. Misra, A. Roy, <b>P. Kar</b>, and S. Goswami, “An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System”, <i>Indian patent</i> <b>granted</b> on 12th December 2023 (Patent no.: 480946)</li>
   <li>S. Misra, <b>P. Kar</b>, A. Roy, and S. Goswami, “An Advanced Wireless Sensor Network System and Method for Accurate Information Gathering from a Radiation Affected Area”, <i>Indian patent</i> <b>granted</b> on 3rd August 2023 (Patent no.: 442698)</li>
