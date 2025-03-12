@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[February, 2025] Our Chinese patent titled "<b>A text image repair method, device and storage medium</b>" has been <b>granted</b> on 27th February 2025.
+<br><br>
 [February, 2025] Joined as an <b>Editorial Board Member</b> in <i>International Journal of Applied Pattern Recognition</i> (Impact factor: 1.1), InderScience
 <br><br>
 [January, 2025] Joined as an <b>Editorial Board Member</b> in <i>Scientific Reports</i> (Impact factor: 3.8), Springer Nature
