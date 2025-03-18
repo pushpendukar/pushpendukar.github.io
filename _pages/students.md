@@ -34,7 +34,7 @@ redirect_from:
     <li>
       <h1 style="font-size:14px">Lead Supervisor:</h1>
     <ol>
-      <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.(2024-2024)</li>
+      <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.(2024-2028)</li>
        <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China (2021-2026)</li>
     </ol>
   </li>
