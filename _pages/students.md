@@ -15,13 +15,13 @@ redirect_from:
     <li>
       <h1 style="font-size:14px">Lead Supervisor:</h1>
     <ol>
-      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+      <li style="line-height:130%">Joshua Lai, “Multisensory Wearable Blood Pressure Monitoring System for Smart Health Home”, School of Computer Science, University of Nottingham Ningbo China. (Thesis submitted and waiting for final viva)</li>
     </ol>
   </li>
   <li>
       <h1 style="font-size:14px">Co-Supervisor:</h1>
     <ol>
-      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+      <li style="line-height:130%">Ningyuan Chen, “Scalable Blockchain Architectures for Enhancing Integrity and Privacy in Vehicular Ad-hoc Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
     </ol>
   </li>
     </ul>  
@@ -29,18 +29,20 @@ redirect_from:
 </ul>
 <ul>
   <li>
-    <h1 style="font-size:18px">Completed:</h1>
+    <h1 style="font-size:18px">Pursuing:</h1>
     <ul>
     <li>
       <h1 style="font-size:14px">Lead Supervisor:</h1>
     <ol>
-      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+      <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.</li>
+       <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China</li>
     </ol>
   </li>
   <li>
       <h1 style="font-size:14px">Co-Supervisor:</h1>
     <ol>
-      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+      <li style="line-height:130%">Chenyu Yang, “Resource Allocation in Track Platooning”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
+      <li style="line-height:130%">Qinglin Mao, “Text Image Inpainting for Recognition”, School of Computer Science, University of Nottingham Ningbo China</li>
     </ol>
   </li>
     </ul>  
