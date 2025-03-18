@@ -49,20 +49,6 @@ redirect_from:
   </li>
 </ul>
 
-<h1 style="font-size:22px">PhD Students:</h1>
-<ul>
-  <li> <h1 style="font-size:18px">Pursuing</h1>
-<ol style="line-height:80%">
-  <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.</li>
-  <li style="line-height:130%">Joshua Lai, “Multisensory Wearable Blood Pressure Monitoring System for Smart Health Home”, School of Computer Science, University of Nottingham Ningbo China.</li>
-  <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China</li>
-  <li style="line-height:130%">Chenyu Yang, “Resource Allocation in Track Platooning”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
-  <li style="line-height:130%">Ningyuan Chen, “Scalable Blockchain Architectures for Enhancing Integrity and Privacy in Vehicular Ad-hoc Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China</li>
-  <li style="line-height:130%">Qinglin Mao, “Text Image Inpainting for Recognition”, School of Computer Science, University of Nottingham Ningbo China</li>
-</ol>
-  </li>
-  </ul>
-  
 <h1 style="font-size:22px">Master Thesis Students:</h1>
 <ul>
   <!-- <li><h1 style="font-size:18px">Pursuing</h1> -->
