@@ -9,6 +9,27 @@ redirect_from:
 
 <h1 style="font-size:22px">PhD Students:</h1>
 <ul>
+  <li>
+    <h1 style="font-size:18px">Completed:</h1>
+    <ul>
+    <li>
+      <h1 style="font-size:14px">Lead Supervisor:</h1>
+    <ol>
+      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+    </ol>
+  </li>
+  <li>
+      <h1 style="font-size:14px">Co-Supervisor:</h1>
+    <ol>
+      <li> <b>P. Kar</b>, M. Roy, and S. Dutta, “Recommender Systems: Algorithms and their Applications”, Springer, June 2024, ISBN: 978-981-97-0537-5 [<a href="https://link.springer.com/book/10.1007/978-981-97-0538-2" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+    </ol>
+  </li>
+    </ul>  
+  </li>
+</ul>
+
+<h1 style="font-size:22px">PhD Students:</h1>
+<ul>
   <li> <h1 style="font-size:18px">Pursuing</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.</li>
