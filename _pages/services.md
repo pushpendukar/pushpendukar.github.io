@@ -154,7 +154,7 @@ redirect_from:
   <li style="line-height:130%">PGCHE faculty advisor of FoSE at the University of Nottingham Ningbo China, 2023 – Present</li>
   <li style="line-height:130%">The BCS Accreditation Coordinator at the University of Nottingham Ningbo China, 2023 - Present</li>
   <li style="line-height:130%">Learning Community Forum (LCF) Coordinator, School of Computer Science, University of Nottingham Ningbo China, 2023 - Present</li>
-  <li style="line-height:130%">Appointed Member of Faculty Education and Student Experience Group (FESEG) at the University of Nottingham Ningbo China, 2022 - Present</li>
+  <li style="line-height:130%">Faculty Student Engagement and Feedback Officer at the University of Nottingham Ningbo China, 2022 - Present</li>
   <li style="line-height:130%">Member of the Admission and International Relations committee at the University of Nottingham Ningbo China, 2020 - Present</li>
   <li style="line-height:130%">Member of EC Committee in the School of Computer Science at the University of Nottingham Ningbo China, 2020 - 2021</li>
   <li style="line-height:130%">Held the post of Cashier at Vikram Sarabhai Residential Complex (VSRC) Hall, IIT Kharagpur, 2013 - 2014</li>
