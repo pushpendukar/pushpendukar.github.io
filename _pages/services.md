@@ -87,6 +87,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">10th International Conference on Frontiers of Signal Processing (ICFSP 2025), 10-12 September 2025, Paris, France</li>
   <li style="line-height:130%">IEEE Global Communications Conference (GLOBECOM 2025), 8 - 12 December 2025, Taipei, Taiwan</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2025), 21–23 October 2025, Abu Dhabi, United Arab Emirates</li>
   <li style="line-height:130%">The IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS), 6-8 November, 2025, Bali, Indonesia</li>
