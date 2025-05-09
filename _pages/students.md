@@ -12,15 +12,15 @@ redirect_from:
   <li>
     <h1 style="font-size:18px">Completed:</h1>
     <ol>
-      <li style="line-height:130%">Joshua Lai, “Multisensory Wearable Blood Pressure Monitoring System for Smart Health Home”, School of Computer Science, University of Nottingham Ningbo China. (Thesis submitted and waiting for final viva)</li>
-      <li style="line-height:130%">Ningyuan Chen, “Scalable Blockchain Architectures for Enhancing Integrity and Privacy in Vehicular Ad-hoc Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2025</li>
+      <li style="line-height:130%">Joshua Lai, “Multisensory Wearable Blood Pressure Monitoring System for Smart Health Home”, School of Computer Science, University of Nottingham Ningbo China, 2021 - 2025 (Lead Supervisor)</li>
+      <li style="line-height:130%">Ningyuan Chen, “Scalable Blockchain Architectures for Enhancing Integrity and Privacy in Vehicular Ad-hoc Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2020 - 2024 (Co-Supervisor)</li>
     </ol>
    <h1 style="font-size:18px">Pursuing:</h1>
    <ol>
-      <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China.(2024-2028)</li>
-       <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China (2021-2026)</li>
-      <li style="line-height:130%">Chenyu Yang, “Resource Allocation in Track Platooning”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China(2022-2026)</li>
-      <li style="line-height:130%">Qinglin Mao, “Text Image Inpainting for Recognition”, School of Computer Science, University of Nottingham Ningbo China (2022-2026)</li>
+      <li style="line-height:130%">Ximing Zhang, "Exploring an optimal security mechanism for ubiquitous V2X connections", School of Computer Science, University of Nottingham Ningbo China, 2024-2028, (Lead Supervisor)</li>
+       <li style="line-height:130%">Wenzhuo Lyu, “Development of an Efficient Plug-n-Play and Real-Time Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China, 2021-2026, (Lead Supervisor)</li>
+      <li style="line-height:130%">Chenyu Yang, “Resource Allocation in Track Platooning”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2022-2026, (Co-Supervisor)</li>
+      <li style="line-height:130%">Qinglin Mao, “Text Image Inpainting for Recognition”, School of Computer Science, University of Nottingham Ningbo China, 2022-2026, (Co-Supervisor)</li>
     </ol> 
   </li>
 </ul>
