@@ -35,7 +35,7 @@ redirect_from:
   <li style="line-height:130%"><i><b>Editor</b></i>, American Journal of Networks and Communications, Science Publishing Group, 2022 – 2024</li>
   <li style="line-height:130%"><i><b>Review Editor</b></i>, Frontiers in the Internet of Things - IoT Services and Applications, 2022 - Present</li>
 </ol>
-<h1 style="font-size:22px">Distinguish Talks:</h1>
+<h1 style="font-size:22px">Conference Organization:</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%">Organized International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China, Role: Technical Program Committee Chair</li>
   </ol>
