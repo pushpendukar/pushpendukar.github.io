@@ -37,6 +37,10 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Organized International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China, Role: Technical Program Committee Chair</li>
+  </ol>
+<h1 style="font-size:22px">Distinguish Talks:</h1>
+<ol style="line-height:80%">
   <li style="line-height:130%"><i><b>Invited Talk</b></i>: “Identifying COVID-19 Fake News on Social Networks Using Deep Learning: You will not know what happens next!”, 8th International Conference on Mathematical Models & Computational Techniques in Science & Engineering (MMCTSE 2024), Athens, Greece, 02nd June 2024</li>
   <li style="line-height:130%"><i><b>Invited Talk</b></i>: “Smart Home Control Through Activity Recognition”, Techno College of Engineering Agartala, Tripura, India, 22nd May 2024</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Enhancing NDN Security: Name Signature Lookup System", 13th International Conference of Information and Communication Technology (ICTech 2024), Xiamen, China, 13th April 2024</li>
@@ -58,7 +62,6 @@ redirect_from:
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2025, Rimini, Italy</li>
-  <li style="line-height:130%"><i><b>Technical Program Committee Chair</b></i>: International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15-17 March 2024, Guangzhou, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.</li>
   <li style="line-height:130%"><i><b>Program Committee Chair</b></i>: International Conference on Images, Algorithms and Artificial Intelligence (ICIAAI 2023), 11 – 13 Aug 2023, Singapore</li>
