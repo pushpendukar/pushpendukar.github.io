@@ -56,6 +56,8 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Zhengkai Qiu, "A Genomic Data Analysis-Based Technique for Personalized and Precise Medicine", School of Computer Science, University of Nottingham Ningbo China, 2024-25</li>
+  <li style="line-height:130%">Feiyang Sun, “Jiarui Wu, "TinyML-based Energy-Efficient Keyword Spotting on Resource-Constrained Devices Using MicroNets", School of Computer Science, University of Nottingham Ningbo China, 2024-25</li>
   <li style="line-height:130%">Feiyang Sun, “βFSCM: An Enhanced Food Supply Chain Management System Using Hybrid Blockchain”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
   <li style="line-height:130%">Hangqi Wan, “Development of a Dynamic NDN Naming Scheme for Efficient and Fast FIB Lookup to Improve the Network Performance”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
   <li style="line-height:130%">Maksim Kozlov, “Blockchain Consensus Protocol for Resource Constrained Internet of Things (IoT) Devices”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
@@ -81,6 +83,7 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">1.	Chengyu Zhao, Jin Fu, Julienne Adwin, Kaifeng Qin, Yucheng Peng, Zhiwei The, “Body Language Detection-Based Emotionally Controlled Music Player”, School of Computer Science, University of Nottingham Ningbo China, 2024 - 25</li>
   <li style="line-height:130%">Bokai Zhang, Xinyi Song, Su Yang, Francesco Tedjo, Xinran Jiang, “Accurate Student Evaluation of Teaching System”, School of Computer Science, University of Nottingham Ningbo China, 2023 - 24</li>
   <li style="line-height:130%">Chongpo Shao, Jianing Wu, Yuanli Zhu, Feiyang Sun, Hongman Li, Yaru He, “Find a Doctor”, School of Computer Science, University of Nottingham Ningbo China, 2022 - 23</li>
   <li style="line-height:130%">Yichi Zhang, Chengyue Pan, Baizhen Lin, Kunning Wang, and Tianshu Ye, “Feedback Analysis Based Product Rating System”, School of Computer Science, University of Nottingham Ningbo China, 2021 – 22</li>
