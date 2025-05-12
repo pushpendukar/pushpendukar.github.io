@@ -83,7 +83,7 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">1.	Chengyu Zhao, Jin Fu, Julienne Adwin, Kaifeng Qin, Yucheng Peng, Zhiwei The, “Body Language Detection-Based Emotionally Controlled Music Player”, School of Computer Science, University of Nottingham Ningbo China, 2024 - 25</li>
+  <li style="line-height:130%">Chengyu Zhao, Jin Fu, Julienne Adwin, Kaifeng Qin, Yucheng Peng, Zhiwei The, “Body Language Detection-Based Emotionally Controlled Music Player”, School of Computer Science, University of Nottingham Ningbo China, 2024 - 25</li>
   <li style="line-height:130%">Bokai Zhang, Xinyi Song, Su Yang, Francesco Tedjo, Xinran Jiang, “Accurate Student Evaluation of Teaching System”, School of Computer Science, University of Nottingham Ningbo China, 2023 - 24</li>
   <li style="line-height:130%">Chongpo Shao, Jianing Wu, Yuanli Zhu, Feiyang Sun, Hongman Li, Yaru He, “Find a Doctor”, School of Computer Science, University of Nottingham Ningbo China, 2022 - 23</li>
   <li style="line-height:130%">Yichi Zhang, Chengyue Pan, Baizhen Lin, Kunning Wang, and Tianshu Ye, “Feedback Analysis Based Product Rating System”, School of Computer Science, University of Nottingham Ningbo China, 2021 – 22</li>
