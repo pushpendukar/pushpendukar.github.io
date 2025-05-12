@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[February, 2025] Serving as a <b>General Chair</b> of Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), Rimini, Italy.
+<br><br>
 [February, 2025] Joined as the <b>Director of Academic Development and Outreach</b>, Faculty of Science and Engineering, University of Nottingham Ningbo China.
 <br><br>
 [February, 2025] Our Chinese patent titled "<b>A text image repair method, device and storage medium</b>" has been <b>granted</b> on 27th February 2025.
