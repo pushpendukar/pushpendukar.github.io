@@ -22,7 +22,9 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[February, 2025] Serving as a <b>General Chair</b> of Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), Rimini, Italy.
+[May, 2025] Serving as a <b>Track Chair</b> of 10th International Conference on Frontiers of Signal Processing (ICFSP 2025), Paris, France.
+<br><br>
+[May, 2025] Serving as a <b>General Chair</b> of Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), Rimini, Italy.
 <br><br>
 [February, 2025] Joined as the <b>Director of Academic Development and Outreach</b>, Faculty of Science and Engineering, University of Nottingham Ningbo China.
 <br><br>
