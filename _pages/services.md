@@ -87,7 +87,7 @@ redirect_from:
   <li style="line-height:130%">3rd International Conference on Advanced Computing and Software Engineering (ICACSE 2021), 19-20 February 2021, Sultanpur, Uttar Prades, India.</li>
   <li style="line-height:130%">International Conference on Research and Applications in Artificial Intelligence (RAAI 2020), 19-20 December 2020, Kolkata, India.</li>
   <li style="line-height:130%">International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV 2020), 17-19 January 2020, Jaipur, Rajasthan.</li>
-  <li style="line-height:130%">International Conference on Applied Mathematics and Computational Sciences (ICAMCS 2019), October 17-19, 2019, Dehradun, India.</li>
+  <li style="line-height:130%">International Conference on Applied Mathematics and Computational Sciences (ICAMCS 2019), 17-19 October 2019, Dehradun, India.</li>
   <li style="line-height:130%">International Conference on Advanced Computing and Software Engineering (ICACSE 2019), February 2019, Sultanpur, U.P., India.</li>
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
@@ -95,7 +95,7 @@ redirect_from:
   <li style="line-height:130%">10th International Conference on Frontiers of Signal Processing (ICFSP 2025), 10-12 September 2025, Paris, France</li>
   <li style="line-height:130%">IEEE Global Communications Conference (GLOBECOM 2025), 8 - 12 December 2025, Taipei, Taiwan</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2025), 21–23 October 2025, Abu Dhabi, United Arab Emirates</li>
-  <li style="line-height:130%">The IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS), 6-8 November, 2025, Bali, Indonesia</li>
+  <li style="line-height:130%">The IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS), 6-8 November 2025, Bali, Indonesia</li>
   <li style="line-height:130%">The 6th International Conference on Artificial Intelligence, Robotics, and Control, 7 - 9 May 2025, Savannah, GA, USA</li>
   <li style="line-height:130%">The IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications (IARIA Congress 2025), 6 - 10 July 2025, Venice, Italy</li>
   <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2025:SAC-EH), 8–12 June 2025, Montreal, Canada.</li>
