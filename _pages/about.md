@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
   
-[May, 2025] Received <b>Research Excellence Award</b> from AIOP research group at the University of Nottingham Ningbo China.
+[June, 2025] Received <b>Research Excellence Award</b> from AIOP research group at the University of Nottingham Ningbo China.
 <br><br>
 [May, 2025] Serving as a <b>Track Chair</b> of 10th International Conference on Frontiers of Signal Processing (ICFSP 2025), Paris, France.
 <br><br>
