@@ -21,7 +21,9 @@ redirect_from:
 <font size="+.5">
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
-  
+
+[June, 2025] Starting as <b>Associate Professor</b> in the School of Computer Science at the University of Nottingham Ningbo China from 1st August 2025.
+<br><br>
 [June, 2025] Received <b>Research Excellence Award</b> from AIOP research group at the University of Nottingham Ningbo China.
 <br><br>
 [May, 2025] Serving as a <b>Track Chair</b> of 10th International Conference on Frontiers of Signal Processing (ICFSP 2025), Paris, France.
