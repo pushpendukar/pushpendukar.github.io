@@ -156,7 +156,7 @@ Dr. Pushpendu Kar is currently an Associate Professor in the [School of Computer
 
 The full CV is available [here](/files/Pushpendu_Kar_CV.pdf){:target="_blank"}.
 
-Professional Experiences (16 Yrs+)
+Professional Experiences (17 Yrs+)
 ------
 <ul>
   <li>Associate Professor, School of Computer Science, University of Nottingham UK (China campus) (Aug 2025 - Present)</li>
