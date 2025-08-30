@@ -25,6 +25,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Editorial Activities:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Guest Editor</b></i>, Industrial uses and benefits of blockchain applications, Scientific Reports (Nature portfolio, Impact factor: 4.3), 2025 - 2026</li>
   <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, International Journal of Applied Pattern Recognition (Impact factor: 1.1), InderScience, 2025 - Present</li>
   <li style="line-height:130%"><i><b>Editorial Board Member</b></i>, Scientific Reports (Impact factor: 3.8), Springer Nature, 2025 - Present</li>
   <li style="line-height:130%"><i><b>Guest Editor</b></i>, PLOS ONE, 2024 - Present</li>
@@ -61,6 +62,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>General Chair</b></i>: 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), 10-12 January 2026, Rimini, Italy</li>
   <li style="line-height:130%"><i><b>Track Chair</b></i>: 10th International Conference on Frontiers of Signal Processing (ICFSP 2025), 10-12 September 2025, Paris, France</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2025, Rimini, Italy</li>
