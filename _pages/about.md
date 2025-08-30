@@ -22,6 +22,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[August, 2025] Serving as a <b>General Chair</b> in the 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India
+<br><br>
+[August, 2025] Serving as a <b>Guest Editor</b> in the special issue titled "Industrial uses and benefits of blockchain applications", Scientific Reports (Nature portfolio, Impact factor: 4.3), 2025 - 2026
+<br><br>
 [August, 2025] Starting as <b>Associate Professor</b> in the School of Computer Science at the University of Nottingham Ningbo China from 1st August 2025.
 <br><br>
 [June, 2025] Received <b>Research Excellence Award</b> from AIOP research group at the University of Nottingham Ningbo China.
