@@ -38,7 +38,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Organization:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Organizing International Conference on Data Science and Edge Computing (ICDSEC 2025), 4- 6 December 2025, Changsha, China, <i>Role: General Chair</i></li>
+  <li style="line-height:130%">Organizing IEEE International Conference on Data Science and Edge Computing (ICDSEC 2025), 4- 6 December 2025, Changsha, China, <i>Role: General Chair</i></li>
   <li style="line-height:130%">Organized International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China, <i>Role: Technical Program Committee Chair</i></li>
   </ol>
 <h1 style="font-size:22px">Distinguish Talks:</h1>
