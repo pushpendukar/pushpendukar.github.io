@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[August, 2025] Our paper titled "ProLoC: An Efficient Probability-Based Forwarding Mechanism Considering Load Factor for Congestion Control in Named Data Networking" in the <b>IEEE IThings 2025</b> conference as a Regular Paper.
+[August, 2025] Our paper titled "ProLoC: An Efficient Probability-Based Forwarding Mechanism Considering Load Factor for Congestion Control in Named Data Networking" in the <b>IEEE iThings 2025</b> conference as a Regular Paper.
 <br><br>
 [August, 2025] Serving as a <b>General Chair</b> in the 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India
 <br><br>
