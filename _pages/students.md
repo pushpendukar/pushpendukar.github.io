@@ -36,6 +36,7 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Zhaokun Ding, "Behaviour-Adaptive PIT Management for Low-Latency NDN in Vehicular Networks", School of Computer Science, University of Nottingham, UK, 2024 - 2025</li>
   <li style="line-height:130%">Cheng Yan, "Developing a data secure postal system using Hyperledger Fabric smart contracts", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Lihong Wei, "Optimization and Performance Evaluation of Dynamic Threshold-Based Handover Mechanism in Intelligent Transportation Systems", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Wenchao Xia, "Lightweight Consensus Algorithms and the Layered Blockchain architecture applied in optimising for Resource-Constrained Devices", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
