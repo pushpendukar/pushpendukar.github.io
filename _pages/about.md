@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[September, 2025] <b>Two</b> papers have been accepted in the 25th IEEE International Conference on BioInformatics and BioEngineering (<b>BIBE 2025</b>).
+<br><br>
 [September, 2025] Organizing "IEEE International Conference on Data Science and Edge Computing" (<b>ICDSEC 2025</b>), 4- 6 December 2025, Changsha, China, Role: <b>General Chair</b>.
 <br><br>
 [September, 2025] Our paper titled "ProLoC: An Efficient Probability-Based Forwarding Mechanism Considering Load Factor for Congestion Control in Named Data Networking" in the <b>IEEE iThings 2025</b> conference as a Regular Paper.
