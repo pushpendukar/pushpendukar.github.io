@@ -196,8 +196,10 @@ redirect_from:
   <li style="line-height:130%">Smart Health (<i>Elsevier</i>)</li>
   <li style="line-height:130%">Results in Engineering (<i>Elsevier</i>)</li>
   <li style="line-height:130%">IET Wireless Sensor Systems</li>
+  <li style="line-height:130%">Multimedia Tools and Applications (<i>Springer</i>)</li>
   <li style="line-height:130%">Wireless Personal Communications (<i>Springer</i>)</li>
   <li style="line-height:130%">Telecommunication Systems (<i>Springer</i>)</li>
+  <li style="line-height:130%">Journal of Supercomputing (<i>Springer</i>)</li>
   <li style="line-height:130%">International Journal of Communication Systems (<i>Wiley</i>)</li>
   <li style="line-height:130%">Security and Communication Networks (<i>Wiley</i>)</li>
   <li style="line-height:130%">Journal of Ambient Intelligence and Smart Environments (<i>IOS Press</i>)</li>
