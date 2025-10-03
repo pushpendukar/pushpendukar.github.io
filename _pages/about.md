@@ -80,9 +80,9 @@ redirect_from:
 <br><br>
 [February, 2024] Happy to share that our paper titled <b>Advancing NDN Security: Efficient Identification of Cache Pollution Attacks through Rank Comparison</b> has been accepted in <b>Internet of Things(Elsevier)</b>.
 <br><br>
-[January, 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT 2024), 11 - 12 October 2024, Ningbo, China.
+[January 2024] I am serving as <b>Technical Program Committee Chair</b> at the International Conference on Internet of Things (ICIoT 2024), October 11 -12, 2024, Ningbo, China.
 <br><br>
-[January, 2024] I am serving as <b>Publication Chair</b> at the International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15 - 17 March 2024, Guangzhou, China.
+[January, 2024] I am serving as <b>Publication Chair</b> at the International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), March 15 - 17, 2024, Guangzhou, China.
 <br><br>
 [December, 2023] Happy to share that our patent titled "An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System" has <b>granted</b> on 12th December 2023.
 <br><br>
@@ -94,11 +94,11 @@ redirect_from:
 <br><br>
 [September, 2023] Serving as <b>PGCHE faculty advisor of FoSE</b> at the University of Nottingham Ningbo China.
 <br><br>
-[October, 2023] Our paper titled "BUMS: A Novel Balanced Multi-model Machine Learning System for Real-Time Blood Glucose Prediction and Abnormal Glucose Events Detection" accepted in <b>IEEE Healthcom 2023</b>.
+[October, 2023] Our paper titled "BUMS: A Novel Balanced Multi-model Machine Learning System for Real-Time Blood Glucose Prediction and Abnormal Glucose Events Detection" was accepted in <b>IEEE Healthcom 2023</b>.
 <br><br>
 [September, 2023] Elected as Fellow of The Institution of Electronics & Telecommunication Engineers (<b>FIETE</b>), India, 2023.
 <br><br>
-[August, 2023] Our paper titled "Design of a Blockchain-based Secure Health Monitoring System Using Decentralized Machine Learning Technique" accepted in <b>IEEE Communications Magazine</b>.
+[August, 2023] Our paper titled "Design of a Blockchain-based Secure Health Monitoring System Using Decentralized Machine Learning Technique" was accepted in <b>IEEE Communications Magazine</b>.
 <br><br>
 [August, 2023] Awarded an <b>Excellent Performance</b> rating for overall academic performance in the 2022-2023 academic year at the University of Nottingham Ningbo China.
 <br><br>
@@ -108,14 +108,14 @@ redirect_from:
 <br><br>
 [July, 2023] I  have elevated to the <b>Senior Fellow of Higher Education Academy (SFHEA)</b>, UK
 <br><br>
-[July, 2023] Our paper “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: a deep learning-based approach” accepted in <b>International Journal of Intelligent Transportation Systems Research (Springer)</b>
+[July, 2023] Our paper “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: a deep learning-based approach” was accepted in <b>International Journal of Intelligent Transportation Systems Research (Springer)</b>
 <br><br>
-[June, 2023] I have completed <b>Postgraduate Certificate in Higher Education (PGCHE)</b>[a masters level teaching qualification] by following UK Professional Standards Framework (UKPSF) of Higher Education Academy (HEA), UK
+[June, 2023] I have completed <b>Postgraduate Certificate in Higher Education (PGCHE)</b>[a master's level teaching qualification] by following the UK Professional Standards Framework (UKPSF) of the Higher Education Academy (HEA), UK
 <br><br>
 [June, 2023] I am serving as <b>Publication Chair</b> at the 2nd International Conference on Computer, Internet of Things and Control
 Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 <br><br>
-[May, 2023] I am serving as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13 Aug 2023, Singapore
+[May, 2023] I am serving as <b>Program Committee Chair</b> at the International Conference on Images, Algorithms and Artificial Intelligence, Aug 11 – 13, 2023, Singapore
 <br><br>
 [Dec, 2022] I am serving as <b>General Chair</b> at the 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain
 <br><br>
@@ -125,11 +125,11 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 <br><br>
 [Aug, 2022] Delivered <b>Keynote Speech</b> at 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA2022), Virtual.
 <br><br>
-[Aug, 2022] Happy to share that our paper titled "<b>An Efficient Producer Mobility Management Technique for Real-time Communication in NDN-based Remote Health Monitoring Systems</b>" has been accepted in <b>Smart Health (Elsevier)</b> !
+[Aug, 2022] Happy to share that our paper titled "<b>An Efficient Producer Mobility Management Technique for Real-time Communication in NDN-based Remote Health Monitoring Systems</b>" has been accepted in <b>Smart Health (Elsevier)</b>!
 <br><br>
-[Aug, 2022] Happy to share that our paper titled "<b>DMACN: A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote Health Monitoring System</b>" has been accepted in <b>IEEE Transactions on Computers</b> !
+[Aug, 2022] Happy to share that our paper titled "<b>DMACN: A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote Health Monitoring System</b>" has been accepted in <b>IEEE Transactions on Computers</b>!
 <br><br>
-[Aug, 2022] Happy to share that our paper titled "<b>An Intelligent Lighting Control System for Individual Visual Comfort and Energy Savings in Buildings</b>" has been accepted in <b>Journal of Reliable Intelligent Environments (Springer)</b> !
+[Aug, 2022] Happy to share that our paper titled "<b>An Intelligent Lighting Control System for Individual Visual Comfort and Energy Savings in Buildings</b>" has been accepted in <b>Journal of Reliable Intelligent Environments (Springer)</b>!
 <br><br>
 [July, 2022] Joined as a <b>Review Editor</b> in the editorial board of <b>Frontiers in the Internet of Things - IoT Services and Applications</b>.
 <br><br>
@@ -137,15 +137,15 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 <br><br>
 [June, 2022] Delivered <b>Keynote Speech</b> at Faculty Development Programme, Sharda University, India.
 <br><br>
-[Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b> !
+[Mar, 2022] Happy to share that our two papers have been accepted in <b>22nd IEEE/ACIS ICIS 2022</b>!
 <br><br>
-[Mar, 2022] Happy to share that our paper titled "<b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b>" has been accepted in <b>IEEE TCSS</b> !
+[Mar, 2022] Happy to share that our paper titled "<b>Are Fake Images Bothering You on Social Network? Let’s Detect Them Using Recurrent Neural Network</b>" has been accepted in <b>IEEE TCSS</b>!
 <br><br>
-[Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b>, UK !
+[Dec, 2021] Happy to share that I become <b>Fellow of Higher Education Academy (FHEA)</b>, UK!
 <br><br>
-[August, 2021] Happy to share that I have been received <b>Spot Award</b> for teaching excellence and effective services to The University of Nottingham Ningbo China !
+[August, 2021] Happy to share that I have received the <b>Spot Award</b> for teaching excellence and effective services to The University of Nottingham Ningbo China!
 <br><br>
-[July, 2021] Happy to share that I have been recognized as the <b>High Level Talent</b> by Ningbo Municipal Government, China !
+[July, 2021] Happy to share that I have been recognized as the <b>High Level Talent</b> by Ningbo Municipal Government, China!
 <br><br>
   
 <!--YOUR SCROLL CONTENT HERE-->
@@ -162,7 +162,7 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 
 Biography
 ------
-Dr. Pushpendu Kar is currently an Associate Professor in the [School of Computer Science](https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx){:target="_blank"} at the [University of Nottingham, UK (China campus)](https://www.nottingham.edu.cn/en/){:target="_blank"}, where he has also served as an Assistant Professor since 2019. Before this, he was a Postdoctoral Research Fellow at the [Norwegian University of Science and Technology](https://www.ntnu.edu/){:target="_blank"}, the [National University of Singapore](https://www.nus.edu.sg/){:target="_blank"}, and [Nanyang Technological University, Sinapore](https://www.ntu.edu.sg/){:target="_blank"}. He also worked in different engineering colleges as a lecturer and in the IT industry as a software professional. He has over 13 years of experience in teaching and research, as well as 1.5 years of industrial experience at IBM. He has completed all his PhD, Master of Engineering, and Bachelor of Technology in Computer Science and Engineering. He also completed a Postgraduate Certificate in Higher Education (PGCHE) in 2023. He received the prestigious Erasmus Mundus Postdoctoral Fellowship from the European Commission, the ERCIM Alain Bensoussan Fellowship from the European Union, and the SERB OPD Fellowship from the Department of Science and Technology, Government of India. He has received the 2020 IEEE Systems Journal Best Paper Award. He has received five research grants for conducting research-based projects, three of them as a Principal Investigator (PI). He also received many travel grants to attend conferences and doctoral colloquiums. He is the author of over 60 scholarly research papers that have appeared in prestigious journals, conferences, book chapters, and IT magazines. He has also published one authored and three edited books. He is the inventor of five patents. He has chaired several conference committees, worked as a team member to organize short-term courses, and delivered a few invited talks and Keynote Lectures at international conferences and institutions. He has also served on the editorial boards of several international journals. He is a Senior Member of IEEE, a Senior Fellow of the Higher Education Academy (<i>SFHEA</i>), UK, a Fellow of the Institution of Electronics & Telecommunication Engineers (<i>FIETE</i>), India, and a Chartered Engineer (CEng) from the Engineering Council, UK. The Ningbo Municipal Government in China has recognised him as a High-Level Talent. Dr. Kar mainly teaches Computer Networks and programming-related modules. His research areas include Ad Hoc Networks, Wireless Sensor Networks, Internet of Things, Content-Centric Networking, Blockchain, BigData, and Quantum Communication.
+Dr. Pushpendu Kar is currently an Associate Professor in the [School of Computer Science](https://www.nottingham.edu.cn/en/science-engineering/departments-schools/cs/home.aspx){:target="_blank"} at the [University of Nottingham, UK (China campus)](https://www.nottingham.edu.cn/en/){:target="_blank"}, where he has also served as an Assistant Professor since 2019. Before this, he was a Postdoctoral Research Fellow at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/){:target="_blank"}, the [National University of Singapore (NUS)](https://www.nus.edu.sg/){:target="_blank"}, and [Nanyang Technological University (NTU), Sinapore](https://www.ntu.edu.sg/){:target="_blank"}. He also worked in different engineering colleges as a lecturer and in the IT industry as a software professional. He has over 13 years of experience in teaching and research, as well as 1.5 years of industrial experience at IBM. He has completed all his PhD, Master of Engineering, and Bachelor of Technology in Computer Science and Engineering. He also completed a Postgraduate Certificate in Higher Education (PGCHE) in 2023. He received the prestigious Erasmus Mundus Postdoctoral Fellowship from the European Commission, the ERCIM Alain Bensoussan Fellowship from the European Union, and the SERB OPD Fellowship from the Department of Science and Technology, Government of India. He has received the 2020 IEEE Systems Journal Best Paper Award. He has received five research grants for conducting research-based projects, three of them as a Principal Investigator (PI). He also received many travel grants to attend conferences and doctoral colloquiums. He is the author of over 60 scholarly research papers that have appeared in prestigious journals, conferences, book chapters, and IT magazines. He has also published one authored and three edited books. He is the inventor of five patents. He has chaired several conference committees, worked as a team member to organize short-term courses, and delivered a few invited talks and Keynote Lectures at international conferences and institutions. He has also served on the editorial boards of several international journals. He is a Senior Member of IEEE, a Senior Fellow of the Higher Education Academy (<i>SFHEA</i>), UK, a Fellow of the Institution of Electronics & Telecommunication Engineers (<i>FIETE</i>), India, and a Chartered Engineer (CEng) from the Engineering Council, UK. The Ningbo Municipal Government in China has recognised him as a High-Level Talent. Dr. Kar mainly teaches Computer Networks and programming-related modules. His research areas include Ad Hoc Networks, Wireless Sensor Networks, Internet of Things, Content-Centric Networking, Blockchain, BigData, and Quantum Communication.
 
 The full CV is available [here](/files/Pushpendu_Kar_CV.pdf){:target="_blank"}.
 
