@@ -171,6 +171,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">PhD Thesis Examiner:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><b><i>External Examiner</i>:</b> Arup Sarkar, “Secure Healthcare System Using Blockchain”, School of Computer Engineering, KIIT Deemed University, Odisha, India, 2025</li>
   <li style="line-height:130%"><b><i>External Examiner</i>:</b> Syed Ali Hussain, “Design & Implementation of an Efficient Low Power Hybrid LIF Neuron Architecture with Spiking Neural Network for Neuromorphic Applications”, School of Engineering and Sciences, SRM University - AP, Andhra Pradesh, India, 2025</li>
   <li style="line-height:130%"><b><i>External Examiner</i>:</b> Sushil Kumar Mahapatra, “An IoE Based Approach to Improve Educational Outcomes in Virtual Classroom Environment”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2025</li>
   <li style="line-height:130%"><b><i>External Examiner</i>:</b> Padmini Mansingh, “Health Care Data Management Using Big Data Analytics”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2024</li>
