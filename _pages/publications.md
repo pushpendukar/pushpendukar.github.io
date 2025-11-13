@@ -103,7 +103,9 @@ author_profile: true
 
 <h1 style="font-size:22px">Patents:</h1>
 <ol>
-   <li>1.	X. Zhang, <b>P. Kar</b>, C. F. Kwong, D. Chieng, and A. G. Manzanares, “Post-quantum secure transmission methods, systems, devices and media for 5G user plane”, <i>Chinese patent</i> <b>filed</b> on 7th November 2025 (Patent no: 202511629269.0)</li>
+   <li>Q. Mao, A. G. Bellotti, <b>P. Kar</b>, “A method and system for document image repair”, <i>Chinese patent</i> filed on 31st October 2025 (Patent no: 202511575672.X)</li>
+   <li>Q. Mao, A. G. Bellotti, <b>P. Kar</b>, “An enhanced method and system for text recognition in document images”, <i>Chinese patent</i> filed on 4th November 2025 (Patent no: 202511592626.0)</li>
+   <li>X. Zhang, <b>P. Kar</b>, C. F. Kwong, D. Chieng, and A. G. Manzanares, “Post-quantum secure transmission methods, systems, devices and media for 5G user plane”, <i>Chinese patent</i> filed on 7th November 2025 (Patent no: 202511629269.0)</li>
   <li>Q. Mao, A. G. Bellotti, <b>P. Kar</b>, “A text image repair method, device and storage medium”, <i>Chinese patent</i> <b>granted</b> on 27th February 2025 (Patent no: 2025022700346710)</li>
    <li>S. Misra, S. Goswami, <b>P. Kar</b>, and A. Roy, “PKI Enabled Time Stamped Digital Signing System Involving Certification Authority Issued Digital Certificate Cryptographic Token With Real-Time Revocation Verification”, <i>Indian patent</i> <b>granted</b> on 24th June 2024 (Patent no: 537779)</li>
    <li>S. Misra, A. Roy, <b>P. Kar</b>, and S. Goswami, “An Adverse Environmental Effect Resistant Seamless Wireless Sensor Network System”, <i>Indian patent</i> <b>granted</b> on 12th December 2023 (Patent no.: 480946)</li>
