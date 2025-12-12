@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[December, 2025] Project titled "Sustainable Waste Management System by Integrating Internet of Things (IoT) Sensors with Blockchain Technology" has been funded by the China International Talent Exchange Foundation.
+<br><br>
 [September, 2025] <b>Two</b> papers have been accepted in the 25th IEEE International Conference on BioInformatics and BioEngineering (<b>BIBE 2025</b>).
 <br><br>
 [September, 2025] Organizing "IEEE International Conference on Data Science and Edge Computing" (<b>ICDSEC 2025</b>), 4- 6 December 2025, Changsha, China, Role: <b>General Chair</b>.
