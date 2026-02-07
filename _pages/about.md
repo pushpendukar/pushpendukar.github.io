@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[January, 2026] Received ‘Faculty Star in Building International Network’ award from the Faculty of Science and Engineering, University of Nottingham Ningbo China.
+<br><br>
 [December, 2025] Project titled "Sustainable Waste Management System by Integrating Internet of Things (IoT) Sensors with Blockchain Technology" has been funded by the China International Talent Exchange Foundation.
 <br><br>
 [September, 2025] <b>Two</b> papers have been accepted in the 25th IEEE International Conference on BioInformatics and BioEngineering (<b>BIBE 2025</b>).
