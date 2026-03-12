@@ -65,6 +65,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 5th International Symposium on Sensor Technology and Control (ISSTC 2026), 16 – 18 October 2026, Qingdao, China</li>
   <li style="line-height:130%"><i><b>Track Chair</b></i>: 11th International Conference on Frontiers of Signal Processing (ICFSP 2026), 10-12 June 2026, Toulouse, France</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), 10-12 January 2026, Rimini, Italy</li>
