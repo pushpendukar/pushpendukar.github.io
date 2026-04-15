@@ -65,6 +65,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Machine Learning and Embodied Intelligence (ICMLEI 2026), 11–13 December 2026, Nanjing, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 5th International Symposium on Sensor Technology and Control (ISSTC 2026), 16 – 18 October 2026, Qingdao, China</li>
   <li style="line-height:130%"><i><b>Track Chair</b></i>: 11th International Conference on Frontiers of Signal Processing (ICFSP 2026), 10-12 June 2026, Toulouse, France</li>
   <li style="line-height:130%"><i><b>General Chair</b></i>: 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India</li>
@@ -158,6 +159,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Short Term Couse Organization:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Main organizer</b></i>: China Exchange Program for Young International (CEP) at the Faculty of Science and Technology, University of Nottingham Ningbo China, supported by the China International Talent Exchange Foundation (CITEF), 2 - 27 March 2026</li>
   <li style="line-height:130%"><i><b>Organizing team member</b></i>: International Summer and Winter Term (ISWT) course at the Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
   <li style="line-height:130%"><i><b>Organizing team member</b></i>: Short Term Course on Object-Oriented Programming and Data Structure using C++, Department of Computer Science and Engineering, IIT Kharagpur, 2nd - 20th June 2014</li>
 </ol>
