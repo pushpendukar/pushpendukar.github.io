@@ -41,7 +41,7 @@ redirect_from:
   <li style="line-height:130%">Organizing IEEE International Conference on Data Science and Edge Computing (ICDSEC 2025), 4- 6 December 2025, Changsha, China, <i>Role: General Chair</i></li>
   <li style="line-height:130%">Organized International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China, <i>Role: Technical Program Committee Chair</i></li>
   </ol>
-<h1 style="font-size:22px">Distinguish Talks:</h1>
+<h1 style="font-size:22px">Distinguished Talks:</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Named Data Networking: Future of the Internet”, 3rd International Conference on Artificial Intelligence, Systems and Network Security (AISNS 2025), Xiangtan, China, 27th December 2025</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Named Data Networking: Future of the Internet”, International Conference on Data Science and Edge Computing (ICDSEC 2025), Changsha, China, 7th December 2025</li>
