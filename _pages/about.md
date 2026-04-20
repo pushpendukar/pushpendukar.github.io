@@ -22,6 +22,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[March, 2026] My project titled "AI-driven personalized learning paths" has been awarded for the China University Industry-University-Research Innovation Fund for the AI+Cybersecurity Governance Technology Special Project research grant from the Ministry of Education China, Sail New Technology (Beijing) Co., Ltd., and Qi An Xin Technology Group Co., Ltd. 
+<br><br>
 [January, 2026] Received ‘Faculty Star in Building International Network’ award from the Faculty of Science and Engineering, University of Nottingham Ningbo China.
 <br><br>
 [December, 2025] Project titled "Sustainable Waste Management System by Integrating Internet of Things (IoT) Sensors with Blockchain Technology" has been funded by the China International Talent Exchange Foundation.
