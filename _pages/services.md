@@ -43,7 +43,7 @@ redirect_from:
   </ol>
 <h1 style="font-size:22px">Distinguished Talks:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><i><b>1.	Plenary Speech</b></i>: “Blockchain-based Distributed Web Management”, 10th International Conference on Decision Science and Management, Hong Kong, China, 25th April 2026</li>
+  <li style="line-height:130%"><i><b>Plenary Speech</b></i>: “Blockchain-based Distributed Web Management”, 10th International Conference on Decision Science and Management, Hong Kong, China, 25th April 2026</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Named Data Networking: Future of the Internet”, 3rd International Conference on Artificial Intelligence, Systems and Network Security (AISNS 2025), Xiangtan, China, 27th December 2025</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Named Data Networking: Future of the Internet”, International Conference on Data Science and Edge Computing (ICDSEC 2025), Changsha, China, 7th December 2025</li>
   <li style="line-height:130%"><i><b>Invited Talk</b></i>: “Identifying COVID-19 Fake News on Social Networks Using Deep Learning: You will not know what happens next!”, 8th International Conference on Mathematical Models & Computational Techniques in Science & Engineering (MMCTSE 2024), Athens, Greece, 02nd June 2024</li>
