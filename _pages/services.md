@@ -101,11 +101,14 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">4th Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2026), 23 - 24 Sep 2026,
+University of Cambridge, UK</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2026), 19 - 21 October 2026, New York, USA</li>
   <li style="line-height:130%">25th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2025), 06-08 November 2025, Athens, Greece</li>
   <li style="line-height:130%">IEEE Global Communications Conference (GLOBECOM 2025), 8 - 12 December 2025, Taipei, Taiwan</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2025), 21–23 October 2025, Abu Dhabi, United Arab Emirates</li>
-  <li style="line-height:130%">The IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS), 6-8 November 2025, Bali, Indonesia</li>
+  <li style="line-height:130%">The IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS), 6-8 November 2025, Bali, Indonesia</li>                                                                                                                 <li style="line-height:130%">3rd Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2025), 23 - 24 Sep 2025,
+University of Cambridge, UK</li>
   <li style="line-height:130%">The 6th International Conference on Artificial Intelligence, Robotics, and Control, 7 - 9 May 2025, Savannah, GA, USA</li>
   <li style="line-height:130%">The IARIA Annual Congress on Frontiers in Science, Technology, Services, and Applications (IARIA Congress 2025), 6 - 10 July 2025, Venice, Italy</li>
   <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2025:SAC-EH), 8–12 June 2025, Montreal, Canada.</li>
@@ -114,7 +117,9 @@ redirect_from:
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2024), 18–20 November 2024, Nara, Japan</li>
   <li style="line-height:130%">The 10th International Conference on Cloud and Big Data Computing (CBDCom 2024), 5-8 November 2024, Malay, Philippines</li>
   <li style="line-height:130%">The 14th International Conference on Software Technology and Engineering (ICSTE 2024), 16-18 August 2024, Macau, China.</li>
-  <li style="line-height:130%">IEEE Global Communications Conference: Communication & Information Systems Security (Globecom 2024 CISS), 8–12 December 2024, Cape Town, South Africa.</li>
+  <li style="line-height:130%">IEEE Global Communications Conference: Communication & Information Systems Security (Globecom 2024 CISS), 8–12 December 2024, Cape Town, South Africa</li>
+  <li style="line-height:130%">2nd Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2024), 01 - 02 October
+2024, University of Cambridge, UK</li>
   <li style="line-height:130%">The 9th International Conference on Information and Network Technologies (ICINT 2024), 24-26 May 2024, Tokyo, Japan</li>
   <li style="line-height:130%">The 7th World Conference on Computing and Communication Technologies (WCCCT 2024), 12-14 April 2024, Chengdu, China</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2023), 15–17 December 2023, Chongqing, China</li>
