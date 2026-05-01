@@ -104,6 +104,8 @@ redirect_from:
   <li style="line-height:130%">4th Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2026), 23 - 24 Sep 2026,
 University of Cambridge, UK</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2026), 19 - 21 October 2026, New York, USA</li>
+  <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2026:SAC-EH), 24–28 May
+2026, Glasgow, Scotland, UK</li>
   <li style="line-height:130%">25th IEEE International Conference on Bioinformatics and Bioengineering (BIBE 2025), 06-08 November 2025, Athens, Greece</li>
   <li style="line-height:130%">IEEE Global Communications Conference (GLOBECOM 2025), 8 - 12 December 2025, Taipei, Taiwan</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2025), 21–23 October 2025, Abu Dhabi, United Arab Emirates</li>
