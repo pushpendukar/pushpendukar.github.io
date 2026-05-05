@@ -209,7 +209,7 @@ Professional Qualifications/Memberships
   <li>Chartered Engineer (<i>CEng</i>), Engineering Council, UK, April 2024, Registration No.: 709992</li>
   <li>Senior Member, The Institute of Electrical and Electronics Engineers (IEEE), USA, July 2020, Registration No.: 93025879</li>
   <li>Senior Member, Association for Computing Machinery (ACM), USA, May 2026, Registration No.: 1355491</li>
-  <li>Sun Certified Java Programmer (<i>SCJP</i>) 5.0, Sun Microsystems, USA, March 2009, Registration No.: SW409182</li>
+  <li>Sun Certified Java Programmer (<i>SCJP</i>) 5.0, Sun Microsystems Inc., USA, March 2009, Registration No.: SW409182</li>
 </ul>
 
 Pedagogical Qualifications
