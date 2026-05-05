@@ -22,7 +22,9 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[April, 2026] Delivered <b>Plenary Speech</b> titled “Blockchain-based Distributed Web Management” at the 10th International Conference on Decision Science and Management (ICDSM 2026), Hong Kong, China on 25th April 2026
+[April, 2026] Elevated to the <b>Senior Member</b> of Association for Computing Machinery (<b>ACM</b>) on 2nd May 2026
+<br><br>
+[April, 2026] Delivered <b>Plenary Speech</b> titled “Blockchain-based Distributed Web Management” at the 10th International Conference on Decision Science and Management (ICDSM 2026), Hong Kong, China, on 25th April 2026
 <br><br>
 [March, 2026] My project titled "AI-driven personalized learning paths" has been awarded for the China University Industry-University-Research Innovation Fund for the AI+Cybersecurity Governance Technology Special Project research grant from the Ministry of Education China, Sail New Technology (Beijing) Co. Ltd., and Qi An Xin Technology Group Co. Ltd. 
 <br><br>
