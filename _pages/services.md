@@ -10,7 +10,7 @@ redirect_from:
 <h1 style="font-size:22px">Membership:</h1>
 <ol style="line-height:90%">
   <li style="line-height:130%">Institute of Electrical and Electronics Engineers (IEEE), Senior Member, Id: 93025879</li>
-  <li style="line-height:130%">Association for Computing Machinery (ACM), Member, Id: 1355491</li>
+  <li style="line-height:130%">Association for Computing Machinery (ACM), Senior Member, Id: 1355491</li>
   <li style="line-height:130%">Institution of Engineering and Technology (IET), Member, Id: 1101015556</li>
   <li style="line-height:130%">International Association of Computer Science and Information Technology (IACSIT), Lifetime Member, Id: 80339962</li>
 </ol>
