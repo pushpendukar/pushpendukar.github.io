@@ -102,7 +102,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Technical Program Committee Member:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">4th Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2026), 23 - 24 Sep 2026,
+  <li style="line-height:130%">IEEE International Smart Cities Conference (IEEE ISC2 2026), 27 – 30 October 2026, Porto, Portugal</li>
+  <li style="line-height:130%">4th Workshop on Low-Cost Digital Solutions for Industrial Automation (LoDiSA 2026), 23 - 24 September 2026,
 University of Cambridge, UK</li>
   <li style="line-height:130%">IEEE International Conference on E-health Networking, Application & Services (IEEE Healthcom 2026), 19 - 21 October 2026, New York, USA</li>
   <li style="line-height:130%">IEEE International Conference on Communication: SAC E-Health Track (ICC2026:SAC-EH), 24–28 May
