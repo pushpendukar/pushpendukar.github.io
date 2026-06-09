@@ -209,8 +209,8 @@ Professional Qualifications/Memberships
   <li>Senior Fellow of Higher Education Academy (<i>SFHEA</i>), AdvanceHE, UK, July 2023, Registration No.: PR269780</li>
   <li>Fellow, The Institution of Electronics & Telecommunication Engineers (<i>IETE</i>), India, September 2023, Registration No.: F-504050</li>
   <li>Chartered Engineer (<i>CEng</i>), Engineering Council, UK, April 2024, Registration No.: 709992</li>
-  <li>Senior Member, The Institute of Electrical and Electronics Engineers (IEEE), USA, July 2020, Registration No.: 93025879</li>
   <li>Senior Member, Association for Computing Machinery (ACM), USA, May 2026, Registration No.: 1355491</li>
+  <li>Senior Member, The Institute of Electrical and Electronics Engineers (IEEE), USA, July 2020, Registration No.: 93025879</li>
   <li>Sun Certified Java Programmer (<i>SCJP</i>) 5.0, Sun Microsystems, USA, March 2009, Registration No.: SW409182</li>
 </ul>
 
