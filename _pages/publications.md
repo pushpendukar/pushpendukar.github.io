@@ -100,6 +100,7 @@ author_profile: true
 </ul>
 <h1 style="font-size:22px">Book Chapters:</h1>
 <ol>
+   <li>Z. Yang, D. Chieng, CF Kwong, <b>P. Kar</b>, and Z. Nie, " Colorimetric sensing platforms for noninvasive glucose monitoring", in Emerging Diagnostic Glucose Sensing Approaches, <i>Elsevier</i>, January 2026, DOI: 10.1016/B978-0-443-36348-1.00008-6</li>
   <li>S. Singh, M. Roy, S. Datta, and <b>P. Kar</b>, “Application of Swarm Intelligence in Recommender Systems”, in Recommender Systems: A Multi-Disciplinary Approach, <i>CRC Press</i>, June 3023, DOI: 10.1201/9781003319122</li>
   <li>A. Saha, S. Dey, M. Roy, S. Datta, and <b>P. Kar</b>, “Recommendation Systems for Choosing Online Learning Resources: A Hands-On Approach”, in Recommender Systems: A Multi-Disciplinary Approach, <i>CRC Press</i>, June 3023, DOI: 10.1201/9781003319122</li>
   <li><b>P. Kar</b>, “Optimal Hole Coverage in the Presence of Dumb Node in Wireless Sensor Networks”, in Vehicular Ad-Hoc Networks: Applications and Technology, <i>Nova science publishers</i>, September 2020</li>
