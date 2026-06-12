@@ -22,7 +22,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[May, 2026] Awarded Springer Nature's "<b>Editor of Distinction Award 2026</b>" for my Editorial Contributions and Author Service to the Scientific Reports journal.
+[May, 2026] Awarded Springer Nature's "<b>Editor of Distinction Award 2026</b>" for Editorial Contributions and Author Service to the Scientific Reports journal.
 <br><br>
 [May, 2026] Elevated to the <b>Senior Member</b> of the Association for Computing Machinery (<b>ACM</b>), USA on 2nd May 2026
 <br><br>
