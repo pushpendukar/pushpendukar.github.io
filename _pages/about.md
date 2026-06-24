@@ -10,15 +10,15 @@ redirect_from:
 
 <table>
 <tr height="10px">
-<td bgcolor="#2ADCEA" align="center" width="60%">
+<td bgcolor="#2ADCEA" align="center" width="65%">
 <b>Recent highlights</b>
 </td>
-<td bgcolor="#2ADCEA" align="center" width="40%">
+<td bgcolor="#2ADCEA" align="center" width="35%">
   <b>Moments</b>
 </td>
 </tr>
 <tr height="200px">
-<td align="center" width="60%">
+<td align="center" width="65%">
 <div align="center" style="background-color:#e4e4ed" width="100%">
 <marquee id='scroll_news' style="position: related;" onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();" scrollamount="2" scrolldelay="100" direction="up" loop="true" height="200" width="100%">
 <font size="+.5">
@@ -170,7 +170,7 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 </marquee>
 </div>
 </td>
-<td align="center" width="40%">
+<td align="center" width="35%">
     dsdsdsdsdsd
 </td>
 </tr>
