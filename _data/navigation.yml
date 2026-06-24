@@ -23,3 +23,6 @@ main:
 
   - title: "Contacts"
     url: /contacts/
+
+    - title: "Gallery"
+    url: /gallery/
