@@ -16,8 +16,8 @@ redirect_from:
 </tr>
 <tr>
 <td>
-<div align="center" style="background-color:#e4e4ed" width="80%">
-<marquee id='scroll_news' style="position: related;" onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();" scrollamount="2" scrolldelay="100" direction="up" loop="true" height="125" width="75%">
+<div align="center" style="background-color:#e4e4ed" width="60%">
+<marquee id='scroll_news' style="position: related;" onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();" scrollamount="2" scrolldelay="100" direction="up" loop="true" height="125" width="60%">
 <font size="+.5">
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
