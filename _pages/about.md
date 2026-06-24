@@ -178,7 +178,10 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 <p align="left" class="infotxt" >
 
 <figure>
-  <img src="">
+  <img src="../images/AAIEC2026-1">
+</figure>
+<figure>
+  <img src="../images/AAIEC2026-2">
 </figure>
   
 <!--YOUR SCROLL CONTENT HERE-->
