@@ -172,7 +172,7 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
 </td>
 <td align="center" width="35%">
     <div align="center" width="100%">
-<marquee id='scroll_photo' style="position: related;" onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();" scrollamount="2" scrolldelay="100" direction="left" loop="true" height="200" width="100%">
+<marquee id='scroll_photo' style="position: related;" onMouseOver="document.getElementById('scroll_photo').stop();" onMouseOut="document.getElementById('scroll_photo').start();" scrollamount="2" scrolldelay="100" direction="left" loop="true" height="200" width="100%">
 
   <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
