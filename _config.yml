@@ -196,7 +196,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: talk
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -214,7 +214,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -232,7 +232,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
       comment: true
