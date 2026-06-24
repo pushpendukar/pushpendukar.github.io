@@ -207,7 +207,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: double
+      layout: full
       author_profile: true
   # _teaching
   - scope:
