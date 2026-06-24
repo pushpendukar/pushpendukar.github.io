@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 <table>
-<tr>
-<td bgcolor="#2ADCEA" height="20px" align="center" width="70%">
+<tr height="10px">
+<td bgcolor="#2ADCEA" align="center" width="70%">
 <b>Recent highlights</b>
 </td>
-<td align="center" width="30%">
-  Photo
+<td bgcolor="#2ADCEA" align="center" width="30%">
+  <b>Moments</b>
 </td>
 </tr>
-<tr>
+<tr height="200px">
 <td align="center" width="70%">
 <div align="center" style="background-color:#e4e4ed" width="100%">
-<marquee id='scroll_news' style="position: related;" onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();" scrollamount="2" scrolldelay="100" direction="up" loop="true" height="125" width="100%">
+<marquee id='scroll_news' style="position: related;" onMouseOver="document.getElementById('scroll_news').stop();" onMouseOut="document.getElementById('scroll_news').start();" scrollamount="2" scrolldelay="100" direction="up" loop="true" height="200" width="100%">
 <font size="+.5">
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
