@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <table>
-<tr height="20px">
-<td bgcolor="#2ADCEA" align="center" width="70%">
+<tr>
+<td bgcolor="#2ADCEA" height="20px" align="center" width="70%">
 <b>Recent highlights</b>
 </td>
 <td align="center" width="30%">
@@ -174,7 +174,7 @@ Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.
     dsdsdsdsdsd
 </td>
 </tr>
-<tr style="background-color:#e4e4ed">
+<tr>
 <td bgcolor="#EA2AD6" height="1px">
 </tr>
 </table>
