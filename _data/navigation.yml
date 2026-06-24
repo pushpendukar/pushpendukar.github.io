@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Projects & Grants"
+  - title: "Projects"
     url: /research/    
 
   - title: "Publications"
