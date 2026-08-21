@@ -25,6 +25,10 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[Aug, 2026] Our paper titled "A survey on Quantum Key Distribution: Foundations and future directions" was accepted in <b>Computer Communications (Elsevier)</b>.
+<br><br>
+[July, 2026] Our paper titled "COCO-QN: An Efficient Content-Aware Congestion Control Mechanism for Maintaining QoS in NDN" was accepted in the <b>IEEE Internet of Things Journal</b>.
+<br><br>
 [May, 2026] Awarded Springer Nature's "<b>Editor of Distinction Award 2026</b>" for Editorial Contributions and Author Service to the Scientific Reports journal.
 <br><br>
 [May, 2026] Elevated to the <b>Senior Member</b> of the Association for Computing Machinery (<b>ACM</b>), USA on 2nd May 2026
