@@ -39,6 +39,7 @@ redirect_from:
    </li> -->
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Haozhe Geng, "Learner-based Teaching Plan by Considering Individual Mental Health Profile through Social Media Analysis", School of Computer Science, University of Nottingham Ningbo China, 2025 - 2026</li>
   <li style="line-height:130%">Zhaokun Ding, "Behaviour-Adaptive PIT Management for Low-Latency NDN in Vehicular Networks", School of Computer Science, University of Nottingham, UK, 2024 - 2025</li>
   <li style="line-height:130%">Cheng Yan, "Developing a data secure postal system using Hyperledger Fabric smart contracts", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Lihong Wei, "Optimization and Performance Evaluation of Dynamic Threshold-Based Handover Mechanism in Intelligent Transportation Systems", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
@@ -60,6 +61,10 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Fangyuan Lu, "A Blockchain-based Consent Management System for Healthcare", School of Computer Science, University of Nottingham Ningbo China, 2025 – 2026</li>
+  <li style="line-height:130%">Ziyu Zhou, "Blockchain-Based AI Model Provenance", School of Computer Science, University of Nottingham Ningbo China, 2025 – 2026</li>
+  <li style="line-height:130%">Jiahao Liu, "A Blockchain and AI-Based System for Trustworthy Cross-Industry Document Verification", School of Computer Science, University of Nottingham Ningbo China, 2025 – 2026</li>
+  <li style="line-height:130%">Jiangbo Yu, "An Active DRL Data Center Network Content Delivery System Based on Lightweight Anomaly Detection", School of Computer Science, University of Nottingham Ningbo China, 2025 - 2026</li>
   <li style="line-height:130%">Zhengkai Qiu, "A Genomic Data Analysis-Based Technique for Personalized and Precise Medicine", School of Computer Science, University of Nottingham Ningbo China, 2024-25</li>
   <li style="line-height:130%">Feiyang Sun, “Jiarui Wu, "TinyML-based Energy-Efficient Keyword Spotting on Resource-Constrained Devices Using MicroNets", School of Computer Science, University of Nottingham Ningbo China, 2024-25</li>
   <li style="line-height:130%">Feiyang Sun, “βFSCM: An Enhanced Food Supply Chain Management System Using Hybrid Blockchain”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
@@ -87,6 +92,7 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Yao Xiao, Chenyuan Liu, Si Yu Chang, Zeng Cai, Yi-Ting Peng, and Yuyi Ye, "LLM-based University Finder System", School of Computer Science, University of Nottingham Ningbo China, 2025 - 2026</li>
   <li style="line-height:130%">Chengyu Zhao, Jin Fu, Julienne Adwin, Kaifeng Qin, Yucheng Peng, Zhiwei The, “Body Language Detection-Based Emotionally Controlled Music Player”, School of Computer Science, University of Nottingham Ningbo China, 2024 - 25</li>
   <li style="line-height:130%">Bokai Zhang, Xinyi Song, Su Yang, Francesco Tedjo, Xinran Jiang, “Accurate Student Evaluation of Teaching System”, School of Computer Science, University of Nottingham Ningbo China, 2023 - 24</li>
   <li style="line-height:130%">Chongpo Shao, Jianing Wu, Yuanli Zhu, Feiyang Sun, Hongman Li, Yaru He, “Find a Doctor”, School of Computer Science, University of Nottingham Ningbo China, 2022 - 23</li>
@@ -101,6 +107,8 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%">Yijun Sun and Hanbo Zhao, "Edge Computing in Content Centric Network (CCN)", School of Computer Science, University of Nottingham Ningbo China, June – August, 2026</li>
+  <li style="line-height:130%">Yijun Sun, Yuxuan Si, Yue Wu, and Qiaoyi Zhu, "Interoperability and Softwarization of Content Centric Networking (CCN) for Internet of Things", School of Computer Science, University of Nottingham Ningbo China, March – June, 2026</li>
   <li style="line-height:130%">Yan Ge, Zefei Xie, and Junxi Wu, "Artificial Intelligence in Content Centric Networking", School of Computer Science, University of Nottingham Ningbo China, June - August 2024</li>
   <li style="line-height:130%">Shuhang Kong and Huayi Zhang, "Blockchain-based Content-Centric Networking", School of Computer Science, University of Nottingham Ningbo China, June - August 2024</li>
   <li style="line-height:130%">Run Yang and Hangqi Wan, "Mobility and Security issues of Content-Centric Network and their solution", School of Computer Science, University of Nottingham Ningbo China, June - August 2023</li>
