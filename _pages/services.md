@@ -38,7 +38,9 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Organization:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Organizing IEEE International Conference on Data Science and Edge Computing (ICDSEC 2025), 4- 6 December 2025, Changsha, China, <i>Role: General Chair</i></li>
+  <li style="line-height:130%">Organizing the 2nd IEEE International Conference on Data Science and Edge Computing (ICDSEC 2026), 4 - 6 December 2026, Ningbo, China, <i>Role: General Chair</i></li>
+  <li style="line-height:130%">Organized the 4th IEEE International Conference on Internet of Things and Cloud Computing Technology (IoTCCT 2026), 11 - 13 September 2026, Ningbo, China, <i>Role: General Chair</i></li>
+  <li style="line-height:130%">Organized IEEE International Conference on Data Science and Edge Computing (ICDSEC 2025), 4- 6 December 2025, Changsha, China, <i>Role: General Chair</i></li>
   <li style="line-height:130%">Organized International Conference on Internet of Things (ICIoT 2024), 24 - 25 October 2024, Ningbo, China, <i>Role: Technical Program Committee Chair</i></li>
   </ol>
 <h1 style="font-size:22px">Distinguished Talks:</h1>
@@ -67,6 +69,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Computer Technology and Biomedical Science (CTBS 2026), 14 - 16 August 2026, Beijing, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Machine Learning and Embodied Intelligence (ICMLEI 2026), 11–13 December 2026, Nanjing, China</li>
   <li style="line-height:130%"><i><b>Publication Chair</b></i>: 5th International Symposium on Sensor Technology and Control (ISSTC 2026), 16 – 18 October 2026, Qingdao, China</li>
   <li style="line-height:130%"><i><b>Track Chair</b></i>: 11th International Conference on Frontiers of Signal Processing (ICFSP 2026), 10-12 June 2026, Toulouse, France</li>
@@ -203,6 +206,7 @@ University of Cambridge, UK</li>
   <li style="line-height:130%">IEEE Transactions on Mobile Computing</li>
   <li style="line-height:130%">IEEE Transactions on Network Science and Engineering</li>
   <li style="line-height:130%">IEEE Transactions on Sustainable Computing</li>
+  <li style="line-height:130%">IEEE Journal of Biomedical and Health Informatics</li>
   <li style="line-height:130%">IEEE Systems Journal</li>
   <li style="line-height:130%">IEEE Sensors Journal</li>
   <li style="line-height:130%">IEEE Internet of Things Journal</li>
