@@ -70,20 +70,20 @@ redirect_from:
   <li style="line-height:130%">Feiyang Sun, “βFSCM: An Enhanced Food Supply Chain Management System Using Hybrid Blockchain”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
   <li style="line-height:130%">Hangqi Wan, “Development of a Dynamic NDN Naming Scheme for Efficient and Fast FIB Lookup to Improve the Network Performance”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
   <li style="line-height:130%">Maksim Kozlov, “Blockchain Consensus Protocol for Resource Constrained Internet of Things (IoT) Devices”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
-  <li style="line-height:130%">Puttipatt INGKASIT, “Development of an Efficient Control System for Smart Home”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
-  <li style="line-height:130%">Yuanli Zhu, “Living Cost Analysis Based Accurate Salary Estimation Scheme by Using BigData Technique”, School of Computer Science, University of Nottingham Ningbo China, 2023-24</li>
-  <li style="line-height:130%">Haoran Cheng, “Development of an integrated architecture of Programmable Switches and Sketch Abstractions for Detections of Distributed Denial-of-Services”, School of Computer Science, University of Nottingham Ningbo China, 2022-23</li>
-  <li style="line-height:130%">Zhuoran Bi, “Real-Time Blood Glucose Prediction and Hypoglycemia Detection for Diabetic Patients Using Multi-model Machine Learning Technique”, School of Computer Science, University of Nottingham Ningbo China, 2022 - 23</li>
-  <li style="line-height:130%">Tianyi Ma, “Mental Health Assessment and Disease Prediction through Combination of Facial Expression and Voice”, School of Computer Science, University of Nottingham Ningbo China, 2022-23</li>
-  <li style="line-height:130%">Yujie Chen, “A Blockchain-based Decentralised Web Hosting System using Peer-to-Peer File-Sharing Networks”, School of Computer Science, University of Nottingham Ningbo China, 2022-23</li>
-  <li style="line-height:130%">Li-Kai WU, “Blockchain-based Fake Product Identification System”, School of Computer Science, University of Nottingham Ningbo China, 2021-22</li>
-  <li style="line-height:130%">Longwen HU, “Design of Blockchain-based Secure Health Status Monitoring System Using Decentralized Machine Learning Technology”, School of Computer Science, University of Nottingham Ningbo China, 2021-22</li>
-  <li style="line-height:130%">Dongchi Li, “B-Spot: Blockchain and Steganography based Robust and Secure Photo Transmission Mechanism”, School of Computer Science, University of Nottingham Ningbo China, 2020-21</li>
-  <li style="line-height:130%">Xiangning LIANG, “Robust and Secure File Transmission Through Video Streaming Using Steganography and Blockchain”, School of Computer Science, University of Nottingham Ningbo China, 2020-21</li>
+  <li style="line-height:130%">Puttipatt INGKASIT, “Development of an Efficient Control System for Smart Home”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
+  <li style="line-height:130%">Yuanli Zhu, “Living Cost Analysis Based Accurate Salary Estimation Scheme by Using BigData Technique”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
+  <li style="line-height:130%">Haoran Cheng, “Development of an integrated architecture of Programmable Switches and Sketch Abstractions for Detections of Distributed Denial-of-Services”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
+  <li style="line-height:130%">Zhuoran Bi, “Real-Time Blood Glucose Prediction and Hypoglycemia Detection for Diabetic Patients Using Multi-model Machine Learning Technique”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
+  <li style="line-height:130%">Tianyi Ma, “Mental Health Assessment and Disease Prediction through Combination of Facial Expression and Voice”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
+  <li style="line-height:130%">Yujie Chen, “A Blockchain-based Decentralised Web Hosting System using Peer-to-Peer File-Sharing Networks”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
+  <li style="line-height:130%">Li-Kai WU, “Blockchain-based Fake Product Identification System”, School of Computer Science, University of Nottingham Ningbo China, 2021-2022</li>
+  <li style="line-height:130%">Longwen HU, “Design of Blockchain-based Secure Health Status Monitoring System Using Decentralized Machine Learning Technology”, School of Computer Science, University of Nottingham Ningbo China, 2021-2022</li>
+  <li style="line-height:130%">Dongchi Li, “B-Spot: Blockchain and Steganography based Robust and Secure Photo Transmission Mechanism”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
+  <li style="line-height:130%">Xiangning LIANG, “Robust and Secure File Transmission Through Video Streaming Using Steganography and Blockchain”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
   <li style="line-height:130%">Zhengrui Xue, “Identification of Fake Images on Social Media Platforms Using Big Data Analytics”, School of Computer Science, University of Nottingham Ningbo China, 2020-21</li>
-  <li style="line-height:130%">Zhongyi Wang, “Identifying Covid-19 Fake News Using Deep Learning”, School of Computer Science, University of Nottingham Ningbo China, 2020-21</li>
-  <li style="line-height:130%">Zhenbang YAN, “GUI based Network Simulator”, School of Computer Science, University of Nottingham Ningbo China, 2020-21</li>
-  <li style="line-height:130%">Zhao Peng, “Activity-based home appliance control system”, School of Computer Science, University of Nottingham Ningbo China, 2019-20</li>
+  <li style="line-height:130%">Zhongyi Wang, “Identifying Covid-19 Fake News Using Deep Learning”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
+  <li style="line-height:130%">Zhenbang YAN, “GUI based Network Simulator”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
+  <li style="line-height:130%">Zhao Peng, “Activity-based home appliance control system”, School of Computer Science, University of Nottingham Ningbo China, 2019-2020</li>
   </ol>
   </li>
   </ul> 
