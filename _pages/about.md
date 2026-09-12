@@ -25,6 +25,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[Sep, 2026] Our two papers have been accepted for publication in IEEE TALE 2026</b>.
+<br><br>
 [Aug, 2026] Our paper titled "A survey on Quantum Key Distribution: Foundations and future directions" was accepted in <b>Computer Communications (Elsevier)</b>.
 <br><br>
 [July, 2026] Our paper titled "COCO-QN: An Efficient Content-Aware Congestion Control Mechanism for Maintaining QoS in NDN" was accepted in the <b>IEEE Internet of Things Journal</b>.
