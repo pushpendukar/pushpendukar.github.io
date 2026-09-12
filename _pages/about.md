@@ -25,7 +25,7 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
-[Sep, 2026] Our <b>two</b> papers have been <b>accepted</b> for publication in IEEE TALE 2026</b>.
+[Sep, 2026] Our <b>two</b> papers have been <b>accepted</b> for publication in <b>IEEE TALE 2026</b>.
 <br><br>
 [Aug, 2026] Our paper titled "A survey on Quantum Key Distribution: Foundations and future directions" was accepted in <b>Computer Communications (Elsevier)</b>.
 <br><br>
