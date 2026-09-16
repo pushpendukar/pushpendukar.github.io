@@ -25,6 +25,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[Sep, 2026] Our paper titled "A Survey on the Security of 5G and Beyond Networks in the Post-Quantum Era" has been <b>accepted</b> for publication in <b>Computer Networks (Elsevier)</b>.
+<br><br>
 [Sep, 2026] Our <b>two</b> papers have been <b>accepted</b> for publication in <b>IEEE TALE 2026</b>.
 <br><br>
 [Aug, 2026] Our paper titled "A survey on Quantum Key Distribution: Foundations and future directions" was accepted in <b>Computer Communications (Elsevier)</b>.
