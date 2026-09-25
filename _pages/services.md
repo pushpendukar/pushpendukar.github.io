@@ -58,7 +58,7 @@ redirect_from:
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", International Faculty Development Program, Sharda University, Noida, India, 23rd June 2022</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Intelligent Sensory System for Smart Home Control", International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), Madrid, Spain, 27-29 June 2022</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Algorithms, Microchips and Network Applications (AMNA 2022), Zhuhai, China, 18th February 2022</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Recommendation based approach for personalized control, Visual Comfort & Energy Efficiency in office buildings", International Conference on Computer Graphics, Artificial Intelligence and Data Processing (ICCAID 2021), Harbin, China, 24th December 2021</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Recommendation-based approach for personalized control, Visual Comfort & Energy Efficiency in office buildings", International Conference on Computer Graphics, Artificial Intelligence and Data Processing (ICCAID 2021), Harbin, China, 24th December 2021</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Named Data Networking Based Interoperable and Secure Framework for Heterogeneous IoT Networks", International Conference on Internet of Things and Machine Learning (IoTML 2021), Dalian, China, 17th December 2021</li>
   <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Security Enhancement to Named Data Networking", International Conference on Cyber Warfare, Security & Space Research (SpacSec'21), Jaipur, India, 10th December 2021</li>
   <li style="line-height:130%"><i><b>Invited Talk</b></i>: "Personalized Visual Comfort and Energy Efficiency in Office Buildings", International Conference on Sustainability and Equity: Digital Society, Bhubaneswar, India, 24th November 2020</li>
@@ -97,7 +97,7 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Conference International Advisory Committee Member:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">3rd International Conference on Advanced Computing and Software Engineering (ICACSE 2021), 19-20 February 2021, Sultanpur, Uttar Prades, India.</li>
+  <li style="line-height:130%">3rd International Conference on Advanced Computing and Software Engineering (ICACSE 2021), 19-20 February 2021, Sultanpur, Uttar Pradesh, India.</li>
   <li style="line-height:130%">International Conference on Research and Applications in Artificial Intelligence (RAAI 2020), 19-20 December 2020, Kolkata, India.</li>
   <li style="line-height:130%">International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV 2020), 17-19 January 2020, Jaipur, Rajasthan.</li>
   <li style="line-height:130%">International Conference on Applied Mathematics and Computational Sciences (ICAMCS 2019), 17-19 October 2019, Dehradun, India.</li>
