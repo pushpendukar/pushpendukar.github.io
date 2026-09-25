@@ -41,7 +41,7 @@ redirect_from:
 <ol style="line-height:80%">
   <li style="line-height:130%">Haozhe Geng, "Learner-based Teaching Plan by Considering Individual Mental Health Profile through Social Media Analysis", School of Computer Science, University of Nottingham Ningbo China, 2025 - 2026</li>
   <li style="line-height:130%">Zhaokun Ding, "Behaviour-Adaptive PIT Management for Low-Latency NDN in Vehicular Networks", School of Computer Science, University of Nottingham, UK, 2024 - 2025</li>
-  <li style="line-height:130%">Cheng Yan, "Developing a data secure postal system using Hyperledger Fabric smart contracts", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
+  <li style="line-height:130%">Cheng Yan, "Developing a data-secure postal system using Hyperledger Fabric smart contracts", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Lihong Wei, "Optimization and Performance Evaluation of Dynamic Threshold-Based Handover Mechanism in Intelligent Transportation Systems", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Wenchao Xia, "Lightweight Consensus Algorithms and the Layered Blockchain architecture applied in optimising for Resource-Constrained Devices", School of Computer Science, University of Nottingham, UK, 2023 - 2024</li>
   <li style="line-height:130%">Zongzhe Li, “Blockchain-based secure and trustworthy Postal System”, School of Computer Science, University of Nottingham, UK, 2022 - 2023</li>
@@ -71,18 +71,18 @@ redirect_from:
   <li style="line-height:130%">Hangqi Wan, “Development of a Dynamic NDN Naming Scheme for Efficient and Fast FIB Lookup to Improve the Network Performance”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
   <li style="line-height:130%">Maksim Kozlov, “Blockchain Consensus Protocol for Resource Constrained Internet of Things (IoT) Devices”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
   <li style="line-height:130%">Puttipatt INGKASIT, “Development of an Efficient Control System for Smart Home”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
-  <li style="line-height:130%">Yuanli Zhu, “Living Cost Analysis Based Accurate Salary Estimation Scheme by Using BigData Technique”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
-  <li style="line-height:130%">Haoran Cheng, “Development of an integrated architecture of Programmable Switches and Sketch Abstractions for Detections of Distributed Denial-of-Services”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
+  <li style="line-height:130%">Yuanli Zhu, “Living Cost Analysis Based on Accurate Salary Estimation Scheme by Using BigData Technique”, School of Computer Science, University of Nottingham Ningbo China, 2023-2024</li>
+  <li style="line-height:130%">Haoran Cheng, “Development of an integrated architecture of Programmable Switches and Sketch Abstractions for Detection of Distributed Denial-of-Service”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
   <li style="line-height:130%">Zhuoran Bi, “Real-Time Blood Glucose Prediction and Hypoglycemia Detection for Diabetic Patients Using Multi-model Machine Learning Technique”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
   <li style="line-height:130%">Tianyi Ma, “Mental Health Assessment and Disease Prediction through Combination of Facial Expression and Voice”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
   <li style="line-height:130%">Yujie Chen, “A Blockchain-based Decentralised Web Hosting System using Peer-to-Peer File-Sharing Networks”, School of Computer Science, University of Nottingham Ningbo China, 2022-2023</li>
   <li style="line-height:130%">Li-Kai WU, “Blockchain-based Fake Product Identification System”, School of Computer Science, University of Nottingham Ningbo China, 2021-2022</li>
   <li style="line-height:130%">Longwen HU, “Design of Blockchain-based Secure Health Status Monitoring System Using Decentralized Machine Learning Technology”, School of Computer Science, University of Nottingham Ningbo China, 2021-2022</li>
-  <li style="line-height:130%">Dongchi Li, “B-Spot: Blockchain and Steganography based Robust and Secure Photo Transmission Mechanism”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
+  <li style="line-height:130%">Dongchi Li, “B-Spot: Blockchain and Steganography-based Robust and Secure Photo Transmission Mechanism”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
   <li style="line-height:130%">Xiangning LIANG, “Robust and Secure File Transmission Through Video Streaming Using Steganography and Blockchain”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
   <li style="line-height:130%">Zhengrui Xue, “Identification of Fake Images on Social Media Platforms Using Big Data Analytics”, School of Computer Science, University of Nottingham Ningbo China, 2020-21</li>
   <li style="line-height:130%">Zhongyi Wang, “Identifying Covid-19 Fake News Using Deep Learning”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
-  <li style="line-height:130%">Zhenbang YAN, “GUI based Network Simulator”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
+  <li style="line-height:130%">Zhenbang YAN, “GUI-based Network Simulator”, School of Computer Science, University of Nottingham Ningbo China, 2020-2021</li>
   <li style="line-height:130%">Zhao Peng, “Activity-based home appliance control system”, School of Computer Science, University of Nottingham Ningbo China, 2019-2020</li>
   </ol>
   </li>
@@ -107,7 +107,7 @@ redirect_from:
 <ul>
   <li><h1 style="font-size:18px">Completed</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%">Yijun Sun and Hanbo Zhao, "Edge Computing in Content Centric Network (CCN)", School of Computer Science, University of Nottingham Ningbo China, June – August, 2026</li>
+  <li style="line-height:130%">Yijun Sun and Hanbo Zhao, "Edge Computing in Content Centric Network (CCN)", School of Computer Science, University of Nottingham Ningbo China, June – August 2026</li>
   <li style="line-height:130%">Yijun Sun, Yuxuan Si, Yue Wu, and Qiaoyi Zhu, "Interoperability and Softwarization of Content Centric Networking (CCN) for Internet of Things", School of Computer Science, University of Nottingham Ningbo China, March – June, 2026</li>
   <li style="line-height:130%">Yan Ge, Zefei Xie, and Junxi Wu, "Artificial Intelligence in Content Centric Networking", School of Computer Science, University of Nottingham Ningbo China, June - August 2024</li>
   <li style="line-height:130%">Shuhang Kong and Huayi Zhang, "Blockchain-based Content-Centric Networking", School of Computer Science, University of Nottingham Ningbo China, June - August 2024</li>
@@ -117,7 +117,7 @@ redirect_from:
   <li style="line-height:130%">Xinyi Wang and Yifei Miao, “Recommender System Applications”, School of Computer Science, University of Nottingham Ningbo China, March - June 2022</li>
   <li style="line-height:130%">Lin Chen, Weixue Sheng, “An efficient technique for identification of cache pollution attack in NDN-based remote health monitoring system using rank comparison”, School of Computer Science, University of Nottingham Ningbo China, February-August 2021</li>
   <li style="line-height:130%">Jiayi Shi, Kewei Chen, “DMACN - A Dynamic Multi-Attribute Caching Mechanism for NDN-Based Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China, February-August 2021.</li>
-  <li style="line-height:130%">Rubin Chen, Yukai Qian, “Efficient Technique for Real-time Communication Between Doctor and Patients in a NDN based Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China, February-August 2021.</li>
+  <li style="line-height:130%">Rubin Chen, Yukai Qian, “Efficient Technique for Real-time Communication Between Doctor and Patients in an NDN-based Remote Health Monitoring System”, School of Computer Science, University of Nottingham Ningbo China, February-August 2021.</li>
    <li style="line-height:130%">Hanyu Su, Siqi Yang, Yuning SUN, Hongru ZHAO, “Estimation of salary increment of employees in an organization by living cost analysis using BigData”, School of Computer Science, University of Nottingham Ningbo China, June-August 2021</li>
   <li style="line-height:130%">Leyang Hu, Yichen Huang, “An Integrated Framework for a Single Device to Combine Face Recognition and Covid-19 Detection Using Thermal Infrared Imagery”, School of Computer Science, University of Nottingham Ningbo China, June-August 2021</li>
   <li style="line-height:130%">Yihan Zhang, Xiyu Du, Peiyu Wang, “βFSCM: An Enhanced Food Supply Chain Management System Using Hybrid Blockchain”, School of Computer Science, University of Nottingham Ningbo China, June-August 2021</li>
