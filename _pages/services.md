@@ -181,8 +181,8 @@ University of Cambridge, UK</li>
   <li style="line-height:130%">Faculty Director of Academic Development and Outreach, Faculty of Science and Engineering, University of Nottingham Ningbo China, 2025 – Present</li>
   <li style="line-height:130%">Faculty Director of Student Engagement and Feedback, Faculty of Science and Engineering, University of Nottingham Ningbo China, 2022 – Present</li>
   <li style="line-height:130%">PGCHE faculty advisor of FoSE, Faculty of Science and Engineering, University of Nottingham Ningbo China, 2023 – Present.</li>
-  <li style="line-height:130%">The BCS Accreditation Coordinator, School of Computer Science, University of Nottingham Ningbo China, 2023 – Present</li>
   <li style="line-height:130%">Learning Community Forum (LCF) Coordinator, School of Computer Science, University of Nottingham Ningbo China, 2023 - Present</li>
+  <li style="line-height:130%">The BCS Accreditation Coordinator, School of Computer Science, University of Nottingham Ningbo China, 2023 – 2025</li>
   <li style="line-height:130%">Computer Science UG Course Director, School of Computer Science, University of Nottingham Ningbo China, 2023-2025</li>
   <li style="line-height:130%">Member of the Admission and International Relations Committee at the University of Nottingham Ningbo China, 2020 - 2021</li>
   <li style="line-height:130%">Member of EC Committee, School of Computer Science, University of Nottingham Ningbo China, 2020 - 2021</li>
