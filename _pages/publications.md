@@ -107,6 +107,12 @@ author_profile: true
   <li>G. G. Md. Nawaz Ali, Md. N. A. Rahim, and <b>P. Kar</b>, “Vehicular Ad-Hoc Networks: Applications and Technology”, <i>Nova science publishers</i>, September 2020, ISBN: 978-1-53618-038-1 [<a href="https://novapublishers.com/shop/vehicular-ad-hoc-networks-applications-and-technology/" target="_blank" rel="noopener noreferrer">Link</a>]</li>
 </ol>
     </li>
+   <li>
+   <h1 style="font-size:18px">Proceedings:</h1>
+<ol>
+  <li><b>P. Kar</b>, J. Li, Y. Qiu, “Proceedings of the 2023 International Conference on Image, Algorithms and Artificial Intelligence (ICIAAI 2023)”, Advances in Computer Science Research series, Atlantis Press, ISBN: 978-9464632996 [<a href="[https://www.taylorfrancis.com/books/edit/10.1201/9781003319122/recommender-systems-sujoy-datta-monideepa-roy-pushpendu-kar](https://www.amazon.com/Proceedings-International-Conference-Algorithms-Intelligence/dp/9464632992/ref=sr_1_7?dib=eyJ2IjoiMSJ9.IpK3twf1bqqmb280pTx35S3DLgzyd9yJczhwXCD4SYZV8bA7ck1w_XG_etcrDJUZKd770MnD5L_8JVlZ_XqOQpeZNq1vVTydt58UKd2RzGBvR-6JZLPcU_MBQQXOida_ulGwrydbIIiAVNje1tsWZpTVps9LzGVrtIZF5S5ZESgJt7Z3SHfzkGq3bCi73mVUFi8gHXqRVY2TW_K0nTnNgSbxyO0mLUL9KnPn2gcnWfI.5hXJfdz5vbGb2Vd6SwjFJwakqe5bKVXgOPWR_rEhuXU&dib_tag=se&keywords=pushpendu+kar&qid=1791883283&s=books&sr=1-7-catcorr)" target="_blank" rel="noopener noreferrer">Link</a>]</li>
+</ol>
+    </li>
 </ul>
 <h1 style="font-size:22px">Book Chapters:</h1>
 <ol>
