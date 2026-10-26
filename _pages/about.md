@@ -25,6 +25,8 @@ redirect_from:
 <!--YOUR SCROLL CONTENT HERE-->
 <p align="left" class="infotxt" >
 
+[October, 2026] Delivered a <b>Keynote Speech</b> titled “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: A Deep Learning-Based Approach” at the International Conference on Artificial Intelligence, New Materials and New Energy (AINMNE 2026), Xiangtan, China, on 24th October 2026
+<br><br>
 [Oct, 2026] Our paper titled "MDI-QKD-Assisted Quantum-Safe User Plane for 5G and Beyond Networks" has been <b>accepted</b> for publication in <b>SEQUENCE 2026</b>, Ostrava, Czech Republic.
 <br><br>
 [Sep, 2026] Our paper titled "A Blockchain-Based Consent Management System with Hybrid Transformer for Privacy-Preserving Healthcare AI" has been <b>accepted</b> for publication in <b>IEEE Blockchain 2026</b>.
@@ -41,9 +43,9 @@ redirect_from:
 <br><br>
 [May, 2026] Elevated to the <b>Senior Member</b> of the Association for Computing Machinery (<b>ACM</b>), USA on 2nd May 2026
 <br><br>
-[April, 2026] Delivered <b>Plenary Speech</b> titled “Blockchain-based Distributed Web Management” at the 10th International Conference on Decision Science and Management (ICDSM 2026), Hong Kong, China, on 25th April 2026
+[April, 2026] Delivered a <b>Plenary Speech</b> titled “Blockchain-based Distributed Web Management” at the 10th International Conference on Decision Science and Management (ICDSM 2026), Hong Kong, China, on 25th April 2026
 <br><br>
-[March, 2026] My project titled "AI-driven personalized learning paths" has been awarded for the China University Industry-University-Research Innovation Fund for the AI+Cybersecurity Governance Technology Special Project research grant from the Ministry of Education China, Sail New Technology (Beijing) Co. Ltd., and Qi An Xin Technology Group Co. Ltd. 
+[March, 2026] My project titled "AI-driven personalized learning paths" has been awarded the China University Industry-University-Research Innovation Fund for the AI+Cybersecurity Governance Technology Special Project research grant from the Ministry of Education China, Sail New Technology (Beijing) Co. Ltd., and Qi An Xin Technology Group Co. Ltd. 
 <br><br>
 [January, 2026] Received <b>Faculty Star in Building International Network</b> award from the Faculty of Science and Engineering, University of Nottingham Ningbo China.
 <br><br>
