@@ -16,8 +16,8 @@ redirect_from:
 </ol>
 <h1 style="font-size:22px">Professional Institution Leadership:</h1>
 <ol style="line-height:90%">
-  <li style="line-height:130%">International Professional Registration Advisor (IPRA), The Institution of Engineering and Technology (IET), UK, 2024 - Present.</li>
-  <li style="line-height:130%">Professional Registration Interviewer (PRI) for CEng/IEng, The Institution of Engineering and Technology (IET), UK, 2024 - Present.</li>
+  <li style="line-height:130%"><b><i>International Professional Registration Advisor (IPRA)</i></b>, The Institution of Engineering and Technology (IET), UK, 2024 - Present.</li>
+  <li style="line-height:130%"><b><i>Professional Registration Interviewer (PRI) for CEng/IEng</i></b>, The Institution of Engineering and Technology (IET), UK, 2024 - Present.</li>
 </ol>
 <h1 style="font-size:22px">Research Laboratory Development:</h1>
 <ol style="line-height:90%">
@@ -45,48 +45,48 @@ redirect_from:
   </ol>
 <h1 style="font-size:22px">Distinguished Talks:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: A Deep Learning-Based Approach”, International Conference on Artificial Intelligence, New Materials and New Energy (AINMNE 2026), Xiangtan, China, 24th October 2026</li>
-  <li style="line-height:130%"><i><b>Special Guest Speech</b></i>: “Learner-Based Teaching Plan Through AI-Assisted Analysis of Students' Mental Health Using Social Media Data”, Asia-Pacific Artificial Intelligence Education Conference (AAIEC 2026), Fuzhou, China, 23rd May 2026</li>
-  <li style="line-height:130%"><i><b>Plenary Speech</b></i>: “Blockchain-based Distributed Web Management”, 10th International Conference on Decision Science and Management (ICDSM 2026), Hong Kong, China, 25th April 2026</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Named Data Networking: Future of the Internet”, 3rd International Conference on Artificial Intelligence, Systems and Network Security (AISNS 2025), Xiangtan, China, 27th December 2025</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: “Named Data Networking: Future of the Internet”, International Conference on Data Science and Edge Computing (ICDSEC 2025), Changsha, China, 7th December 2025</li>
-  <li style="line-height:130%"><i><b>Invited Talk</b></i>: “Identifying COVID-19 Fake News on Social Networks Using Deep Learning: You will not know what happens next!”, 8th International Conference on Mathematical Models & Computational Techniques in Science & Engineering (MMCTSE 2024), Athens, Greece, 02nd June 2024</li>
-  <li style="line-height:130%"><i><b>Invited Talk</b></i>: “Smart Home Control Through Activity Recognition”, Techno College of Engineering Agartala, Tripura, India, 22nd May 2024</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Enhancing NDN Security: Name Signature Lookup System", 13th International Conference of Information and Communication Technology (ICTech 2024), Xiamen, China, 13th April 2024</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Image, Algorithms and Artificial Intelligence (ICIAAI 2023), Singapore, 11th August 2023</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Mechatronics and Automation Technology (ICMAT 2022), Wuhan, China, 29th October 2022</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA 2022), Osaka, Japan, 26th August 2022</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", International Faculty Development Program, Sharda University, Noida, India, 23rd June 2022</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Intelligent Sensory System for Smart Home Control", International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), Madrid, Spain, 27-29 June 2022</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Activity Recognition Based Smart Home Control System", International Conference on Algorithms, Microchips and Network Applications (AMNA 2022), Zhuhai, China, 18th February 2022</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Recommendation-based approach for personalized control, Visual Comfort & Energy Efficiency in office buildings", International Conference on Computer Graphics, Artificial Intelligence and Data Processing (ICCAID 2021), Harbin, China, 24th December 2021</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Named Data Networking Based Interoperable and Secure Framework for Heterogeneous IoT Networks", International Conference on Internet of Things and Machine Learning (IoTML 2021), Dalian, China, 17th December 2021</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Security Enhancement to Named Data Networking", International Conference on Cyber Warfare, Security & Space Research (SpacSec'21), Jaipur, India, 10th December 2021</li>
-  <li style="line-height:130%"><i><b>Invited Talk</b></i>: "Personalized Visual Comfort and Energy Efficiency in Office Buildings", International Conference on Sustainability and Equity: Digital Society, Bhubaneswar, India, 24th November 2020</li>
-  <li style="line-height:130%"><i><b>Invited Talk</b></i>: "Personalized Visual Comfort and Energy Efficiency in Office Buildings", co-organized by IEEE Kharagpur Section and National Academy of Sciences India (NASI) Kharagpur Chapter, 16th July 2020</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Named Data Networking: towards data-centric, fast and secure new generation Internet technology", 5th International Conference on Advanced Computing and Intelligent Engineering (ICACIE 2020), Mauritius, 25th June 2020</li>
-  <li style="line-height:130%"><i><b>Keynote Speech</b></i>: "Named Data Networking: towards data-centric, fast and secure new generation Internet technology", 2nd International Conference on Information Technology and Electrical Engineering (ICITEE 2019), Changsha, Hunan, China, 6th December 2019</li>
-   <li style="line-height:130%"><i><b>Invited Talk</b></i>: "Underwater Sensor Network Protocols at Various Layers", Faculty Development Program, Haldia Institute of Technology, Haldia, India, 4th August 2016</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, “Intelligent Traffic Prediction by Combining Weather and Road Traffic Condition Information: A Deep Learning-Based Approach”, International Conference on Artificial Intelligence, New Materials and New Energy (AINMNE 2026), Xiangtan, China, 24th October 2026</li>
+  <li style="line-height:130%"><i><b>Special Guest Speech</b></i>, “Learner-Based Teaching Plan Through AI-Assisted Analysis of Students' Mental Health Using Social Media Data”, Asia-Pacific Artificial Intelligence Education Conference (AAIEC 2026), Fuzhou, China, 23rd May 2026</li>
+  <li style="line-height:130%"><i><b>Plenary Speech</b></i>, “Blockchain-based Distributed Web Management”, 10th International Conference on Decision Science and Management (ICDSM 2026), Hong Kong, China, 25th April 2026</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, “Named Data Networking: Future of the Internet”, 3rd International Conference on Artificial Intelligence, Systems and Network Security (AISNS 2025), Xiangtan, China, 27th December 2025</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, “Named Data Networking: Future of the Internet”, International Conference on Data Science and Edge Computing (ICDSEC 2025), Changsha, China, 7th December 2025</li>
+  <li style="line-height:130%"><i><b>Invited Talk</b></i>, “Identifying COVID-19 Fake News on Social Networks Using Deep Learning: You will not know what happens next!”, 8th International Conference on Mathematical Models & Computational Techniques in Science & Engineering (MMCTSE 2024), Athens, Greece, 02nd June 2024</li>
+  <li style="line-height:130%"><i><b>Invited Talk</b></i>, “Smart Home Control Through Activity Recognition”, Techno College of Engineering Agartala, Tripura, India, 22nd May 2024</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Enhancing NDN Security: Name Signature Lookup System", 13th International Conference of Information and Communication Technology (ICTech 2024), Xiamen, China, 13th April 2024</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Activity Recognition Based Smart Home Control System", International Conference on Image, Algorithms and Artificial Intelligence (ICIAAI 2023), Singapore, 11th August 2023</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Activity Recognition Based Smart Home Control System", International Conference on Mechatronics and Automation Technology (ICMAT 2022), Wuhan, China, 29th October 2022</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", 2nd International Conference on Computer, Remote Sensing, and Aerospace (CRSA 2022), Osaka, Japan, 26th August 2022</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Name Signature Lookup System for Enhanced Security of NDN-based IoT Networks", International Faculty Development Program, Sharda University, Noida, India, 23rd June 2022</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Activity Recognition Based Intelligent Sensory System for Smart Home Control", International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), Madrid, Spain, 27-29 June 2022</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Activity Recognition Based Smart Home Control System", International Conference on Algorithms, Microchips and Network Applications (AMNA 2022), Zhuhai, China, 18th February 2022</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Recommendation-based approach for personalized control, Visual Comfort & Energy Efficiency in office buildings", International Conference on Computer Graphics, Artificial Intelligence and Data Processing (ICCAID 2021), Harbin, China, 24th December 2021</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Named Data Networking Based Interoperable and Secure Framework for Heterogeneous IoT Networks", International Conference on Internet of Things and Machine Learning (IoTML 2021), Dalian, China, 17th December 2021</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Security Enhancement to Named Data Networking", International Conference on Cyber Warfare, Security & Space Research (SpacSec'21), Jaipur, India, 10th December 2021</li>
+  <li style="line-height:130%"><i><b>Invited Talk</b></i>, "Personalized Visual Comfort and Energy Efficiency in Office Buildings", International Conference on Sustainability and Equity: Digital Society, Bhubaneswar, India, 24th November 2020</li>
+  <li style="line-height:130%"><i><b>Invited Talk</b></i>, "Personalized Visual Comfort and Energy Efficiency in Office Buildings", co-organized by IEEE Kharagpur Section and National Academy of Sciences India (NASI) Kharagpur Chapter, 16th July 2020</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Named Data Networking: towards data-centric, fast and secure new generation Internet technology", 5th International Conference on Advanced Computing and Intelligent Engineering (ICACIE 2020), Mauritius, 25th June 2020</li>
+  <li style="line-height:130%"><i><b>Keynote Speech</b></i>, "Named Data Networking: towards data-centric, fast and secure new generation Internet technology", 2nd International Conference on Information Technology and Electrical Engineering (ICITEE 2019), Changsha, Hunan, China, 6th December 2019</li>
+   <li style="line-height:130%"><i><b>Invited Talk</b></i>, "Underwater Sensor Network Protocols at Various Layers", Faculty Development Program, Haldia Institute of Technology, Haldia, India, 4th August 2016</li>
 </ol>
 <h1 style="font-size:22px">Conference Chair:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Computer Technology and Biomedical Science (CTBS 2026), 14 - 16 August 2026, Beijing, China</li>
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Machine Learning and Embodied Intelligence (ICMLEI 2026), 11–13 December 2026, Nanjing, China</li>
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 5th International Symposium on Sensor Technology and Control (ISSTC 2026), 16 – 18 October 2026, Qingdao, China</li>
-  <li style="line-height:130%"><i><b>Track Chair</b></i>: 11th International Conference on Frontiers of Signal Processing (ICFSP 2026), 10-12 June 2026, Toulouse, France</li>
-  <li style="line-height:130%"><i><b>General Chair</b></i>: 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India</li>
-  <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), 10-12 January 2026, Rimini, Italy</li>
-  <li style="line-height:130%"><i><b>Track Chair</b></i>: 10th International Conference on Frontiers of Signal Processing (ICFSP 2025), 10-12 September 2025, Paris, France</li>
-  <li style="line-height:130%"><i><b>General Chair</b></i>: Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2025, Rimini, Italy</li>
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15-17 March 2024, Guangzhou, China</li>
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.</li>
-  <li style="line-height:130%"><i><b>Program Committee Chair</b></i>: International Conference on Images, Algorithms and Artificial Intelligence (ICIAAI 2023), 11 – 13 Aug 2023, Singapore</li>
-  <li style="line-height:130%"><i><b>General Chair</b></i>: 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain.</li>
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.</li>
-  <li style="line-height:130%"><i><b>Publication Chair</b></i>: 2nd International Conference on Artificial Intelligence, Virtual Reality and Visualization (AIVRV 2022), 23 - 25 September 2022, Chongqing, China.</li>
-  <li style="line-height:130%"><i><b>General Chair</b></i>: International Conference on Advanced Communications and Machine Intelligence (MICA 2022), 7-9 July 2022, Tamil Nadu, India.</li>
-  <li style="line-height:130%"><i><b>General Chair</b></i>: International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), 27-29 June 2022, Madrid, Spain.</li>
-  <li style="line-height:130%"><i><b>International Advisory Chair</b></i>: 10th International Conference of Information and Communication Technology (ICICT 2020), 24-25 April 2020, Wuhan, Hubei, China.</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, International Conference on Computer Technology and Biomedical Science (CTBS 2026), 14 - 16 August 2026, Beijing, China</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, International Conference on Machine Learning and Embodied Intelligence (ICMLEI 2026), 11–13 December 2026, Nanjing, China</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, 5th International Symposium on Sensor Technology and Control (ISSTC 2026), 16 – 18 October 2026, Qingdao, China</li>
+  <li style="line-height:130%"><i><b>Track Chair</b></i>, 11th International Conference on Frontiers of Signal Processing (ICFSP 2026), 10-12 June 2026, Toulouse, France</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>, 4th International Conference on Advanced Communications and Machine Intelligence (MICA 2025), 22 – 24 December 2025, Tripura, India</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>, Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2026), 10-12 January 2026, Rimini, Italy</li>
+  <li style="line-height:130%"><i><b>Track Chair</b></i>, 10th International Conference on Frontiers of Signal Processing (ICFSP 2025), 10-12 September 2025, Paris, France</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>, Asia-Europe Conference on Cybersecurity, Internet of Things and Soft Computing (CITSC 2025), 10-12 January 2025, Rimini, Italy</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, International Conference on Artificial Intelligence and Computer Information Science (AICIS 2024), 15-17 March 2024, Guangzhou, China</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2023), 3 - 5 November 2023, Leicester, UK.</li>
+  <li style="line-height:130%"><i><b>Program Committee Chair</b></i>, International Conference on Images, Algorithms and Artificial Intelligence (ICIAAI 2023), 11 – 13 Aug 2023, Singapore</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>, 2nd International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2023), 27-29 June 2023, Madrid, Spain.</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, 2nd International Conference on Computer, Internet of Things and Control Engineering (CITCE 2022), 11 - 13 November 2022, Sanya, China.</li>
+  <li style="line-height:130%"><i><b>Publication Chair</b></i>, 2nd International Conference on Artificial Intelligence, Virtual Reality and Visualization (AIVRV 2022), 23 - 25 September 2022, Chongqing, China.</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>, International Conference on Advanced Communications and Machine Intelligence (MICA 2022), 7-9 July 2022, Tamil Nadu, India.</li>
+  <li style="line-height:130%"><i><b>General Chair</b></i>, International Conference on 3D Immersion, Interaction and Multi-sensory Experiences (ICDIIME 2022), 27-29 June 2022, Madrid, Spain.</li>
+  <li style="line-height:130%"><i><b>International Advisory Chair</b></i>, 10th International Conference of Information and Communication Technology (ICICT 2020), 24-25 April 2020, Wuhan, Hubei, China.</li>
 </ol>
 <h1 style="font-size:22px">Conference Session Chair:</h1>
 <ol style="line-height:80%">
@@ -174,7 +174,7 @@ University of Cambridge, UK</li>
 <h1 style="font-size:22px">Short Term Couse Organization:</h1>
 <ol style="line-height:80%">
   <li style="line-height:130%"><i><b>Main organizer</b></i>: China Exchange Program for Young International (CEP) at the Faculty of Science and Technology, University of Nottingham Ningbo China, supported by the China International Talent Exchange Foundation (CITEF), 2 - 27 March 2026</li>
-  <li style="line-height:130%"><i><b>Organizing team member</b></i>: International Summer and Winter Term (ISWT) course at the Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
+  <li style="line-height:130%"><i><b>Organizing team member</b></i>: International Summer and Winter Term (ISWT) course, Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
   <li style="line-height:130%"><i><b>Organizing team member</b></i>: Short Term Course on Object-Oriented Programming and Data Structure using C++, Department of Computer Science and Engineering, IIT Kharagpur, 2nd - 20th June 2014</li>
 </ol>
 <h1 style="font-size:22px">Administrative Duties:</h1>
@@ -192,12 +192,13 @@ University of Cambridge, UK</li>
 </ol>
 <h1 style="font-size:22px">PhD Thesis Examiner:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><b><i>External Examiner</i>:</b> Arup Sarkar, “Secure Healthcare System Using Blockchain”, School of Computer Engineering, KIIT Deemed University, Odisha, India, 2025</li>
-  <li style="line-height:130%"><b><i>External Examiner</i>:</b> Syed Ali Hussain, “Design & Implementation of an Efficient Low Power Hybrid LIF Neuron Architecture with Spiking Neural Network for Neuromorphic Applications”, School of Engineering and Sciences, SRM University - AP, Andhra Pradesh, India, 2025</li>
-  <li style="line-height:130%"><b><i>External Examiner</i>:</b> Sushil Kumar Mahapatra, “An IoE Based Approach to Improve Educational Outcomes in Virtual Classroom Environment”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2025</li>
-  <li style="line-height:130%"><b><i>External Examiner</i>:</b> Padmini Mansingh, “Health Care Data Management Using Big Data Analytics”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2024</li>
-  <li style="line-height:130%"><b><i>Internal Examiner</i>:</b> Yinglun LI, “Smart Health at Home: Multi-Sensor Monitoring and Disease Detection System for Cardiac Health Using Wearable Technology”, School of Computer Science, University of Nottingham Ningbo China, 2025</li>
-  <li style="line-height:130%"><b><i>Internal Examiner</i>:</b> Lincan Li, “Mobile Edge Cache Technique Under Radio Access Network for The Next Generation of Communication Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2021</li>
+  <li style="line-height:130%"><b><i>External Examiner</i></b>, Supriya, “Detection of Clickbait News Article using Classification Models”, National Institute of Technology (NIT) Patna, India, 2026</li>
+  <li style="line-height:130%"><b><i>External Examiner</i></b>, Arup Sarkar, “Secure Healthcare System Using Blockchain”, School of Computer Engineering, KIIT Deemed University, Odisha, India, 2025</li>
+  <li style="line-height:130%"><b><i>External Examiner</i></b>, Syed Ali Hussain, “Design & Implementation of an Efficient Low Power Hybrid LIF Neuron Architecture with Spiking Neural Network for Neuromorphic Applications”, School of Engineering and Sciences, SRM University - AP, Andhra Pradesh, India, 2025</li>
+  <li style="line-height:130%"><b><i>External Examiner</i></b>, Sushil Kumar Mahapatra, “An IoE Based Approach to Improve Educational Outcomes in Virtual Classroom Environment”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2025</li>
+  <li style="line-height:130%"><b><i>External Examiner</i></b>, Padmini Mansingh, “Health Care Data Management Using Big Data Analytics”, Department of Computer Science & Engineering, Siksha ‘O’ Anusandhan (Deemed to be University), Odisha, India, 2024</li>
+  <li style="line-height:130%"><b><i>Internal Examiner</i></b>, Yinglun LI, “Smart Health at Home: Multi-Sensor Monitoring and Disease Detection System for Cardiac Health Using Wearable Technology”, School of Computer Science, University of Nottingham Ningbo China, 2025</li>
+  <li style="line-height:130%"><b><i>Internal Examiner</i></b>, Lincan Li, “Mobile Edge Cache Technique Under Radio Access Network for The Next Generation of Communication Networks”, Department of Electrical and Electronic Engineering, University of Nottingham Ningbo China, 2021</li>
 </ol>
 <h1 style="font-size:22px">Paper Review:</h1>
 <ol style="line-height:80%">
