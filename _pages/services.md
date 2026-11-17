@@ -173,9 +173,9 @@ University of Cambridge, UK</li>
 </ol>
 <h1 style="font-size:22px">Short Term Couse Organization:</h1>
 <ol style="line-height:80%">
-  <li style="line-height:130%"><i><b>Main organizer</b></i>: China Exchange Program for Young International (CEP) at the Faculty of Science and Technology, University of Nottingham Ningbo China, supported by the China International Talent Exchange Foundation (CITEF), 2 - 27 March 2026</li>
-  <li style="line-height:130%"><i><b>Organizing team member</b></i>: International Summer and Winter Term (ISWT) course, Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
-  <li style="line-height:130%"><i><b>Organizing team member</b></i>: Short Term Course on Object-Oriented Programming and Data Structure using C++, Department of Computer Science and Engineering, IIT Kharagpur, 2nd - 20th June 2014</li>
+  <li style="line-height:130%"><i><b>Main organizer</b></i>, China Exchange Program for Young International (CEP) at the Faculty of Science and Technology, University of Nottingham Ningbo China, supported by the China International Talent Exchange Foundation (CITEF), 2 - 27 March 2026</li>
+  <li style="line-height:130%"><i><b>Organizing team member</b></i>, International Summer and Winter Term (ISWT) course, Department of Computer Science and Engineering, IIT Kharagpur, June 2015.</li>
+  <li style="line-height:130%"><i><b>Organizing team member</b></i>, Short Term Course on Object-Oriented Programming and Data Structure using C++, Department of Computer Science and Engineering, IIT Kharagpur, 2nd - 20th June 2014</li>
 </ol>
 <h1 style="font-size:22px">Administrative Duties:</h1>
 <ol style="line-height:80%">
